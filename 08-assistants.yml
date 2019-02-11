@@ -1,0 +1,767 @@
+---
+- star: ZiWei
+  palace: Career
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    * Indicates a strong predestined affinity with helpers and servants in your life. Helpers will bring you success and prosperity.
+    * Your helpers (team players) may outshine you (coach), but you will receive the benefit. It will be wise to share the profits.
+    * You are predestined to play second string. You are karmically best suited to being an assistant.
+    * Being an assistant is your place of true power.
+
+
+- star: ZiWei
+  palace: Career
+  inHouseWith:
+    - - TianFu
+      - TianXiang
+      - TianCun
+      - WenChang
+      - WenQu
+      - TianYue
+      - ZuoFu
+      - YouBi
+  auspices: Exalted
+  comments: |
+    * You will be helped by others. Your life will be supported by capable and generous assistants.
+    * You will work in service to others.
+    * You will work in public service, the military or academia.
+    * You will have many complex relationships outside your family. The manifestation of your beneficent ancestors (good karma from previous lives) appears here.
+    * You will succeed a capable person (replace them after serving them). You are part of a dynasty, spiritual mind-stream or incarnate lineage.
+    * You will be an excellent butler/vallet or housekeeper to a great person.
+
+- star: ZiWei
+  palace: Career
+  inHouseWith:
+    - - TanLang
+      - PoJun
+      - QiSha
+  auspices: Exalted
+  comments: |
+    * You will serve others as a protector.
+    * You will protect others but they are not grateful.
+    * You will be over-protective. Subordinates resent you.
+    * Your reputation will be temporarily ruined by what appears to be a subordinate assistant.
+    * You choose bad helpers and fail in your work. They undermine your success. This is temporary but disheartening.
+    * You are suited to be a body guard for a great person – secret service.
+
+- star: ZiWei
+  palace: Career
+  inHouseWith:
+    - - TanLang
+      - PoJun
+      - QiSha
+  auspices: Positive
+  comments: |
+    * You will serve others as a protector.
+    * You will protect others but they are not grateful.
+    * You will be over-protective. Subordinates resent you.
+    * Your reputation will be temporarily ruined by what appears to be a subordinate assistant.
+    * You choose bad helpers and fail in your work. They undermine your success. This is temporary but disheartening.
+    * You are suited to be a body guard for a great person – secret service.
+
+- star: ZiWei
+  palace: Career
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - DiJie
+      - DiGong
+      - TuoLuo
+  auspices: Mixed
+  comments: |
+    * You will be harsh and/or uneven in your handling of helpers. This will create a series of disappointments.
+    * You mishandle your power over others and they resent you.
+    * You will be demoted to a lesser but more appropriate position in your career.
+
+- star: TianJi
+  palace: Career
+  inHouseWith: []
+  auspices: Negative
+  comments: |
+    * You have shaky predestined affinity with supportive assistants. Some will be helpful, others will be undermining. Your intuition fails to protect you.
+    * Your trusting nature will have bad results in matters pertaining to subordinates.
+    * Unable to read the obvious warning signs, you are easily taken advantage of by inferior people.
+    * You may be paranoid.
+    * You only feel confident working alone (entrepreneur).
+
+- star: TianJi
+  palace: Career
+  inHouseWith:
+    - - TianLiang
+      - TianCun
+      - WenChang
+      - WenQu
+      - TianCun
+      - TianYue
+      - ZuoFu
+      - YouBi
+  auspices: Neutral
+  comments: |
+    * Your relationships with helpers develops slowly in your life.
+    * You avoid relying on others until midlife (48).
+    * You work alone successfully. Your success is moderate.
+
+- star: TianJi
+  palace: Career
+  inHouseWith:
+    - - TaiYin
+      - JuMen
+      - HuoXing
+      - LingXing
+      - YangRen
+      - DiJie
+      - DiGong
+      - TuoLuo
+  auspices: Neutral
+  comments: |
+    * Your mishandling and misreading of others brings confusion and misunderstanding to your work.
+    * Jealousy and suspicion haunt your work with others.
+    * You must subordinate to incompetent superiors. This creates resentment and obstruction in your career.
+    * You will work hard for others without reward.
+    * You are “passed over” when it comes to promotions.
+
+- star: TaiYang
+  palace: Career
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    * You get in life will be a “mixed bag”. Some subordinates will be helpful, others not.
+    * You can shine as an assistant. You can fulfill your own dream by supporting an important leader or businessperson.
+    * You will receive surprise gifts and/or opportunities from your helpers. These gifts/opportunities will greatly enhance your career.
+    * Older/wiser people will offer to support you and this will be awkward.
+
+    When the Sun appears in the Assistants Palace alone or with *any other major star*:
+
+    * You will find support – like a prince aspiring to the throne. You are a team leader.
+
+- star: TaiYang
+  palace: Career
+  inHouseWith:
+    - - TaiYin
+      - TianLiang
+      - TianCun
+  auspices: Exalted
+  comments: |
+    * You will be aptly supported by helpers and succeed.
+    * You will share your success with others – teamwork.
+    * You will receive constant support from others. They enjoy your success.
+
+- star: TaiYang
+  palace: Career
+  inHouseWith:
+    - - JuMen
+  auspices: Mixed
+  comments: |
+    * You will ignore or disregard important helpers and they will undermine your success.
+    * Complacency and self-centeredness plague your relationships with others.
+
+- star: TaiYang
+  palace: Career
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianCun
+      - TianYue
+      - ZuoFu
+      - YouBi
+  auspices: Positive
+  comments: |
+    * You will succeed step-by-step with the support of others.
+    * Your “superiors” will act on your behalf (as if inferior).
+    * You become a “great worthy” through the devoted support of others.
+
+- star: TaiYang
+  palace: Career
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Negative
+  comments: |
+    * You will struggle with helpers and they will be disobedient.
+    * You mismanage helping resources. They slowly turn against you.
+
+- star: WuQu
+  palace: Career
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    * You have a good predestined affinity with subordinate helpers. You are honored and supported by those in your command.
+    * You easily earn the support and respect of others.
+    * You are a masterful team leader and player – generous and effective.
+    * A clear chain of command works for you.
+    * You will love your supporters.
+
+- star: WuQu
+  palace: Career
+  inHouseWith:
+    - - TianFu
+      - TianXiang
+      - TianCun
+      - TianKui
+      - TianYue
+      - ZuoFu
+      - YouBi
+  auspices: Exalted
+  comments: |
+    * You will be helped by many capable people.
+    * You will be greatly admired and loved by others.
+    * You will have fans and groupies. There numbers will make you “popular”.
+    * Your competence will be glossed and ignored but you nevertheless succeed in your work.
+    * People much older than you support you.
+    * Your work team will feel like family (love).
+
+- star: WuQu
+  palace: Career
+  inHouseWith:
+    - - TanLang
+      - QiSha
+  auspices: Negative
+  comments: |
+    * You will be involved in scandal and intrigue with your helpers.
+    * You will lead a revolution that fails. 3) You will be destroyed by your enemies.
+    * You will be disgraced.
+    * You will be a cult hero.
+    * You will be extremely independent and unknown.
+
+- star: WuQu
+  palace: Career
+  inHouseWith:
+    - - PoJun
+      - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Negative
+  comments: |
+    * You will be involved in sex scandal or sexual intimidation in the work place (or school).
+    * Support of the opposite sex goes very badly. You are seduced and discarded.
+    * You will be haunted by jealousies and suspicion will disable any progress at work.
+    * You retire early due to mental insecurity.
+    * You will be haunted by those you stepped on while you were career climbing. They ultimately “win” – make you crazy paranoid.
+    * You take EST and read Ayn Rand and get fired by a socialist boss. You jump off a corporate tower.
+
+- star: TianTong
+  palace: Career
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    * You have a good predestined affinity with subordinate helpers. You will be honored and supported by subordinates.
+    * You are generous to a fault and find it difficult to give orders to subordinates.
+    * In your later years you will develop skills in leadership and win the respect of your subordinates.
+    * You like being a subordinate or second in command.
+
+    When the Vassal appears in the Assistants Palace alone or with any positive star you will benefit from the support and help of others at work. You are a sterling assistant.
+
+- star: TianTong
+  palace: Career
+  inHouseWith:
+    - - TaiYin
+      - TianLiang
+  auspices: Positive
+  comments: |
+    * You will be admired and respected in the work place.
+    * You are the assistant of a “great worthy” person.
+    * You are Vice President or First Lady. You are Prince Consort or the Imperial Tutor.
+    * Your position of power is as #2.
+
+- star: TianTong
+  palace: Career
+  inHouseWith:
+    - - JuMen
+      - TianCun
+  auspices: Mixed
+  comments: |
+    * Your complacency will eventually squander your support from others.
+    * You succeed due to the irreversible loyalty of an assistant (midlife 48+).
+    * You lack leadership skills.
+
+- star: TianTong
+  palace: Career
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianYue
+      - TianKui
+  auspices: Positive
+  comments: |
+    * You will receive the undying support of others due to your integrity (not skill).
+    * Your sincere kindness towards others pays off – you win wide support.
+    * You inspire cooperation.
+    * You graduate West Point – top of the class. You are a trained leader.
+
+- star: TianTong
+  palace: Career
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Positive
+  comments: |
+    * You will be taken advantage of because you are too kind.
+    * You will be plagiarized.
+    * You are the devout follower of an unworthy person. You misplace your loyalty.
+    * You are clueless and abused.
+
+- star: LianZhen
+  palace: Career
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    * You have a good, but fragile predestined affinity with subordinate helpers. You may estrange helpers by being overbearing or aloof.
+    * You are suited to the role of assistant. You prosper as an assistant, not as a boss or leader.
+    * Subordination and/or seduction is an act of power for you.
+    * You prosper from being second in command and/or being protected by older/strong person.
+    * You will work from home.
+
+- star: LianZhen
+  palace: Career
+  inHouseWith:
+    - - TianXiang
+      - TianFu
+      - TianCun
+  auspices: Positive
+  comments: |
+    * Though you lack any sense of leadership or propriety you have loyal supporters.
+    * You will be aided by older people.
+    * You will have a guardian angel.
+    * You will have support at a few auspicious junctures in your life.
+
+- star: LianZhen
+  palace: Career
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianKui
+      - TianYue
+  auspices: Positive
+  comments: |
+    * Your complacency and aloofness puts people off.
+    * You imitate competent people badly. You read Ayn Rand. You are a sincere Romney supporter.
+    * You choose to support the loser. You are the incompetent assistant of an incompetent.
+
+- star: LianZhen
+  palace: Career
+  inHouseWith:
+    - - TanLang
+      - PoJun
+      - QiSha
+  auspices: Positive
+  comments: |
+    * You will be duped by others and used for their progress.
+    * You will associate with the wrong people and end up alone and unskilled.
+    * You are hired for your appearance and not your skills.
+    * You are held back by your aloof response to helpers.
+    * You are undermined and robbed by helpers.
+    * You are Little Red Riding Hood.
+
+- star: LianZhen
+  palace: Career
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Positive
+  comments: |
+    * You are unable to manage helpers.
+    * You are abandoned and forgotten by those fated to help you.
+    * You are haunted by bitterness.
+    * You imagine that you are competent, but you are not. Your delusions make success impossible.
+    * You are taken in by flattery, abused, abandoned and helpless.
+
+
+- star: TianFu
+  palace: Career
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    * You have a strong predestined affinity with subordinate (female) helpers. They will bring you success.
+    * Others will bring you great success if you are patient and generous.
+    * You are fated to be in a secondary role that holds a considerable amount of power and influence.
+    * You will receive prominence through being an assistant or “working back stage”.
+    * You will inherit a business or stock market shares.
+
+    When the Empress appears in the Assistants Palace with the any afflicting star:
+
+    * the above auspices is unchanged but temporarily or occasionally inhibited.
+    * You are able to assist people in dire straits, with criminal histories or with terminal illnesses. You provide comfort and solace – not reprieve or cures.
+    * Think Mother Teresa.
+
+- star: TianFu
+  palace: Career
+  inHouseWith:
+    - - TianCun
+      - WenChang
+      - WenQu
+      - TianYue
+      - ZuoFu
+      - YouBi
+  auspices: Exalted
+  comments: |
+    * You will enjoy great success due to your connections and affiliations.
+    * You will be served by many and/or serve many.
+    * You will raise money for charity, scholarships and non-profit organizations.
+    * You will back up a person or persons of power. You are an astute advisor.
+
+- star: TianFu
+  palace: Career
+  inHouseWith:
+    - - DiJie
+      - DiGong
+  auspices: Negative
+  comments: |
+    * You have a good heart but a weak character. You will have a dull and uneventful life.
+    * You will resist any adventure that puts you at risk. You will suffer from complacency.
+    * You offer help to loyal friends, but fear hardship.
+
+- star: TaiYin
+  palace: Career
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    * You have an excellent predestined affinity with subordinate helpers, particularly female helpers. They will bring you success.
+    * You will enjoy the company and support of a group of spiritual friends.
+    * You are an excellent assistant and therefore know how to manage and appreciate helpers.
+    * You are suited to a “secondary” position. You will serve as an assistant to a powerful person.
+    * You will never quite feel you truly belong anywhere.
+    * You will depend on others too much and this results in a syndrome of betrayal and rescue.
+
+- star: TaiYin
+  palace: Career
+  inHouseWith:
+    - - TianXiang
+      - TianLiang
+      - TaiYang
+      - WenChang
+      - WenQu
+      - TianCun
+      - TianYue
+      - YouBi
+      - ZuoFu
+  auspices: Exalted
+  comments: |
+    * Like the Empress (above) you will be generous of heart and be supported by many helpers.
+    * You will give or receive housing from others.
+    * You will be a life-long student.
+    * You will be often supported and inspired by others.
+
+- star: TaiYin
+  palace: Career
+  inHouseWith:
+    - - JuMen
+  auspices: Neutral
+  comments: |
+    * You will find the “world” disconcerting and have an uneven relationship with being and receiving help.
+    * In mid-life you will benefit from and/or be a competent assistant.
+
+- star: TaiYin
+  palace: Career
+  inHouseWith:
+    - - LingXing
+      - YangRen
+      - HuoXing
+      - DiJie
+      - DiGong
+      - TuoLuo
+  auspices: Neutral
+  comments: |
+    * You will occasionally be inhibited by conflicting emotions.
+    * You will suffer from irrational fear or phobia of strangers. This will be resolved by mid-life.
+
+- star: TaiYin
+  palace: Career
+  inHouseWith: []
+  auspices: Haunted
+  comments: |
+    * Your moody and harsh character turns subordinate helpers against you. Your subordinates undermine your position at work.
+    * You are seduced, blackmailed and ruined by an assistant.
+    * If there are no other afflicting stars, you will find authority over others a worrisome burden.
+    * Your deep feelings of resentment and jealousy will obstruct your progress in career and education.
+    * You will work for an unpredictable boss, agent or teacher.
+    * Your innovative ideas will make someone successful.
+    * You will be an undertaker.
+
+- star: TaiYin
+  palace: Career
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianYue
+      - TianKui
+  auspices: Neutral
+  comments: |
+    * You will put your aggression in the service of others.
+    * You will work as a social worker, parole officer or counselor.
+    * You will teach in a special education program.
+    * You will be a gang leader, police officer or political party chairperson.
+    * You will be a “pop” artist, writer or singer.
+
+- star: TaiYin
+  palace: Career
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - ZuoFu
+      - YouBi
+  auspices: Neutral
+  comments: |
+    * You will have a position of manager and enjoy controlling others.
+    * You are a prison warden.
+    * You are a union organizer.
+    * You will champion the underdog with great skill and effort.
+
+- star: TaiYin
+  palace: Career
+  inHouseWith:
+    - - TianCun
+  auspices: Haunted
+  comments: |
+    * You will make a good deal of cash running a strip club, rock band or pot farm.
+    * You will take your anti-social bent to the bank.
+    * Your way of being anti-social will be popular and lucrative.
+
+- star: TaiYin
+  palace: Career
+  inHouseWith:
+    - - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Negative
+  comments: |
+    * You struggle to make your anti-social views work, but they do not.
+    * You unsuccessfully identify and defeat the “Man”.
+    * Your rebellion fails.
+
+- star: JuMen
+  palace: Career
+  inHouseWith: []
+  auspices: Haunted
+  comments: |
+    * Your indecisiveness turns subordinate helpers against you. Your subordinates undermine your position at work.
+    * You will be brought disaster by subordinate helpers (employees).
+    * An employee or assistant will embezzle money from you or your company.
+    * An assistant will falsely accuse you of harassment, negligence and/or criminal activity.
+    * Your attempts to help others will fail.
+
+    When the Great Gate appears in the Assistants Palace with any modest star you will find success in the image of the partner star.
+
+
+- star: JuMen
+  palace: Career
+  inHouseWith:
+    - - TianCun
+  auspices: Neutral
+  comments: |
+    * You will be successful in speculative business or consulting work.
+    * You play the odds well. You will have some luck.
+    * You find backers for your dreamy ideas.
+
+- star: JuMen
+  palace: Career
+  inHouseWith:
+    - - ZuoFu
+      - YouBi
+      - WenChang
+      - WenQu
+      - TianYue
+      - TianKui
+  auspices: Neutral
+  comments: |
+    * You will be guided and protected by helpers.
+    * Your business will be successful due to its employees.
+    * You will be innovative at first then supported to simply produce products.
+
+- star: JuMen
+  palace: Career
+  inHouseWith:
+    - - PoJun
+      - HuoXing
+      - LingXing
+      - YangRen
+      - DiJie
+      - DiGong
+      - TuoLuo
+  auspices: Mixed
+  comments: |
+    * You will wander from job to job.
+    * Your innovative ideas fail.
+    * You will be supported and abandoned by assistants.
+    * You easily lose interest and disappoint helpers.
+    * The uneven support of others parallels your uneven inspirations ... this is your Fate.
+
+- star: TianXiang
+  palace: Career
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    * Your generous character inspires subordinate helpers to work hard for you. Your subordinates support and expand your work.
+    * You will be brought fame and fortune by subordinate helpers (employees, students).
+    * You will teach/mentor young people (emperor).
+    * You will become prominent for assisting someone of great power.
+    * You will work in government, politics or a charitable service agency.
+    * Your teacher/mentor will be famous and truly humble.
+
+- star: TianXiang
+  palace: Career
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianYue
+      - TianKui
+  auspices: Exalted
+  comments: |
+    * You will be a public servant.
+    * You are a dedicated and resourceful leader and champion of the notions of justice and equality.
+    * You will lead and work in a very cooperative team.
+    * You will train/educate some powerful people. Your students will bring you success and prestige.
+    * You will teach at a prestigious university.
+    * You are an advisor to many successful people.
+
+- star: TianXiang
+  palace: Career
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Mixed
+  comments: |
+    * You will waste a good deal of effort on irresolvable problems. You will be held back by idealism, anger and excessive willingness to compromise.
+    * You think and struggle far too much.
+    * Your ideas, no matter how timely or brilliant, are overlooked, rejected and compromised.
+    * You are easily betrayed due to naïve notions of loyalty.
+    * You are held back and humiliated by a misplaced sense of duty. You are used by corrupt and self-serving leaders.
+
+- star: TianLiang
+  palace: Career
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    * Your modest character invites subordinate helpers to support you. Your subordinates help you at work.
+    * You are benefited greatly by reliable and loyal helpers.
+    * You are a reliable helper. A secondary position suits you.
+    * An employee (assistant or secretary) creates your success.
+
+- star: TianLiang
+  palace: Career
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianCun
+      - TianKui
+      - TianYue
+  auspices: Positive
+  comments: |
+    * Your Fate resolves well with the help of others.
+    * You serve others with great results (both ways).
+    * You will serve others as a teacher, spiritual guide, mantic artist, soldier or government official.
+    * You will uphold and succeed a great person, saint or genius.
+    * After a life of service to others you will be well cared for in old age.
+
+- star: TianLiang
+  palace: Career
+  inHouseWith:
+    - - TianCun
+  auspices: Positive
+  comments: |
+    * You will receive a small inheritance or bonus and handle it very well.
+    * You will live modesty but well.
+
+- star: TianLiang
+  palace: Career
+  inHouseWith:
+    - - LingXing
+      - HuoXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Mixed
+  comments: |
+    * The above auspices will be made uneven by your emotions and rigidity.
+    * The ups and downs brought to you by helpers makes your life average and you will serve or be served in an ordinary way.
+    * You will be a postman, bus driver, traffic cop, prison guard or churchwarden.
+
+- star: QiSha
+  palace: Career
+  inHouseWith: []
+  auspices: Haunted
+  comments: |
+    * Your subordinate helpers will inexplicably abandon and betray you. Your subordinates destroy your progress repeatedly.
+    * You need to work alone.
+    * Your generosity is consistently miscalculated.
+    * You are gullible and a bad judge of character. You often choose harmful helpers.
+    * If there are other afflicting stars, you will be betrayed, robbed and ruined repeatedly by unreliable and sneaky subordinates (possessed of an ancestral demon). All the above is due to the promptings and obstructions of the unsettled dead.
+
+    When the 7 Killings rules the Assistants Palace it is unaffected by any/all other stars. The auspice of this placement is both good and bad. You will no doubt struggle in your life with the notion of relationships – particularly issues of authority. Many of the people you work with will be possessed of 7 kiliings – have irrational fears and notions of you that undermine your work. Conversely, you will have an opportunity to see through this dilemma and, with patience and wisdom, resolve this Fate (demon).
+
+    You are in a powerful position to overcome selfishness, belligerence and neurotic fears – look at character and elsewhere in the other 11 houses for support. Where is the General and Oracle?
+
+- star: PoJun
+  palace: Career
+  inHouseWith: []
+  auspices: Haunted
+  comments: |
+    * When Rebel appears in the Assistants Palace Pojun (who was tormented and/or murdered by someone close to them) gives you a paranoid character that invites subordinate helpers to abandon and betray you.
+    * Your fate with helpers is very uneven – sometimes great, sometimes disastrous – a rollercoaster.
+    * Possessed by Pojun you may choose to work alone.
+    * If there are other afflicting stars, you will be betrayed and undermined by vicious, conniving subordinates.
+    * To resolve Pojun in this house you must practice great patience and kindness towards others.
+    * If there are other afflicting stars, you will feel victimized, abused and/or haunted by unworthy “others”. If you fail to resolve Pojun (establish helpers/family/community) before you die you will “join” the ghost as a lost spirit in the transitory states
+
+- star: PoJun
+  palace: Career
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianYue
+      - TianKui
+  auspices: Haunted
+  comments: |
+    * You will work in alternative education, be an activist or possess unusual skill. You will attract like-minded people and achieve leadership.
+    * You will work for or follow a successful innovator.
+    * You will live in a commune or alternative community.
+
+- star: PoJun
+  palace: Career
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Haunted
+  comments: |
+    * You are crippled by idealism and fantasies that never come to fruition.
+    * You will abandon and be abandoned by other fanatics and idealists.
+    * Your enormous sacrifices will amount to nothing. Your dreams are unfulfilled.
+    * You seek martyrdom. A lame interpretation of jihad appeals to you.
+

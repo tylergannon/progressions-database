@@ -1,0 +1,892 @@
+---
+- star: ZiWei
+  palace: Career
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    * You are fated to live far from where you are born. You will emigrate. You have “another life” awaiting you in a foreign country.
+    * Travel will offer many rewards.
+    * You are likely to receive steady promotions throughout your career – ending in a high position.
+    * You will enjoy your work and this gives you an advantage. You will reach a top position in your field.
+    * You are successful in career – work is very beneficial and helps to resolve your Fate.
+
+- star: ZiWei
+  palace: Career
+  inHouseWith:
+    - - TianFu
+      - TianXiang
+      - TianCun
+  auspices: Exalted
+  comments: |
+    * You will enjoy great success in career.
+    * You will be very helpful to your community.
+    * Your work will be very valuable in the resolution of your fate.
+    * You will be honored, well-paid and/or strongly supported by your client/customers, etc.
+
+- star: ZiWei
+  palace: Career
+  inHouseWith:
+    - - TanLang
+      - PoJun
+      - QiSha
+  auspices: Positive
+  comments: |
+    * You will be of great service to older members of your community.
+    * You will be dishonored or accused of misconduct in your career.
+    * You will drift from job to job but this nevertheless resolves your fate.
+    * Your lack of respect for authority will undermine your success, but this nevertheless resolves your fate.
+    * You will work in a peculiar or generally shunned profession (assassin, undertaker, night-soil collector) but will end up successful nevertheless.
+
+- star: ZiWei
+  palace: Career
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianYue
+      - YouBi
+      - ZuoFu
+  auspices: Positive
+  comments: |
+    * You will be an asset to your community.
+    * You will be modestly renown as an educator, political or religious leader.
+    * Though your job is in service to others, you will be well paid.
+    * You will work with or for a famous or powerful person.
+
+- star: ZiWei
+  palace: Career
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - DiJie
+      - DiGong
+      - TuoLuo
+  auspices: Positive
+  comments: |
+    * You will from time to time undermine your success with conflicting emotions.
+    * You will quit many jobs.
+    * Your failures will resolve more fate than success.
+    * You are suited to be the back-up for a strong and well- intentioned person.
+
+    Subordination is your path to success.
+
+- star: TianJi
+  palace: Career
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    * You have no predestined affinity to your birth home. You should emigrate or live far from where you were born.
+    * In a foreign country you can find your true family (home and work) and resolve your fate (release ancestors).
+    * You can work successfully as an artist, musician, astrologer, counselor or spiritual guide.
+    * Your intuition will make your work successful.
+    * You will practice a foreign or minority religion.
+
+- star: TianJi
+  palace: Career
+  inHouseWith:
+    - - TianFu
+      - TianXiang
+      - TianCun
+  auspices: Positive
+  comments: |
+    * You are spiritually linked to a foreign country. You will practice a religion foreign to your family. 2) You easily identify with a foreign culture, language, religion or place. 3) Your career will be related to your intuition – you are a medium, no matter what the work is. 4) There is a pot-of-gold for you in a foreign country or in your subconscious. 5) You will succeed a teacher (guru, mentor).
+
+
+- star: TianJi
+  palace: Career
+  inHouseWith:
+    - - TaiYin
+      - TaiYang
+  auspices: Positive
+  comments: |
+    * You have a predestined affinity to follow someone (partner, friend) to a foreign country.
+    * Your fate in your hometown (familiar) is uneven and weak.
+    * You will be an initiated shaman/healer.
+    * You will follow someone in an apprenticeship – artist (musician) or craftsperson.
+
+- star: TianJi
+  palace: Career
+  inHouseWith:
+    - - JuMen
+  auspices: Neutral
+  comments: |
+    * You will have some difficulty finding “meaningful” work.
+    * You will change careers several times in your life.
+    * You are good at many things – master of none.
+    * You are easily distracted and will move from one job to another.
+
+- star: TianJi
+  palace: Career
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianCun
+      - TianYue
+      - ZuoFu
+      - YouBi
+  auspices: Neutral
+  comments: |
+    * You will travel in your work.
+    * You will work in the field of import-export.
+    * You will work in education or be involved in religious life.
+    * You will be able to help others and enjoy a fulfilling career.
+    * You will enjoy your work very much and be a borderline “workaholic”.
+    * You work to support a very powerful person.
+
+- star: TianJi
+  palace: Career
+  inHouseWith:
+    - - TianLiang
+      - LingXing
+      - HuoXing
+      - YangRen
+      - DiJie
+      - DiGong
+      - TuoLuo
+  auspices: Negative
+  comments: |
+    * You will be hard-working but not very successful (especially as you stay close to where you are born).
+    * You struggle with strong emotions about work – you feel that you settle for less than you should.
+    * Unable to be adventurous; you fail.
+    * Attachment to home or family diminishes your capacity at work.
+    * You make many sacrifices for little or no reason.
+
+- star: TaiYang
+  palace: Career
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    * You will easily adapt to life in a foreign country (place far from your birthplace). You will adopt a foreign country as your true “home”.
+    * You have no predestined affinity to your birth home. If you stay near your birth home all your efforts will be futile.
+    * You will receive continuous promotions at work.
+    * You are hardworking and gifted.
+    * You will be a successor (successful apprentice).
+    * Your work will be very rewarding.
+
+    When the Sun appears in the Career Palace with any other major star:
+
+    * You will find a worthwhile career and succeed.
+    * You are best suited to work that is active and not too complex.
+    * You are adaptable to different places to live. You can and will live in several places successfully.
+    * You will have a strong identity with your work (military, arts).
+    * You will be entrepreneurial.
+
+- star: TaiYang
+  palace: Career
+  inHouseWith:
+    - - TianLiang
+      - TianCun
+  auspices: Exalted
+  comments: |
+    * You will successfully immigrate.
+    * You will live, work and die very far from where you (your ancestors) were born.
+    * You will work in two languages.
+
+- star: TaiYang
+  palace: Career
+  inHouseWith:
+    - - TaiYin
+  auspices: Positive
+  comments: |
+    * You will work very hard but succeed in your work.
+    * You will work in a pioneering field.
+    * You will work creatively (arts, problem-solving, innovation).
+    * You will travel far from home (make a new one, or return in old age).
+    * You will work as an artist, craftsperson or designer.
+    * You will have two jobs or work in two fields.
+
+- star: TaiYang
+  palace: Career
+  inHouseWith:
+    - - JuMen
+  auspices: Negative
+  comments: |
+    * You will anxiously move from job to job; place to place.
+    * You are impatient to develop skills and never find a satisfying career.
+
+- star: TaiYang
+  palace: Career
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianYue
+      - ZuoFu
+      - YouBi
+  auspices: Positive
+  comments: |
+    * You will work hard and educate and reeducate yourself. You will prosper.
+    * Patience and a willingness to learn make you very successful.
+    * You will be a successful apprentice and pass on your skills.
+    * You will work in a service industry.
+    * You will work in the government, military, security or education fields.
+
+- star: TaiYang
+  palace: Career
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Negative
+  comments: |
+    * You will struggle with poor self-esteem, distractedness and lack of resolve.
+    * You will be a petty criminal.
+    * You are a whiner.
+    * You have a “lion’s head and snake tail” – no perseverance.
+    * You have a bad temper and are often fired – or quit because of conflicts with others.
+    * You will overcome these afflictions after mid-life (56).
+
+- star: WuQu
+  palace: Career
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    * You have a predestined affinity with the self- sacrifice that comes with wandering. Travel will be part of your life.
+    * You will rise to power gradually due to your self-discipline, perseverance and adaptability.
+    * You are hardworking and intelligent and your career will be very important to you.
+    * You are suited to the service industries, the military and politics.
+    * The “road” will become a “home”.
+    * Your contribution to your community will be recognized after your retirement.
+    * You take your career accomplishments lightly.
+
+- star: WuQu
+  palace: Career
+  inHouseWith:
+    - - TianFu
+      - TianXiang
+      - TianCun
+      - TanLang
+      - QiSha
+  auspices: Mixed
+  comments: |
+    * You will be hard-working, dedicated and very successful in your career. You resolve much of your fate through your work (not family).
+    * You enjoy homelessness.
+    * You die far from where you are born.
+    * You are a late- bloomer – work at many jobs but develop a career pattern late in life (56).
+    * You will be wealthy and honored for your work in old age.
+
+- star: WuQu
+  palace: Career
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianYue
+      - TianKui
+  auspices: Positive
+  comments: |
+    * You easily develop a career.
+    * You are adaptable and able to make wherever you go “home”.
+    * Your service to others will make you famous.
+    * In old age you will be a leader in your field. You will leave a legacy of knowledge and/or techniques in your field.
+    * You work well in a team of skillful people.
+    * You will be known abroad.
+
+- star: WuQu
+  palace: Career
+  inHouseWith:
+    - - ZuoFu
+      - YouBi
+  auspices: Positive
+  comments: |
+    * You will be guided and taught by strong and adept teachers. You will have much fate resolution in your career.
+    * You will inherit a legacy of work and wealth.
+
+- star: WuQu
+  palace: Career
+  inHouseWith:
+    - - PoJun
+      - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+  auspices: Negative
+  comments: |
+    * You will be forced to leave your hometown due to extreme difficulties (war, poverty, disaster). Away from home difficulties continue (military career).
+    * You take work no one else will do (gravedigger, embalmer). You do it very well and become a success.
+    * You wander from place to place and job to job collecting varied and sharpened skills.
+    * You are adept by midlife (56).
+
+- star: WuQu
+  palace: Career
+  inHouseWith:
+    - - DiJie
+      - DiGong
+  auspices: Negative
+  comments: |
+    * You will die in foreign war. You will be asked to be an assassin or be assassinated.
+    * You will be taken as a slave.
+    * You will lose a sense of home/self because of war, politics or natural disaster.
+    * You die very far from home. This does little to resolve fate.
+
+
+- star: TianTong
+  palace: Career
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    * When the Vassal appears in the Career Palace you have a predestined affinity with mentors, bosses and teachers – you will be a successor.
+    * You will live and work abroad.
+    * Through the perseverance and support of others you will slowly rise in the ranks of your career.
+    * If there are no afflicting stars appearing here, you will find happiness and wealth by immigrating to a foreign country.
+    * You will find a career and stick with it for life.
+
+    When the Vassal appears in the Career Palace with any positive star:
+
+    * You will be hard working and persevering – this proves successful in career.
+    * Immigration to a foreign country is a “fate threshold” – career, family, marriage all await you in foreign country.
+
+- star: TianTong
+  palace: Career
+  inHouseWith:
+    - - TaiYin
+      - JuMen
+  auspices: Negative
+  comments: |
+    * You have many difficulties establishing a career.
+    * Indecision undermines your success at work.
+    * You will successfully work as a artist or musician (player not composer).
+
+- star: TianTong
+  palace: Career
+  inHouseWith:
+    - - TianCun
+      - TianLiang
+  auspices: Positive
+  comments: |
+    * You have predestined affinity for success through mentorship. You will be a successor.
+    * You will work for rich and powerful people.
+    * Subordination, chain-of-command all work to your benefit.
+    * You are predestined to succeed at work – it is a significant way for you to resolve fate.
+
+- star: TianTong
+  palace: Career
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianYue
+      - YangRen
+      - TianKui
+  auspices: Positive
+  comments: |
+    * You will receive scholarships, grants, sponsors and mentors throughout your life.
+    * Your career success is “resultant” – you will be well treated by mentors, bosses and associates.
+    * You are a model worker.
+    * You will be often promoted at work. You have a great resume.
+
+- star: TianTong
+  palace: Career
+  inHouseWith:
+    - - LingXing
+      - HuoXing
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Mixed
+  comments: |
+    * You will easily duped and undermined by others.
+    * You will miss many opportunities for success and promotion.
+    * After a faulty start you will find a career (48+).
+    * Your work may be humiliatingly easy or underestimate your ability (this resolves in mid-life 56).
+
+- star: LianZhen
+  palace: Career
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    * You have a predestined affinity to emigrate. You will prosper by moving far from where you were born.
+    * Your work will be based on your unique, appearance or personal and peculiar talents.
+    * You will live your life as a “foreigner” or outsider, but this suits you.
+    * You succeed as an assistant to a strong leader or businessperson.
+
+- star: LianZhen
+  palace: Career
+  inHouseWith:
+    - - TianFu
+  auspices: Exalted
+  comments: |
+    * You will run away at an early age. You will find a mentor.
+    * You will be adopted by foreigners.
+    * You will use your appearance in your work.
+    * You will be kept by rich and powerful people.
+    * You are a rich housewife, houseboy, geisha or duchess. Your job is to look good at parties.
+    * You will work with children. You are a mentor.
+    * You will successfully seek asylum.
+
+- star: LianZhen
+  palace: Career
+  inHouseWith:
+    - - TianXiang
+      - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianCun
+      - TianKui
+      - TianYue
+  auspices: Neutral
+  comments: |
+    * Your career takes you away from the familiar.
+    * You will be involved in education, religion, culture and/or service industry.
+    * You will climb the ladder through education, exams and be promoted to a position of leadership.
+
+- star: LianZhen
+  palace: Career
+  inHouseWith:
+    - - TanLang
+      - QiSha
+  auspices: Haunted
+  comments: |
+    * You will be involved with “quick money” or illegal business. First you succeed – then you lose everything.
+    * Lazy and anti-social, you fall in with unsuccessful people.
+    * You will spend part of your life “on the run”.
+    * Your pimp dumps you.
+    * You go to jail due to associations with criminals.
+    * You are Patty Hearst.
+    * You stockpile guns you buy with your disability checks. You wait patiently to be a revolutionary. The revolution does not come.
+
+- star: LianZhen
+  palace: Career
+  inHouseWith:
+    - - PoJun
+      - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Negative
+  comments: |
+    * You are not suited to work in the common sense of the word.
+    * You are a “has been” by 26.
+    * You are Shirley Temple.
+    * You survive.
+    * You have always depended on the kindness of strangers (Blanche Dubois).
+
+- star: TianFu
+  palace: Career
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    * You have a predestined affinity to live in a foreign country or actually emigrate.
+    * You will receive gifts and position in a distant place (far from where you are born).
+    * You will leave home to find work and our follow someone to a new home.
+    * You are a successor. In your career you will work (apprentice) with a person of great power and replace him/her when he/she retires (manager, teacher, boss or leader).
+    * You will succeed in advising, counseling or contract work.
+
+
+- star: TianFu
+  palace: Career
+  inHouseWith:
+    - - TianCun
+      - WenChang
+      - WenQu
+      - TianYue
+      - ZuoFu
+      - YouBi
+  auspices: Exalted
+  comments: |
+    * You will enjoy great success in career due to your associates.
+    * You have a strong identity with place, home or tribal ethnicity.
+    * Your life is secured by others and place.
+    * You fall naturally into a role of modest leadership.
+    * You serve on many Boards of Directors.
+
+- star: TianFu
+  palace: Career
+  inHouseWith:
+    - - TanLang
+      - PoJun
+      - QiSha
+      - LingXing
+      - HuoXing
+      - YangRen
+  auspices: Neutral
+  comments: |
+    * Haunting stars will have no meaningful effect.
+    * Your privileges will occasionally embarrass you. You have empathy.
+
+- star: TianFu
+  palace: Career
+  inHouseWith:
+    - - DiGong
+      - DiJie
+  auspices: Neutral
+  comments: |
+    * You will be charitable. You are moved to help those in hardship.
+    * Your charity is powerfully exorcistic.
+
+- star: TianFu
+  palace: Career
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    * You will try several career tracks before settling in to a career.
+    * You will slowly and discretely rise to prominence in your work.
+    * You are a gifted artist.
+    * You are at risk and/or unappreciated when you are away from the familiar (home).
+    * You may work in the travel industry or with immigrants.
+    * You may choose a career in social work or charity but it will undermine your health.
+    * Your resume will be novel.
+
+- star: TianFu
+  palace: Career
+  inHouseWith:
+    - - TianXiang
+      - TianLiang
+      - TaiYang
+      - WenChang
+      - WenQu
+      - TianCun
+      - TianYue
+      - ZuoFu
+      - YouBi
+      - TianCun
+  auspices: Exalted
+  comments: |
+    * Like the Empress (above) you will be offered success and security by a close group of associates (Imperial family).
+    * You are born with a silver spoon.
+    * You mature into a kind and generous person. You learn how to use your privilege and prestige.
+    * You are an unintentional activist. You are a heroic empath.
+    * You will produce artwork.
+
+- star: TianFu
+  palace: Career
+  inHouseWith:
+    - - JuMen
+  auspices: Neutral
+  comments: |
+    * You will resist convention and be a late-bloomer.
+    * Your fate will wax and wane. You will struggle with uncertainty but ultimately succeed (or realize your privilege).
+    * You have artistic ability.
+
+- star: TianFu
+  palace: Career
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - DiJie
+      - DiGong
+      - TuoLuo
+  auspices: Mixed
+  comments: |
+    * You will occasionally be inhibited by conflicting emotions.
+    * If you are forced to emigrate, you will be helpless.
+    * You are at risk when traveling abroad.
+
+- star: TanLang
+  palace: Career
+  inHouseWith: []
+  auspices: Mixed
+  comments: |
+    * You struggle to succeed at work, but lacking perseverance, you fail.
+    * You may win (or lose) a position at work through an illicit (scandalous) affair.
+    * You are a jack-of-all trades and master of none.
+    * You are an exotic sex worker.
+    * If there are no other afflicting stars appearing here, your unruly and peculiar character becomes your career.
+    * You may die (or be disfigured) in a foreign war.
+    * You will emigrate and find happiness in a foreign country.
+    * You may be a vagabond (road as home). 9) You are a criminal, illegal alien or inmate of a state prison.
+
+- star: TanLang
+  palace: Career
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianYue
+      - ZuoFu
+      - YouBi
+  auspices: Mixed
+  comments: |
+    * You will find a career that suits your quirky sensibilities.
+    * You will find work in a trendy or peculiar field.
+    * You will be a consultant – temporarily employed for your peculiar skills or outlook.
+    * You will work as an editor, security guard or soldier. You have a penchant for struggle and succeed.
+    * You are an ex- patriot. You live abroad but don’t truly “fit in”.
+
+- star: TanLang
+  palace: Career
+  inHouseWith:
+    - - JuMen
+  auspices: Mixed
+  comments: |
+    * You will take many years to find a sense of career or home. You are capable but not adept.
+    * You are a nomad or gypsy. You feel compelled to travel.
+    * You settle down abroad in midlife (50’s).
+
+- star: TanLang
+  palace: Career
+  inHouseWith:
+    - - LingXing
+      - HuoXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Mixed
+  comments: |
+    * Your struggling produces more struggling. Stability feels like suffocation.
+    * Your wanderings undermine the notion of career, but this suits you.
+    * Wandering resolves your Fate.
+    * You are a criminal “on-the-run”.
+
+- star: JuMen
+  palace: Career
+  inHouseWith: []
+  auspices: Mixed
+  comments: |
+    * You will change ‘jobs’ many times and/or travel extensively.
+    * You may emigrate and/or work in a foreign country.
+    * You may work as a traveling salesperson, an actor, dancer or singer (in a traveling company).
+    * Your work is related to consulting, traveling, translating or networking.
+    * You will have more then one career.
+    * You will never have a real sense of “home”. You will wander throughout your life.
+    * Born Jewish in NYC you will end up a Hindu saddhu in Goa.
+
+    When the Great Gate appears in the Career Palace with any modest star
+
+    * You will be hardworking, dedicated but unsuccessful in the development of a career.
+    * You may work as a consultant or advisor.
+    * You will not identify with your birthplace or your work/career. You will be a nomad.
+    * You will be an athlete – strong when young but forced to retire early in life. Life is a struggle generally.
+
+- star: JuMen
+  palace: Career
+  inHouseWith:
+    - - ZuoFu
+      - YouBi
+  auspices: Neutral
+  comments: |
+    * You will be guided and taught by modest but adept teachers. You will adopt a foreign religion or strange spiritual Path.
+    * You find “home and family” in a foreign place. This may be a fate threshold.
+
+- star: JuMen
+  palace: Career
+  inHouseWith:
+    - - PoJun
+      - HuoXing
+      - LingXing
+      - YangRen
+      - DiJie
+      - DiGong
+      - TuoLuo
+  auspices: Neutral
+  comments: |
+    * You will be fired, laid off or forced to emigrate.
+    * You have difficulty controlling your conflicting emotions. You are impulsive.
+    * You are compulsive. You are at home in conflict (war, fighting, risk- taking and WWF).
+
+- star: TianXiang
+  palace: Career
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    * You will travel extensively and serve in the foreign service.
+    * Your career/work will be a very important aspect of your life.
+    * You will work as consultant, translator or judge.
+    * If there are no afflicting stars, you will be famous for the work you do.
+    * You will receive many awards and honors.
+    * You may teach what you know to others after retiring from a successful career.
+    * You are a workaholic.
+
+- star: TianXiang
+  palace: Career
+  inHouseWith:
+    - - TianCun
+  auspices: Exalted
+  comments: |
+    * You have predestined affinity for success in career.
+    * You will inherit wealth, family business or career skills. You are an apprentice-successor.
+
+- star: TianXiang
+  palace: Career
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianYue
+      - TianKui
+  auspices: Exalted
+  comments: |
+    * You will resolve a great deal of fate through your work/career.
+    * You have a strong predestined affinity to your birthplace (sense of home). You will serve as a social-political-religious leader, manager, teacher and/or expert in your field.
+    * You will climb the corporate ladder. You will make steady forward progress in your work.
+    * You will meet a mentor or guru that sets you upon the Path.
+    * You are at home where you find your work.
+    * You will be honored at retirement.
+
+- star: TianXiang
+  palace: Career
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Exalted
+  comments: |
+    * You will have success in career but not without stepping on a few toes.
+    * Others will see our determination as obsessive (revolutionary).
+    * You will meet opponents in your field.
+    * You unintentionally create enemies in your work (competitors, rivals).
+    * You will be compromised by a scandal, your temper and/or false rumors.
+    * Your family and/or your homies reject you.
+    * You will work aggressively for the underprivileged or handicapped.
+
+- star: TianLiang
+  palace: Career
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    * You work hard at whatever you do, but your rewards are late in coming.
+    * You are best suited to the healing and service professions.
+    * You are suited to apprenticeship.
+    * You dislike travel.
+    * You may emigrate, if you do, you will find a new life and karmic family abroad.
+
+    When the Roofbeam appears in the Career Palace with any negative star the above will have minor temporary obstacles that make you stronger and more focused.
+
+- star: TianLiang
+  palace: Career
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianCun
+      - TianKui
+      - TianYue
+  auspices: Positive
+  comments: |
+    * Your career resolves much fate. Associates will resolve your fate (Imperial Court) at work.
+    * You are born amongst many people with strong ties to you.
+    * You will work in government service or building/engineering.
+    * You will work in real estate.
+    * You have a strong sense of home.
+    * You will work from home.
+    * You will work in international business or financial investment networking.
+
+- star: QiSha
+  palace: Career
+  inHouseWith: []
+  auspices: Mixed
+  comments: |
+    * You will make sacrifices and struggle to succeed but receive only limited rewards for your hard work.
+    * You are best suited to a career in the travel/resort industry, emergency room medicine and/or prison system.
+    * You will take a job that is makes you weird: undertaker, embalmer, hit-man, spy or criminal on the run.
+    * If there are no other afflicting stars, you are likely to change jobs many times developing no skills.
+    * If there are other afflicting stars, you will live an unsettled life, emigrate, wander (and die) far from where you were born.
+
+    All the above is due to the promptings and obstructions of the unsettled dead.
+
+- star: QiSha
+  palace: Career
+  inHouseWith:
+    - - TianCun
+  auspices: Mixed
+  comments: |
+    * You have predestined affinity for success in career.
+    * You will benefit from speculation AND hard work (overcoming obstacles).
+    * You will never realize your “full potential”.
+
+- star: QiSha
+  palace: Career
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - YouBi
+      - ZuoFu
+      - TianYue
+      - TianKui
+  auspices: Neutral
+  comments: |
+    * You will resolve a great deal of fate through your work/career ... and “I did it MY WAY!”
+    * You will make progress step-by-step. Your perseverance is successful.
+    * Your work reshapes you as a person.
+    * You will work as an actor (pretending to be someone else).
+    * Your career is an apophetic spiritual path.
+    * You will die far from where you were born.
+
+- star: QiSha
+  palace: Career
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Negative
+  comments: |
+    * You will be forced to emigrate. You will be a refugee all your life.
+    * You will be a soldier, prizefighter or spy.
+    * You will succeed as a traitor.
+    * You will emigrate from home and struggle.
+    * You are a traveling salesman, gypsy-artist, travelling musician and/or flea-market merchant.
+
+- star: PoJun
+  palace: Career
+  inHouseWith: []
+  auspices: Negative
+  comments: |
+    * You will work in an unusual field, do unusual research and/or move to a foreign country.
+      * Pojun (who died far from home [lost]) will give you an irrational need to wander, abandon opportunities and/or quit jobs.
+    * You are best suited to work in an “alternative setting”: political activism, alternative medicine, consulting, translating.
+    * If there are no other afflicting stars, you are likely to simply change jobs several times or travel a great deal.
+    * To resolve Pojun in this house you must “settle down” (after much drifting).
+
+    If there are other afflicting stars, you will live an unsettled life, wandering far from home and working without developing skills. You will feel that any success is a “sell out”. If you fail to resolve Pojun (establish home/career) before you die, you will “be influenced by” the ghost in the transitory states.
+
+- star: PoJun
+  palace: Career
+  inHouseWith:
+    - - TianCun
+  auspices: Negative
+  comments: |
+    * You have predestined affinity for struggling in career.
+    * You will be underpaid and under-appreciated.
+    * You will find a diamond ring while working as a garbage collector.
+    * You are a dirty cop but never prosecuted. You are a strangely successful criminal (Robin Hood).
+    * You finally “go straight”.
+
+- star: PoJun
+  palace: Career
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianYue
+      - TianKui
+  auspices: Negative
+  comments: |
+    * You will work with the rich but identify with the poor. You are a working-class hero.
+    * You will teach Marxism at Yale.
+    * Being an “outsider” resolves your fate.
+    * You are a wild yogi type. Your spiritual path is an orthodox revolutionary one.
+    * Your resume will be mind-boggling.
+    * You will be aggressively competitive. You are a workaholic.
+
+- star: PoJun
+  palace: Career
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Negative
+  comments: |
+    * You detest the notion of career. You do not identify with your race, gender, nationality or birthplace.
+    * Your aggravation with everything resolves fate – if a bit awkwardly.
+    * You will occasionally throw the baby out with the bath water.
+    * Your artwork will be so strange – it will seem progressive. You succeed even though you do not wish to succeed.
+    * Your intense negativity burns through to positive result.

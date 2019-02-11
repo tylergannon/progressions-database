@@ -1,0 +1,847 @@
+---
+- star: ZiWei
+  palace: Youth
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    There will be a strong resolution of Fate in childhood possibly related to family members (siblings in particular).
+
+    * When the Emperor appears without affliction1 in the Youth Palace or House of Siblings you have a strong predestined affinity with one (male) or all of your siblings all your life. It is likely an indicator of both personal and material support from him (them).
+    * It also indicates the early and strong sense of identity. You will be precociousness at school.
+    * It indicates that childhood is a rich karmic time of your life. You will meet “karmic” friends and/or enemies in your youth. Much Fate will be resolved in childhood.
+    * Your youth will be spent seriously training for adulthood.
+
+- star: ZiWei
+  palace: Youth
+  inHouseWith:
+    - - TianFu
+      - TianXiang
+  auspices: Exalted
+  comments: |
+    * You are predestined to have much or all of your Fate resolved by your siblings (Heaven/male and Earth/female).
+    * You have strong karmic ties with both brothers and sisters.
+    * You will protect and/or be protected by siblings all your life.
+    * You will be a mentor to or mentored by your sibling(s).
+    * You will find an excellent mentor in your youth.
+
+- star: ZiWei
+  palace: Youth
+  inHouseWith:
+    - - TanLang
+  auspices: Exalted
+  comments: |
+    * You will need to leave the place/home of childhood to completely resolve your Fate.
+    * An unconventional relationship between you and a sibling resolves much of your Fate.
+    * As a child you will have trouble with adult authority, but this struggle is how you resolve Fate.
+    * You may abandon siblings/home when young. You will have a step-sibling(s) or be raised in foster-care.
+    * A parent or adult caregiver may be unconventional, anti-social or abusive.
+    * You will “run-away” from home. You grow up quickly – have a strong identity.
+    * You are anti-social and unconventional due to childhood experiences.
+
+- star: ZiWei
+  palace: Youth
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+  auspices: Exalted
+  comments: |
+    * You will support and be supported by capable siblings.
+    * You will enjoy school and any religious training you receive.
+    * You will have a “sibling-like friend” at school or church.
+    * You will find a good mentor in your youth. You develop early leadership skills.
+    * You enjoy team sports.
+    * You are precocious and develop mature ambitions early in life.
+    * You will be well supported in childhood by family and teachers.
+    * Your spiritual path will appear in childhood (Priest).
+
+- star: ZiWei
+  palace: Youth
+  inHouseWith:
+    - - TianCun
+  auspices: Exalted
+  comments: |
+    * You will harmoniously share an inheritance with your siblings.
+    * Your siblings will support you financially.
+    * You will support your siblings financially.
+
+- star: ZiWei
+  palace: Youth
+  inHouseWith:
+    - - TianCun
+  auspices: Haunted
+  comments: |
+    * There is a predestined rift between you and your siblings.
+    * You will hurt or be hurt by a sibling, parent or adult caregiver.
+    * You will lose a sibling to death, crippling injury or chronic illness.
+    * You will have a difficult family situation but achieve personal independence early in life. This independence will have a “haunting” effect. You will not find it easy to trust and work with others. You will enjoy strict discipline (military life or boarding school). You ultimately overcome all afflictions.
+
+- star: ZiWei
+  palace: Youth
+  inHouseWith:
+    - - PoJun
+      - TianYue
+  auspices: Mixed
+  comments: |
+    * There is a predestined rift between you and your siblings.
+    * You will abandon family ties (w/out anger or incident).
+    * You will seek independence early in life.
+    * You will be a “loner”.
+    * Isolation positively affects the resolution of Fate.
+    * In school you will have difficultly with adult authority.
+    * You may show unusual skill or aptitude in childhood.
+
+- star: ZiWei
+  palace: Youth
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+  auspices: Mixed
+  comments: |
+    A predestined rift with your siblings will be fraught with emotional outburst, arguments and jealousies.
+    These incidents will not however amount to a serious rift.
+
+- star: ZiWei
+  palace: Youth
+  inHouseWith:
+    - - YangRen
+      - TuoLuo
+  auspices: Mixed
+  comments: |
+    The predestined rift between you and your siblings will be eventually renewed and/or mended.
+
+- star: ZiWei
+  palace: Youth
+  inHouseWith:
+    - - DiJie
+      - DiGong
+  auspices: Mixed
+  comments: |
+    TA temporary predestined rift will appear over distribution of resources (inheritance, loans, etc.).
+
+- star: TianJi
+  palace: Youth
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    There will be a strong resolution of Fate in childhood related to matriarchal ancestor(s), dreams, imagination or intuition. The yin nature of the Oracle is easily afflicted but afflictions are also usually overcome.
+
+    * When the Oracle appears without affliction in the Youth/Siblings Palace your predestined affinity with your brothers and sisters is fragile. When the feelings are handled carefully there will be a deep and supportive exchange.
+    * Your predestined affinity with your siblings is characterized by empathy.
+    * You will be a very imaginative and sensitive child that will learn to deal with your sensitivity successfully as you mature. You are bound to become a modest, kind and generous person.
+    * You have a psychic link with your sibling(s) and/or your matriarchal ancestors.
+    * Your youth is fairly unstable, due to hypersensitivity.
+    * Your imaginary friends are real.
+
+- star: TianJi
+  palace: Youth
+  inHouseWith:
+    - - TaiYin
+      - TianLiang
+  auspices: Positive
+  comments: |
+    * Your Fate will be resolved by a set of complex and uncertain mechanisms in childhood.
+    * Without effort Fate is resolved in childhood.
+    * Your imagination, the playing of games and/or the home, forests and/or city alleyways of your childhood neighborhood (Roofbeam) will contain disembodied benefactors that guide you through your Fate.
+    * At times your siblings will play an active role in this resolution as if possessed of matriarchal ancestors.
+    * Your siblings will provide Fate resolution through their loving and material support throughout your life.
+    * You are intuitively “joined at the hip” with one or more siblings.
+    * Returning to your childhood home (ancestral home - Roofbeam) facilitates Fate resolution throughout your life.
+    * You and your siblings are a coven or kula of spiritual practitioners.
+
+- star: TianJi
+  palace: Youth
+  inHouseWith:
+    - - TianCun
+      - JuMen
+  auspices: Exalted
+  comments: |
+    * Your siblings offer you profound spiritual AND material support.
+    * In your youth you will develop practical ways in which your intuition can be used.
+    * As a child you will enjoy a vivid imagination.
+    * An intuitive capacity that develops in childhood shapes your (career and personal) choices as an adult.
+
+- star: TianJi
+  palace: Youth
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - YouBi
+      - ZuoFu
+  auspices: Exalted
+  comments: |
+    * Your siblings provide practical protection, support and inspiration in the resolution of your Fate.
+    * Friends and schoolmates help you resolve Fate.
+    * Education helps you resolve Fate.
+    * You will be a kind and caring child – this will help you resolve Fate.
+    * You will have a religious or spiritual calling in childhood.
+    * In your youth you will receive initiation and/or succession from a spiritual mentor.
+
+- star: TianJi
+  palace: Youth
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Exalted
+  comments: |
+    * Obstacles exist in your sibling relationships. These obstacles are sometimes unfounded emotions such as anger (Fire/Water), fear (Goat Blade/Humpback) and distrust (Loss/Void).
+    * Though these problems exist they do not or cannot truly sever the ties between you and your siblings.
+    * In these circumstances giving and accepting apologies is very helpful.
+    * These same indicators will also apply to a person whose sensitivity is unwelcome in childhood - this pushes them into a deep sense of shyness and confusion.
+    * Several or many of these minor afflicting stars can “gang up” to limit our ability to receive and/or express the Oracle’s deep inspiration.
+
+- star: TaiYang
+  palace: Youth
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    There will be a strong and smooth resolution of Fate in childhood related to patriarchal ancestor(s), your siblings, your conduct and education.
+
+    * When the Sun appears in the Youth/Siblings Palace you have a strong predestined affinity with your siblings (brother[s]). You will be close, loyal and mutually supportive.
+    * You will be strong and active in your childhood, showing early maturation.
+    * Your childhood will be a rich segment of your life.
+
+- star: TaiYang
+  palace: Youth
+  inHouseWith:
+    - - TaiYin
+      - TianLiang
+      - TianCun
+  auspices: Exalted
+  comments: |
+    There will be a strong predestined affinity with your siblings. You will be mutually supportive and close. Much of the Fate to be resolved in your life will be found and unraveled in your relationships with siblings (brothers). Your siblings and home setting (Roofbeam) will be pivotal in the resolution of Fate. You may have strong childhood identity based on family (Moon), place, nationality/ethnicity (Roofbeam) or class/status (Storehouse). You will be a confident youth. You will be ambitious, competitive and/or show leadership when young.
+
+- star: TaiYang
+  palace: Youth
+  inHouseWith:
+    - - JuMen
+      - TianLiang
+      - TianCun
+  auspices: Mixed
+  comments: |
+    * You will be an only child (neglected or spoiled).
+    * You will have few siblings and little feeling for them.
+    * You may have half-siblings or step-siblings.
+    * Though your sibling Fate is weak, you may learn to grow close to them.
+    * Your lack of connection to siblings is liberating.
+
+- star: TaiYang
+  palace: Youth
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Negative
+  comments: |
+    * Differing visions or incomplete connections will weaken your sibling ties.
+    * Your siblings will argue and hold grudges.
+    * You will be the subject of disputes and/or the compromising glue that keeps your siblings close (character here plays a very important role).
+
+- star: WuQu
+  palace: Youth
+  inHouseWith: []
+  auspices: Negative
+  comments: |
+    Indicates a elderly parent, protector, mentor in your childhood that is pivotal in resolving your Fate. If this is not the case, then very little of your Fate can be resolved until you grow old (56+). Since the General is often weak in this palace (unless luminous); its influence is easily afflicted or postponed.
+
+    * You have little or no predestined affinity with brothers or sisters.
+    * You will have few or no brothers and sisters.
+    * You will be a troubled youth or juvenile delinquent. As a child you will not “fit in”.
+    * You are a precocious caregiver and will play parent for your siblings, friends or parents.
+    * You grow up very fast due to trauma or excess responsibilities.
+    * You do not have a childhood.
+
+- star: WuQu
+  palace: Youth
+  inHouseWith:
+    - - TianFu
+      - TianXiang
+      - WenChang
+      - WenQu
+      - TianXiang
+  auspices: Positive
+  comments: |
+    * Though you have few or no siblings there is an important parent, ancestral guardian, teacher or mentor in your childhood that helps resolve your Fate.
+    * Much of the resolution of your Fate is out of your hands – handled by extraordinary ancestors (Empress [matriarchal], Tutor) [patriarchal]).
+    * Any Fate resolution that happens in childhood will be related to relationships at school (Tutor, Magistrate or Priest).
+    * You are a clueless “poor little rich kid”. The resolution of your Fate is postponed but ultimately resolved like an inheritance (Storehouse) received later in life.
+    * You are Sal Mineo in Rebel Without a Cause.
+
+- star: WuQu
+  palace: Youth
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+      - ZuoFu
+      - YouBi
+  auspices: Negative
+  comments: |
+    * You will lose a sibling to an incomplete pregnancy (Yang Ren/Halberd).
+    * Half-siblings or step-siblings may be a part of your childhood. Though they may be close they will not aid in the resolution of your Fate.
+    * You are likely to drift away from your siblings.
+
+- star: TianTong
+  palace: Youth
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    Indicates a strong base exists for the resolution of Fate in childhood. Sibling relationships are opportunities to resolve Fate. Though not wild and silly fun, your childhood is an efficient Fate and pattern resolver.
+
+    * You are likely to have several or many siblings.
+    * You will have a precocious nature or talent when young and be the pride of your parents and community.
+    * If there are no afflicting stars, you are likely to give and receive support from your siblings. You will be close.
+
+- star: TianTong
+  palace: Youth
+  inHouseWith:
+    - - JuMen
+  auspices: Neutral
+  comments: |
+    * You have no real close Fate with your siblings.
+    * Though you are a very capable youth you will wander and drift unable to resolve Fate.
+    * A great many opportunities arise when you are young but none engage your interest.
+
+- star: TianTong
+  palace: Youth
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianYue
+  auspices: Neutral
+  comments: |
+    * Your Fate is woven with some or all your siblings (generation, cousins, etc.).
+    * You will find a community of interest at home (family) or at school when young – these harmonious relationships will help you resolve Fate.
+    * You will have close childhood friend(s).
+    * A sibling, friend or teacher will become a model for your conduct (profession: Magistrate) as a child and this will inspire Fate resolution.
+    * Childhood will contain a spiritual awakening (Priest).
+    * You are owed much help in the resolution of your Fate (Halberd/Assistants).
+
+- star: TianTong
+  palace: Youth
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Neutral
+  comments: |
+    * You be confused by a tangle of arguments and feuds amongst your siblings. Even your own sense of loyalty and fidelity will be shaken. This or some sort of struggle will scar your youth but you will overcome the trauma and become very strong.
+    * You will develop a strong distaste for confrontation in your youth.
+    * You will live far from your siblings – they will be scattered to different places.
+
+- star: LianZhen
+  palace: Youth
+  inHouseWith: []
+  auspices: Haunted
+  comments: |
+    * Indicates no basis exists for the resolution of Fate in childhood through siblings. Sibling relationships are not opportunities to resolve Fate. These relationships may be difficult or cause you to struggle.
+    * You will have an uneven childhood and grow up quickly due to negative associations with older siblings, parent and/or mentors.
+    * The Concubine’s immaturity and dependence on others can go very badly in this Palace.
+
+    * When the Concubine appears without affliction in the Youth/Siblings Palace you have a troubled predestined affinity with your brothers or sisters.
+    * You will have few or no brothers and sisters or be separated from them.
+    * Something untoward or painful happens to you in childhood – this will haunt you for the rest of your life.
+    * Your childhood fantasies and dreams will stay with you for life.
+    * You may find “older siblings” (brother and sister) outside your blood family.
+
+- star: LianZhen
+  palace: Youth
+  inHouseWith:
+    - - TianFu
+      - TianXiang
+      - WenChang
+      - WenQu
+      - TianKui
+      - TianCun
+  auspices: Neutral
+  comments: |
+    * You will be surrounded by siblings, family and elders but they will not be much use to you in resolving Fate.
+    * You will find a sibling/parent/mentor/teacher/friend who will be a protector (by association) but no one who has particular Fate with you.
+    * Though you are a capable youth you will be passed over for reward and honor.
+    * You will feel surrounded by incompetent adults and siblings.
+    * Though these potent stars act as “protectors” in this instance they do so without Fated thoroughness.
+
+- star: LianZhen
+  palace: Youth
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianYue
+  auspices: Neutral
+  comments: |
+    * Your Fate with siblings is weak but not afflicted.
+    * You will find a “sibling-like” friend or mentor to guide and protect you when you are young.
+    * You may do well at school.
+    * The vacuum of support you feel from others may open your spiritual path to you (apophetic).
+    * Though nothing momentous happens to clear your Fate in childhood you are unlikely to be abused, afflicted or obstructed.
+
+- star: LianZhen
+  palace: Youth
+  inHouseWith:
+    - - TanLang
+      - QiSha
+  auspices: Neutral
+  comments: |
+    Indicates you will harvest some dark Fate in childhood. You will attract an inappropriate alliance with a person who harms or abuses you as an escape from isolation. In an effort to establish independence you will subordinate to a dark or anti-social person (lover). You will follow an ill- behaved sibling. This bad judgment will turn into a series of choices (addictions) that strengthens the entanglement and weight of your Fate. You will live as a “survivor” of your youth. You will fail at recovery schemes. You will fall in with the “wrong crowd” and enjoy degradation (sado-masochism).
+
+- star: LianZhen
+  palace: Youth
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Neutral
+  comments: |
+    The afflictions mentioned above will be missed “by an inch”. You will narrowly escape a dissolute youth. Though you spend much of your youth associating with danger (siblings and friends) you will be able to escape the weight of more and heavier Fate. You will feign madness, illness or incompetence in order to escape blame for misconduct.
+
+- star: TianFu
+  palace: Youth
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    You have important connections with Siblings that will help you resolve Fate. Without effort your childhood will be full of Fate resolution.
+
+    When the Empress appears in the Youth/Siblings Palace:
+
+    * You have a strong predestined affinity with your brothers or sisters (associated w matriarchal ancestors).
+    * You will have many brothers and sisters.
+    * You will be a charming and precocious child and you easily mesmerize adults.
+    * You will do well in a family business.
+    * One of your sisters is an important mentor or companion.
+
+- star: TianFu
+  palace: Youth
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianKui
+      - TianCun
+  auspices: Exalted
+  comments: |
+    * There will be harmony in the resolution of your sibling shared Fate.
+    * You will do well at school and show early signs of spiritual maturity and social leadership.
+
+- star: TianFu
+  palace: Youth
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Positive
+  comments: |
+    * There will be turmoil in your sibling relationships that inhibits but does not obstruct Fate resolution.
+    * Unexpected reversals of support will occur due to conflicts, emotions, arguments and betrayals; yet all this will not sever your sibling Fate ties.
+    * Due to some negative incidents and/or hurt feelings in childhood some Fate resolutions will be postponed (Goat Blade/Halberd).
+
+- star: TaiYin
+  palace: Youth
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    You have important connections with Siblings that will help you resolve Fate. Without effort your childhood will be full of Fate resolution.
+
+    * When the Moon appears in the Youth Palace or House of Siblings you have a delicate (almost telepathic) predestined affinity with your brothers and sisters and/or you have few brothers and sisters.
+    * You will likely grow apart from your siblings as you mature.
+    * Your affinity with your sister(s) is greater than with brother(s).
+    * You are shy and imaginative as a child but overcome the shyness as you mature.
+    * You are a “late bloomer”.
+
+- star: TaiYin
+  palace: Youth
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianCun
+      - TianKui
+  auspices: Mixed
+  comments: |
+    There will be harmony in the resolution of your sibling shared Fate, but support and progress will be sporadic and uneven. You have strong Fate connections with a sister(s). As you grow older you will grow further apart.
+
+- star: TaiYin
+  palace: Youth
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Positive
+  comments: |
+    * Indicates that your shared sibling Fate is tangled up in complex relationships.
+    * Your ability to work with siblings will wax and wane. As a child you will be distracted and aloof.
+    * Your childhood will have “chapters” or reversals of Fate.
+    * You will find sibling relations draining.
+
+- star: TanLang
+  palace: Youth
+  inHouseWith: []
+  auspices: Mixed
+  comments: |
+    You have important connections with Siblings that will help you resolve Fate. Without effort your childhood will be full of Fate resolution.
+
+    (--)
+
+    * When the Wolf appears in the Youth/ Siblings Palace you will have few or no siblings.
+    * You do not receive reliable support from your siblings.
+    * You may receive unfair punishment or (sexual) abuse during childhood.
+    * You will be separated from your brothers and sisters, be a stepchild or adopted.
+    * If there are no other afflicting stars, you will develop a sly and independent character early (7-8 years old) in life.
+    * You will mature early (become sexual) and not have a real or ordinary childhood.
+
+- star: TanLang
+  palace: Youth
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianKui
+      - TianCun
+  auspices: Mixed
+  comments: |
+    * The shared sibling Fate is good but its effect is to make you strong and independent.
+    * You will look up to siblings who are strong, even mean.
+    * Your delinquent and competitive actions succeed.
+    * In your childhood your anti-social actions win admirers.
+    * You will be a successful thief, plagiarist or forger.
+    * Your solitude will have spiritual awakening in it.
+
+- star: TanLang
+  palace: Youth
+  inHouseWith:
+    - - TianCun
+  auspices: Mixed
+  comments: |
+    * You will find harmony in relationship with one sibling.
+    * You will successfully collaborate (partners in crime).
+
+- star: TanLang
+  palace: Youth
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Mixed
+  comments: |
+    * Limited progress is made on shared sibling Fate.
+    * You are likely to succeed in severing all ties with siblings. This liberation is Fated.
+    * The loss of support will haunt you emotionally but not be an obstruction to personal success.
+    * This configuration invites penance, confession and/or austerity.
+
+- star: TianXiang
+  palace: Youth
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    You have important connections with Siblings that will help you resolve Fate. Without effort your childhood will be full of Fate resolution.
+
+    * When the Tutor appears in the Youth/ Siblings Palace you will have a few or no siblings.
+    * You will win their support and admiration and receive material support from them.
+    * In childhood (5-18 years old), you will do very well at school.
+    * If there are no afflicting stars, you will win the unqualified admiration of your teachers (elders) and enjoy being a model for other students.
+    * You mature very quickly, taking on an adult/protector role with your peers, juniors and siblings.
+
+- star: TianXiang
+  palace: Youth
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianKui
+      - TianCun
+  auspices: Exalted
+  comments: |
+    * Shared sibling Fate is minor but your ties are strong and long-lived.
+    * You will find stronger “family-feelings” in school or at work as a youth.
+    * You will enjoy school.
+    * You will find the keys to a spiritual Path waiting for you in childhood.
+
+- star: TianXiang
+  palace: Youth
+  inHouseWith:
+    - - TianCun
+  auspices: Exalted
+  comments: |
+    * You will be close and supportive with one sibling.
+    * You will be tied to one sibling by finances (resources).
+
+- star: TianXiang
+  palace: Youth
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Mixed
+  comments: |
+    * Your shared sibling Fate is very weak.
+    * You may be called on to be a surrogate parent, but you do not enjoy it or take it to heart.
+    * You will leave your siblings out of your life; this is your Fate.
+    * Using your intelligence to overcome emotions is key to resolution. Let go.
+
+- star: TianLiang
+  palace: Youth
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    Your shared sibling Fate has to do with property or place. Your childhood is spent in a very Fate resolving place – home.
+
+    * You will have few siblings.
+    * You will give and receive the support and encouragement from your siblings.
+    * You will work in a family business.
+    * You are a shy but imaginative child, finding solace in places rather than people.
+    * If there are no afflicting stars, you will develop a strong body when young.
+    * You are a well-behaved child.
+
+- star: TianLiang
+  palace: Youth
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianKui
+      - TianCun
+  auspices: Positive
+  comments: |
+    Shared sibling Fate is manifest in home, place, identity and/or culture.
+
+    * You and your siblings (tho few) have a strong partner in the geography of your childhood.
+    * You meet in this place to manifest and resolve all shared Fate.
+    * You will worship mountains and forests.
+    * You will share the ownership of property with siblings.
+
+- star: TianLiang
+  palace: Youth
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Positive
+  comments: |
+    * The weakness in your shared sibling Fate causes you to “leave home” early and/or resolutely. You are free to go.
+    * Though you will long for the lost feelings – you will look for them in a new home/place (Goat Blade).
+
+- star: QiSha
+  palace: Youth
+  inHouseWith: []
+  auspices: Haunted
+  comments: |
+    Your shared sibling Fate is irresolvable. There is a demonic qi manifest in your sibling relationships. You will be harmed/injured by or lose (by sudden death/suicide) a sibling. Your sibling shared Fate is full of betrayal, conflicting emotions and abandonment. Resolution of any kind will be based on loss and/or escape.
+
+    * You will have few or no siblings.
+    * You are a reclusive or anti-social child, finding people disappointing in general.
+    * Your sexuality may bloom early and cause you to mature too quickly. This will make you feel disconnected and distrustful of your peers (generation).
+    * If there are other afflicting stars, you will not get support from your siblings.
+    * You will be injured when young.
+    * All the above are due to the negative promptings and obstructions of the unsettled dead.
+
+- star: QiSha
+  palace: Youth
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianKui
+      - TianCun
+  auspices: Mixed
+  comments: |
+    Shared sibling Fate may be successfully abandoned.
+
+    * You will be raised by adoptive parents and treated well (Leader, Storehouse).
+    * You will grow up very fast and use school and work as a Path (Magistrate).
+    * Intelligence must be used to overcome the urge to overreact.
+    * Tremendous difficulties in childhood will open your spiritual Path (Priest).
+    * Though you escape childhood difficulties you never forget them (haunted, motivated).
+
+- star: QiSha
+  palace: Youth
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Haunted
+  comments: |
+    * You will be tormented as a child by siblings and an irresolvable tangle of Fate (demonic).
+    * The lingering ghosts of your family possess all your siblings from time to time. The only release available from the darkness of this Fate is complete and utter abandonment (apophetic release).
+    * Consider monasticism.
+    * If this affliction goes unresolved you may take your own life or be devoured in the intermediate states (bardo) by overwhelming negativity.
+    * Such a harsh experience is a resolution.
+
+- star: PoJun
+  palace: Youth
+  inHouseWith: []
+  auspices: Negative
+  comments: |
+    Your shared sibling Fate is weak. You are an only child. You are unable to relate to siblings. You are adopted – have only step-siblings. You spend much of your youth struggling to be an adult.
+
+    * When Rebel appears in the Youth/Siblings Palace your sibling shared Fate will be full of drama and contain several reversals of feeling.
+    * You have no predestined affinity with supportive siblings.
+    * Your youth will be spent “bucking authority”. You may leave school before graduation, run away from home or get adopted.
+
+- star: PoJun
+  palace: Youth
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianKui
+      - TianCun
+  auspices: Mixed
+  comments: |
+    * Shared sibling Fate is weak and resolved quickly by distance.
+    * Your siblings encourage and support your independence (Assistants).
+    * You are adopted by kind strangers (Magistrate/Priest).
+
+- star: PoJun
+  palace: Youth
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Mixed
+  comments: |
+    * Your shared sibling Fate is harsh and the difficulties inspire all sorts of conflicting emotions (Fire/Water).
+    * You may escape (Halberd, Goat Blade) but will be haunted (Loss/Void) by the solitude and/or loss. If this affliction goes unresolved you may take your own life or be devoured in the intermediate states (bardo) by overwhelming negativity.
+
+- star: WenChang
+  palace: Youth
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    Your shared sibling Fate is mild. You are competitive as a child. You develop and focus on a long-term goal when young.
+
+    * You have predestined affinity with supportive siblings.
+    * Working in an on-going family business can continue to be successful.
+    * You will do very well at school and will be well liked by the teachers.
+    * You’re a geek or a nerd.
+
+- star: WenChang
+  palace: Youth
+  inHouseWith:
+    - - WenQu
+      - ZuoFu
+      - YouBi
+      - TianKui
+      - TianYue
+  auspices: Positive
+  comments: |
+    * Your shared sibling Fate has a sweet and supportive outcome.
+    * You will work together and prosper.
+    * You will have a good support to freely find your spiritual Path.
+    * Your youthful intelligence may distance you from others but also brings admiration.
+    * You enjoy school.
+
+- star: WenChang
+  palace: Youth
+  inHouseWith:
+    - - TianCun
+  auspices: Positive
+  comments: |
+    * You will be close and supportive with your sibling(s).
+    * You will be linked to your siblings by finances (resources).
+    * You will be a Junior Enterprise prizewinner.
+
+- star: WenChang
+  palace: Youth
+  inHouseWith:
+    - - YangRen
+      - TuoLuo
+  auspices: Negative
+  comments: |
+    You may lose a sibling to early or sudden death. This will hurt you but also give you a strong sense of dedication and will. You easily resolve his/her death by your own life success.
+
+- star: WenQu
+  palace: Youth
+  inHouseWith: []
+  auspices: Neutral
+  comments: |
+    Your shared sibling Fate is mild. You are competitive as a child. You develop and focus on a long-term goal when young.
+
+    * When the Wen Qu star appears in the Youth/Siblings Palace you have weak predestined affinity with your siblings.
+    * You will go to parochial or private school.
+    * You will be an only child or be distant from your siblings.
+    * You are a sensitive child.
+
+- star: WenQu
+  palace: Youth
+  inHouseWith:
+    - - WenChang
+      - ZuoFu
+      - YouBi
+      - TianKui
+      - TianYue
+  auspices: Neutral
+  comments: |
+    * Your shared sibling Fate mildly supportive.
+    * You will emotionally support each other.
+    * You will have an early spiritual Path connection.
+    * Your youthful distractedness may distance you from others but also brings admiration.
+    * You will find many brothers and sisters outside family – “a spiritual family”.
+    * You will successfully pray for your siblings.
+
+- star: WenQu
+  palace: Youth
+  inHouseWith:
+    - - TianCun
+  auspices: Neutral
+  comments: |
+    * You will be close and supportive with your sibling(s).
+    * You will be linked to your siblings by finances (resources).
+    * Your siblings will support you financially.
+    * You will be a monk/nun or parish priest.
+
+- star: WenQu
+  palace: Youth
+  inHouseWith:
+    - - YangRen
+      - TuoLuo
+  auspices: Negative
+  comments: |
+    * You may lose a sibling (twin) to early or sudden death. This will deeply hurt you but also give you a strong sense of the spiritual dimension of life.
+    * You easily resolve his/her death by your attention and prayer.

@@ -1,0 +1,900 @@
+---
+- star: ZiWei
+  palace: Partner
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    Without affliction there will be a strong resolution of Fate when you meet and/or commit to a partner. Your partner is aloof, aristocratic or very wealthy but this is no problem in the relationship if you marry after age 28.
+
+- star: ZiWei
+  palace: Partner
+  inHouseWith:
+    - - TianFu
+  auspices: Exalted
+  comments: |
+    Without affliction, you have a strong predestined affinity with a life-partner or the institution of marriage.
+
+    * Once married your Fate resolves effortlessly.
+    * Your partner will be faithful and devoted to you “til death do us part”.
+    * Your wedding will be a life-changing experience. Life’s obstacles will vanish when you say: “I do”.
+    * Your predestined affinity with someone as partner is central to the resolution of your Fate and the expression of Freedom.
+
+- star: ZiWei
+  palace: Partner
+  inHouseWith:
+    - - TanLang
+  auspices: Mixed
+  comments: |
+    * You will divorce or one of you will die (young).
+    * You will avoid conventional marriage.
+    * You will have an unconventional or anti-social partner.
+    * You will be promiscuous and selfish due to ghost possession.
+    * You will be alone most or all of your life.
+
+- star: ZiWei
+  palace: Partner
+  inHouseWith:
+    - - TianXiang
+  auspices: Positive
+  comments: |
+    * You will have a partner from another generation (discrepancy in age).
+    * You will marry late in life (30+).
+    * Your partnership will lack romance but be very comfortable; you marry a mentor or guardian.
+    * Your partner is kind but preoccupied with work, or children and away from you often. 5) Marriage will facilitate your career Fate (family business).
+
+- star: ZiWei
+  palace: Partner
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+  auspices: Positive
+  comments: |
+    * You will meet and marry a kind and supportive partner.
+    * Your partner will bring you love and happiness.
+    * Your marriage resolves Fate and demonstrates Freedom.
+
+- star: ZiWei
+  palace: Partner
+  inHouseWith:
+    - - QiSha
+  auspices: Haunted
+  comments: |
+    * Your marriage if a constant struggle. You enter marriage without any self-knowledge and quarrel constantly.
+    * You are destined to have or be a domineering partner.
+    * If other afflicting stars appear here the affliction is worse. One or both of you develop illnesses (physical or mental) or die prematurely.
+    * You work successfully as a dominatrix or bondage master.
+
+- star: ZiWei
+  palace: Partner
+  inHouseWith:
+    - - PoJun
+      - TianYue
+      - TuoLuo
+  auspices: Haunted
+  comments: |
+    * Conventional marriage unsuccessful. There will be divorce.
+    * Choosing an unconventional marriage partner goes well (discrepancy in age, class, religion
+    * You will marry late. Your relationship provides an island of happiness in a hostile society.
+
+- star: ZiWei
+  palace: Partner
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+  auspices: Mixed
+  comments: |
+    * You will argue and struggle with your partner emotionally.
+    * You will repeatedly argue and “make up”.
+    * You will divorce for what will later seem silly reasons.
+    * You or your partner will be unrealistically demanding – you will hurt each other often but sort it out by midlife.
+
+- star: ZiWei
+  palace: Partner
+  inHouseWith:
+    - - YangRen
+  auspices: Mixed
+  comments: |
+    * Your marriage will be rife with quarrels and will evolve into a solid and happy relationship in midlife.
+    * The marriage will start out as a struggle (emotions, resources) but survive and prosper.
+
+- star: ZiWei
+  palace: Partner
+  inHouseWith:
+    - - TianCun
+  auspices: Mixed
+  comments: |
+    * You marry for money.
+    * Your marriage improves your Fate with new resources.
+
+- star: ZiWei
+  palace: Partner
+  inHouseWith:
+    - - DiJie
+      - DiGong
+  auspices: Mixed
+  comments: |
+    * You will marry and divorce very young. This will be insignificant – a dim memory.
+    * You will be ripped-off by a hooker or transvestite.
+    * You will pay for an “escort”.
+
+
+- star: TianJi
+  palace: Partner
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    Without affliction there will be a strong resolution of Fate when you marry. Your partner and you have deep predestined affinity.
+
+    * When the Oracle appears without affliction in the Partners Palace your marriage will be emotionally shaky due to a discrepancy in ages (female younger). Both partners will find it difficult to express their feelings.
+    * The emotional and psychic bonds of your marriage are deeply fated and will weather the many difficulties of life.
+    * Though you both love each other, one partner is likely to outlive the other. One will live alone for many years.
+    * Your partner will be very attractive.
+    * You may live as a monk or nun.
+    * You are intuitively wired to a partner.
+
+- star: TianJi
+  palace: Partner
+  inHouseWith:
+    - - TaiYin
+  auspices: Exalted
+  comments: |
+    * You will be drawn to your predestined partner by appearance (good looks). You will “shop” for a mate.
+    * Romance will be an important aspect of your Fate in this house, but is likely to cause you to drift in and out of relationships without commitment.
+    * Your marriage will weaken as you age (change appearance).
+    * Your marriage succeeds and helps you mature as a person. You and your partner will be mirrors for each other. In old age you become like siblings, etc. (matching jumpsuits on the cruise ship)
+    * You will marry for “spiritual” security or due to spiritual familiarity.
+
+- star: TianJi
+  palace: Partner
+  inHouseWith:
+    - - TianLiang
+  auspices: Neutral
+  comments: |
+    * Your partner will be older, more mature and prosperous than you.
+    * You will marry the “boy/girl” next door.
+    * Ethnic, racial or geographical concerns are strong in your choice of partner.
+    * You will “settle down” (in a particular place) due to marriage.
+    * You will inherit or purchase property in connection with your partner and/or wedding.
+    * You will immigrate to the home (place) of your partner (change citizenship, language, etc.) This new place will intuitively feel like an “old home”.
+    * Marriage will provide a strong sense of spiritual ‘grounding’.
+
+- star: TianJi
+  palace: Partner
+  inHouseWith:
+    - - TianCun
+      - JuMen
+  auspices: Neutral
+  comments: |
+    * Your partner will be very attractive, prosperous and loyal.
+    * Though your choice will be immature (early, escapist) or weak (superficial) at first, the partnership will weather many changes.
+    * One of you will live much longer than the other.
+    * Alone in later life you will develop a strong sense of the spiritual dimensions of life.
+
+- star: TaiYang
+  palace: Partner
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    Without affliction marriage will facilitate a strong and smooth resolution of Fate.
+    You have a strong and certain predestined affinity with a partner. Your marriage is “arranged” by Fate.
+
+    * When the Sun appears in the Partners Palace or House of Marriage it indicates a strong predestined affinity with a partner. The karmic bond will be obvious – you were “previously betrothed”.
+    * You will marry young and stay together for a long time.
+    * Your partner will bring you social status and financial benefit.
+    * Your partner will be very attractive.
+    * Your partner will be like a parent or teacher – he/she will “open up your life” or initiate a new sense of life for you.
+
+- star: TaiYang
+  palace: Partner
+  inHouseWith:
+    - - TaiYin
+      - TianLiang
+      - TianCun
+  auspices: Positive
+  comments: |
+    * Your life seems to “begin” at your conventional wedding.
+    * The Fate to marry is pivotal in the resolution of your Fate.
+    * You find a perfect match.
+    * Your partner fills in all the blanks, finishes your sentences and is kind and supportive.
+    * Your marriage unites two clans.
+    * All the above is true and somehow unsatisfactory or incomplete (depending on character).
+
+- star: TaiYang
+  palace: Partner
+  inHouseWith:
+    - - JuMen
+  auspices: Mixed
+  comments: |
+    * You will drift from partner to partner or find no one of interest to marry.
+    * If your partner chooses you, you get entangled in their Fate. You resolve your partners Fate not yours.
+
+- star: TaiYang
+  palace: Partner
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Negative
+  comments: |
+    * You will be a distant partner finding commitment difficult – a struggle.
+    * Argument and discord characterize your married life.
+    * You and/or your partner commit “on the rebound” from other unsuccessful relationships.
+    * You will marry and divorce for trivial reasons.
+    * No children will be born in your marriage.
+    * You will be renunciate.
+
+- star: WuQu
+  palace: Partner
+  inHouseWith: []
+  auspices: Negative
+  comments: |
+    Uneven or unreliable partner relationship due to the military and aged image of the general.
+
+    * You are predestined to marry late in life (40- 60).
+    * If you marry early, one of you will leave, die or be chronically ill.
+    * You will live alone. You will be a long-lived widow/widower/divorcee.
+
+- star: WuQu
+  palace: Partner
+  inHouseWith:
+    - - TianXiang
+  auspices: Neutral
+  comments: |
+    * You are likely to marry late or marry someone of different generation (20 yrs different).
+    * The partnership will have a dull and unromantic but protective quality.
+    * The younger person is likely to hurt or abandon the older one.
+    * You will remarry in old age and be very happy.
+
+- star: WuQu
+  palace: Partner
+  inHouseWith:
+    - - WenChang
+      - WenQu
+  auspices: Positive
+  comments: |
+    * Your marriage will take you to another social realm.
+    * You will be greatly benefited from marriage (increased social standing, education, career advancement and financial success).
+    * You will change religions to marry your spouse.
+    * You will marry a colleague or college rommate.
+
+- star: WuQu
+  palace: Partner
+  inHouseWith:
+    - - TianCun
+      - ZuoFu
+      - YouBi
+  auspices: Positive
+  comments: |
+    * You will marry someone with far greater financial resources.
+    * You will marry the boss and inherit the business.
+
+- star: WuQu
+  palace: Partner
+  inHouseWith:
+    - - QiSha
+  auspices: Mixed
+  comments: |
+    * You will divorce or become a widow/widower. This may however, leave you with considerable inherited resources and personal freedom.
+    * You will with a broken-heart in a very big house.
+    * You marry for money but slowly fall in love – then your partner dies.
+
+- star: WuQu
+  palace: Partner
+  inHouseWith:
+    - - TanLang
+      - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Mixed
+  comments: |
+    * You will lose a partner to divorce or premature death. This experience will not ‘set you free’ but will give you a very unique (strange) sense of what relationship is. This sense will be responsible for diverse short-lived relationships.
+    * A long pattern of frustration or celibacy haunts your marriage.
+    * After a quarrelsome divorce your partner Fate ends.
+
+
+- star: TianTong
+  palace: Partner
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    Indicates a marriage offers a useful resolution of Fate. You have predestined affinity with a life-partner.
+
+    * You are predestined to marry a very compatible partner.
+    * Your partner will be gentle, compatible and attractive. You have a strong predestined affinity.
+    * If there are no afflicting stars, romance and your married life will be a wellspring of happiness.
+    * Even if there are afflicting stars (divorce) you will be lifelong friends/companions with your partner.
+
+
+- star: TianTong
+  palace: Partner
+  inHouseWith:
+    - - TaiYin
+  auspices: Positive
+  comments: |
+    * You will partner with a kind and attractive person.
+    * You will be a devoted spouse.
+    * You will rely on your partner to resolve much of your Fate.
+    * Gender roles will be significant in your relationship.
+    * One of you will grow distant or complacent as you grow old, though betrayal will not occur.
+    * You will stay with your partner out of fear of others.
+
+- star: TianTong
+  palace: Partner
+  inHouseWith:
+    - - JuMen
+  auspices: Neutral
+  comments: |
+    * You have no real Fate with one life-partner but will have several.
+    * You and/or your partner will be unfaithful.
+    * You will be a divorcee or widow/widower when young.
+    * If you are chosen (after 30) by your partner you will likely stay together.
+
+- star: TianTong
+  palace: Partner
+  inHouseWith:
+    - - TianLiang
+  auspices: Exalted
+  comments: |
+    * Your marriage will result in great happiness, stability and prosperity.
+    * You have profound predestined affinity with your partner.
+    * Your love for each other overflows – you will have many children.
+    * You will leave a great legacy to your children.
+    * Your partnership has positive influence on many other people.
+    * Love, loyalty and happiness are effortless.
+
+- star: TianTong
+  palace: Partner
+  inHouseWith:
+    - - TianCun
+  auspices: Exalted
+  comments: |
+    * Your predestined affinity with a partner is strong and brings prosperity.
+
+- star: TianTong
+  palace: Partner
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianYue
+  auspices: Positive
+  comments: |
+    * Your Fate with a life-partner is strong and solid.
+    * You may marry a colleague, roommate or your accountant and live happily-ever- after.
+    * Marriage opens the spiritual dimension of your life.
+    * Marriage and your partner inspire promotions in your work.
+    * Though your partner was not your “first choice” it works out very well.
+
+- star: TianTong
+  palace: Partner
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - TuoLuo
+      - DiGong
+      - DiJie
+  auspices: Negative
+  comments: |
+    * You be confused by a tangle of arguments and insults that plague your marriage.
+    * Your relationship with a life-partner is full of struggle and survival – you will be deeply hurt.
+    * You will choose monasticism.
+    * You will live as a grieving widow/widower.
+    * You will experience a devastating divorce. Your partner will deplete your resources in a divorce.
+
+- star: LianZhen
+  palace: Partner
+  inHouseWith: []
+  auspices: Negative
+  comments: |
+    Indicates a strong predestined affinity with a partner in life – but this can go very well and/or very badly.
+
+    * When the Concubine appears in the Partners Palace you are predestined to have an unhappy married life. Your marriage will be full of quarreling and end in divorce or the death of one partner.
+    * You will marry very early and things will end badly.
+    * Your marriage will be characterized by irreconcilable differences (thought, ages and/or beliefs).
+    * If you marry late (after 26) the marriage will last.
+
+- star: LianZhen
+  palace: Partner
+  inHouseWith:
+    - - TianFu
+      - TianXiang
+      - TianKui
+      - TianCun
+  auspices: Positive
+  comments: |
+    * You will be subordinated by your partner. Your predestined affinity is to a partner who protects you.
+    * Your partner though difficult and argumentative will be a good provider and guardian.
+    * If you can avoid confrontation you will not be abandoned.
+    * If you marry late or someone older than you, you will resolve this Fate easier.
+    * You will marry Rex Harrison (have a Pygmalion relationship). Wouldn’t it be loverly?
+    * The femme/butch images work out very well.
+
+- star: LianZhen
+  palace: Partner
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianYue
+  auspices: Mixed
+  comments: |
+    * Your Fate with a partner is complicated by family business, religious differences and or relationships with other people.
+    * You will “marry your work/career”.
+    * You will marry a colleague or customer.
+    * You will marry a defrocked monk/nun.
+    * You will marry your best friends spouse.
+
+- star: LianZhen
+  palace: Partner
+  inHouseWith:
+    - - TanLang
+      - QiSha
+      - PoJun
+  auspices: Haunted
+  comments: |
+    * The relationship of life-partner will become a negative obsession. Unable to make committed relationships you will struggle to make “substitutes” that don’t work.
+    * You will be abused and/or abusive to your spouse.
+    * You will be abandoned.
+    * You will survive a “nightmare” relationship and be free of Fate in this Palace.
+    * You will die at the hands of someone you loved. This will end your family name.
+    * You will marry Jesus and be a nun.
+    * You will marry your same-sex partners at San Francisco City Hall and manage an island of happiness in a sea of hostility. You and your partner will be ostracized.
+
+- star: LianZhen
+  palace: Partner
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Haunted
+  comments: |
+    * You will not escape the hazards mentioned above. You will drift through a series of impossible relationships. You should be reconciled to solitude but you struggle.
+
+
+- star: TianFu
+  palace: Partner
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    You have important connections with a Partner that will help you resolve Fate. Without effort your Partner or Marriage itself will thoroughly resolve your Fate.
+
+    * You are predestined to meet and marry a bright and supportive mate. Your marriage will involve you in a rich social life.
+    * You have big karma with your partner. You are “previously (past life) betrothed”.
+    * Marriage will expand you financial resources.
+    * If no afflicting stars appear here, marriage will be a major milestone in your life. A wedding ceremony resolves most, or all of your Fate.
+
+- star: TianFu
+  palace: Partner
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianCun
+  auspices: Exalted
+  comments: |
+    * There will be harmony and great prosperity for you in marriage.
+    * Your partner will be bright, affectionate and resourceful.
+    * You will feel that the relationship “resumes” or feels very familiar.
+    * You will both wish to “serve” each other.
+    * Your success in marriage will positively affect those around you (family, friends).
+    * Your marriage will be “courtly”.
+
+- star: TianFu
+  palace: Partner
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Exalted
+  comments: |
+    There will be attraction between you and your partner but also some incompatibility. Though you may stay together (or not) [Goat Blade]) there will be a good deal of bickering and discrepancies in your worldview. These differences may be resolved over time and resolve residual Fate (karmic traces).
+
+    An empress with incompetent hairdresser is nevertheless an empress.
+
+- star: TaiYin
+  palace: Partner
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    You will have an attractive (physical, character) partner. You will meet because of this attraction. 
+    You will be chosen, not the chooser.
+
+    * You are predestined to meet and marry an attractive partner. (A beautiful wife brings some anxiety to her husband and/or a too handsome husband may be unfaithful to his wife, etc.).
+    * You will marry very early and not be well equipped for life together.
+    * Your marriage has ups and downs but it can be negotiated into a long time partnership.
+    * You drift from partner to partner with uncertain fate.
+    * You will not choose a partner you will be “chosen”.
+    * Gender ambiguity will complicate your Fate.
+
+- star: TaiYin
+  palace: Partner
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianKui
+      - TianCun
+  auspices: Positive
+  comments: |
+    There will be great affection and modesty in your relationship. You will be mutually supportive. 
+    You grow fonder of each other as you age. You may work together. 
+    You are both particularly insightful and help each other through the unevenness of life. 
+    You are truly partners (see Sun and Moon).
+
+- star: TaiYin
+  palace: Partner
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Mixed
+  comments: |
+    One of the partners will create jealousy in the other. There will be accusations and perhaps infidelities. 
+    Apologies and forgiveness will give the relationship longevity. You may divorce over a trifling incident.
+
+    Emotions run high so the character will shape the auspices.
+
+- star: TanLang
+  palace: Partner
+  inHouseWith: []
+  auspices: Haunted
+  comments: |
+    You will be content to be single. You are jealous and demanding or oversexed and find relationships difficult. You will have a very unconventional relationship or live alone.
+
+    * You are predestined to have many partners, but most will be short-lived relationships.
+    * You always find fault in partners.
+    * Your partner will be sweet before the wedding but nagging, unfaithful and argumentative after the wedding.
+    * You will experience divorce.
+    * If there are no other afflicting stars, you will marry a like-minded person late (50+) in life.
+    * You are an “emotional late bloomer”.
+    * Your life-partnership will be basically anti- social.
+    * You will have an unusually strong relationship with animals or objects.
+
+- star: TanLang
+  palace: Partner
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianKui
+  auspices: Haunted
+  comments: |
+    * There will be a chance for successful marriage after age 35 or so.
+    * You will lose a partner to premature death or painful divorce, do considerable grieving and then remarry late.
+    * A second or third marriage works.
+    * You marry another wolf – someone with the same disappointments and grudges.
+    * You find your partner at an AA, anarchist or terrorist cell meeting or an S&M bar.
+    * You make a lovely, if quirky, couple.
+
+- star: TanLang
+  palace: Partner
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+      - TianCun
+  auspices: Mixed
+  comments: |
+    * You will divorce or become a widow(er).
+    * You will be promiscuous and hurt many times by partners.
+    * Emotional S&M is your Fate; many broken relationships are your karmic “pay back”.
+    * Every painful incident resolves Fate.
+    * You are a survivor and at the end of this story (mid- life) you will a good deal of freedom.
+
+- star: JuMen
+  palace: Partner
+  inHouseWith: []
+  auspices: Haunted
+  comments: |
+    You have no particular Fate with a life partner. If you marry you will be chosen, not the chooser. You will be promiscuous. You will not handle the apparent freedom here very well. Your character will create the auspice here.
+
+    * When the Great Gate appears in the Partners Palace you are not predestined to marry. Your partner will be attractive, social but nagging, and argumentative.
+    * You are unfaithful. You may marry more then once.
+    * If there are no other afflicting stars, your marriage will be characterized by tolerance not romance.
+
+- star: JuMen
+  palace: Partner
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianKui
+      - TianYue
+  auspices: Neutral
+  comments: |
+    * You will be chosen and there will be a chance for partnership but the person who chooses you will do all the “work” of maintaining the relationship.
+    * You are adored but look down on your admirers.
+    * You marry for social convenience or religious reasons only.
+    * You marry a partner to create/meet your children.
+
+- star: JuMen
+  palace: Partner
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Mixed
+  comments: |
+    * You will divorce for trivial reasons.
+    * You may be a widow(er).
+    * You will marry one person, while in love with another.
+    * You are in the closet.
+    * You will equate marriage to struggle.
+    * Your partner will win custody of your children and take your property.
+
+- star: JuMen
+  palace: Partner
+  inHouseWith:
+    - - TianCun
+  auspices: Mixed
+  comments: |
+    * You will marry and divorce for money.
+    * You will gamble with your emotions in marriage – and lose.
+    * A divorce settlement will go very badly against you.
+    * You gain freedom in this house by enormous loss.
+
+- star: TianXiang
+  palace: Partner
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    You will have a partner older or younger than you. You will have a partner with some sort of big discrepancy: like age, status, education or identity (national, racial, ethnic) difference. Though there is no great romance you are content together.
+
+    * When the Tutor appears in the Partners Palace you are predestined to marry someone older or younger than you. It is a spring/autumn romance.
+    * Your partner (wife or husband) will bring you respectability and maturity.
+    * You are close to your partner but there is little romance.
+    * You will marry a colleague or someone with similar interests and values.
+    * If there are no afflicting stars, you will have a peaceful marriage, but there will be something a little odd (unconventional) about it.
+
+- star: TianXiang
+  palace: Partner
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianKui
+      - TianYue
+  auspices: Mixed
+  comments: |
+    You will marry for companionship and affection but the differences between you will require continuous forgiveness and apologies.
+
+    * You will spend long periods apart.
+    * You may work together.
+    * You will share a spiritual Path.
+    * You are mutually supportive.
+
+- star: TianXiang
+  palace: Partner
+  inHouseWith:
+    - - TianCun
+  auspices: Mixed
+  comments: |
+    * You will marry someone of like mind and accomplish a great deal together.
+    * You will share a successful business.
+    * You will marry the boss (or your personal assistant).
+    * Your relationship will support many other people.
+
+- star: TianXiang
+  palace: Partner
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Negative
+  comments: |
+    * Your differences will go unresolved. The odds against you will win – you will divorce.
+    * You will struggle to stay together.
+    * One of you will become dominant and hold the relationship together.
+    * You will be married to work and a slightly tragic divorcee.
+
+- star: TianLiang
+  palace: Partner
+  inHouseWith: []
+  auspices: Neutral
+  comments: |
+    You will have a partner older or younger than you, very attractive and the romance will include “special places, songs, memories”. Discrepancies in age, religion, race, status or education will give your partnership “it’s own world”. The ownership of property will stabilize your relationship.
+
+    * When the Roofbeam appears in the Partners Palace you are predestined to have an attractive partner.
+    * Your partner(s) will find you modesty attractive.
+    * You will experience divorce, because you lack assertiveness.
+    * You will marry someone older or younger than you.
+    * If there are no afflicting stars, you will marry a like-minded person and respect each other very much.
+    * Your partner will give you property and/or social prestige.
+    * You marry above or below your “station”.
+
+- star: TianLiang
+  palace: Partner
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianKui
+      - TianYue
+  auspices: Exalted
+  comments: |
+    You will marry for love and be very close and supportive of each other. You share your wealth, resources and ideas to create a very solid partnership. Think: “match made in Heaven AND Earth”.
+
+- star: TianLiang
+  palace: Partner
+  inHouseWith:
+    - - TianCun
+  auspices: Exalted
+  comments: |
+    You will fall deeply in love. This love will develop a richness that grows and grows.
+
+- star: TianLiang
+  palace: Partner
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Negative
+  comments: |
+    * Your marriage will seem ideal but be plagued by petty and minor differences.
+    * Divorce will be contentious, emotionally painful and financially costly.
+    * This negativity will create a strong force for your maturation.
+
+- star: QiSha
+  palace: Partner
+  inHouseWith: []
+  auspices: Haunted
+  comments: |
+    You have fate to divorce, be a widow(er) and/or be murdered by your partner.
+
+    * You are predestined to marry early and then divorce.
+    * You will have many partners.
+    * Lacking self-reflection in personal matters, you will divorce impulsively.
+    * You are emotionally abusive or abused but refuse to admit it.
+    * You are a loner.
+    * If there are other afflicting stars, you will marry repeatedly and divorce repeatedly.
+    * Your partner will be sweet before the wedding and a monster after.
+    * There will be intermittent violence in your marriage.
+    * Your feelings towards your partner will fluctuate between love and hate. All the above is due to the promptings and obstructions of the unsettled dead.
+
+- star: QiSha
+  palace: Partner
+  inHouseWith: []
+  auspices: Haunted
+  comments: |
+    You have fate to divorce, be a widow(er) and/or be murdered by your partner.
+
+    * You are predestined to marry early and then divorce.
+    * You will have many partners.
+    * Lacking self-reflection in personal matters, you will divorce impulsively.
+    * You are emotionally abusive or abused but refuse to admit it.
+    * You are a loner.
+    * If there are other afflicting stars, you will marry repeatedly and divorce repeatedly.
+    * Your partner will be sweet before the wedding and a monster after.
+    * There will be intermittent violence in your marriage.
+    * Your feelings towards your partner will fluctuate between love and hate. All the above is due to the promptings and obstructions of the unsettled dead.
+
+    *When the 7 Killings appears in the Partners Palace with any of the stars that eclipse it you will be occasionally visited by irrational concerns. Doubts will occasionally haunt you (jealousy, self-worth issues). (Check with each major star and consider what they offer in terms of eclipse).*
+
+- star: QiSha
+  palace: Partner
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianKui
+      - TianCun
+      - TianYue
+  auspices: Mixed
+  comments: |
+    If you are self-reflective (don’t blame others), kind, generous and helpful to others and then marry late (after 40), the afflictions will be avoided.
+
+- star: QiSha
+  palace: Partner
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Haunted
+  comments: |
+    * You are at risk for harm from and giving harming your partner.
+    * You will blame partners for a series of divorces that are your Fate.
+    * You will marry harmful partners, divorce and do it again.
+    * You should not marry before midlife.
+    * You are in an obvious or forgotten historical (Fate/karmic) chain of spousal abuse (rejection).
+    * Falling in love puts you in a state of possession.
+    * Vows of marriage break older vows of celibacy and devotion – hence, feelings of guilt and failure appear in romance.
+
+- star: PoJun
+  palace: Partner
+  inHouseWith: []
+  auspices: Negative
+  comments: |
+    You have fate to divorce, be a widow(er) or create a very unconventional relationship. You will quickly find fault and misjudge potential partners. You will be married to an ex-con, junkie by a Druid, while African drums drown out the sound of the waves at Muir beach.
+
+    * When Rebel appears in the Partners Palace you and/or your chosen partner will be possessed/haunted by a Rebel ghost (who died unloved). You will marry early (or late) and then divorce. You will marry against the advice of others (elders, parents) and it ends in divorce.
+    * You will not marry but live with a lover.
+    * You are promiscuous.
+    * You will marry your “roommate” at San Francisco town hall (gay just to be “different”).
+    * If there are other afflicting stars, your divorce may be painfully damaging to you and/or your partner (premature death, madness).
+
+    If you fail to resolve Rebel before you die you (or both) will “be influenced” by the ghost in the transitory states.
+
+- star: PoJun
+  palace: Partner
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianKui
+      - TianCun
+      - TianYue
+  auspices: Mixed
+  comments: |
+    * You are predisposed to unconventional personal relationships.
+    * You will drift from one partner to another, easily distracted by variations on an unconventional idea of marriage.
+    * ou will have the chance to have a strange and wonderful relationship (w or w/out a wedding).
+    * You will marry the boss, fall in love with the choir director, marry someone half your age, etc.
+
+- star: PoJun
+  palace: Partner
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Mixed
+  comments: |
+    * You will never settle down with one partner but create relationships (good and bad) with many people.
+    * You will die alone having been abandoned and abandoning others.
+    * You don’t care.
+    * No one will sweep your grave.
+
+    Your character will shape the auspices.

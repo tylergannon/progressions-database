@@ -1,0 +1,591 @@
+---
+- star: ZiWei
+  palace: Property
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    * You have a predestined affinity with property ownership. Though you may buy or inherit or acquire property, it will not be important to you until you grow old.
+    * Ownership may seem burdensome until old age. 
+    * You will have a considerable amount of real property and material goods in your lifetime. 
+    * You will strongly identify with and derive great power from where you reside. 
+    * You will be sensitive to and/or practice fengshui.
+
+- star: ZiWei
+  palace: Property
+  inHouseWith:
+    - - TianFu
+      - TianXiang
+      - TianCun
+      - WenChang
+      - WenQu
+      - TianKui
+      - TianYue
+      - ZuoFu
+      - YouBi
+  auspices: Positive
+  comments: |
+    * You will identify and relate to the place of your birth.
+    * You will inherit real property. 
+    * You are a collector. 
+    * You are a landlord (lady). 
+    * You have a very strong sense of home and place. You are happiest (energized by being) at home. 
+    * You acquire property over time with the help and support of others. 
+    * You will be placed in a prominent and/or beneficial burial site. 
+    * You are greatly affected by fengshui and learn how to manage it well.
+
+- star: ZiWei
+  palace: Property
+  inHouseWith:
+    - - TanLang
+      - PoJun
+      - QiSha
+  auspices: Positive
+  comments: |
+    * You will enjoy your birthplace but circumstances will cause you to emigrate.
+    * You abandon your home for a life of wandering. 
+    * You are often negatively influenced by unsuitable fengshui. 
+    * You lose inherited property due to mismanagement, foreclosure or natural disaster (fire, flood or earthquake). 
+    * You die very far from where you were born. 
+    * You live your life as an “outsider, foreigner or stranger” but this helps you avoid calamity (7 Killings). 
+    * None of the above is a “big deal”.
+
+- star: TianJi
+  palace: Property
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    * You have no predestined affinity with the acquisition of property, but this does not turn out badly. You will not be poor or homeless, even though you may sell property at a loss.
+    * Modest property ownership will accompany a kind of spiritual maturation that occurs in later life (40-50). 
+    * You will drift from place to place throughout your life. You do not feel at home in the “world” or in the culture you are born in. 
+    * You will live as a guest in a house you do not own (monastery, hermitage, parish house, faculty housing). 
+    * You will enjoy travel.
+
+- star: TianJi
+  palace: Property
+  inHouseWith:
+    - - TianLiang
+      - TianCun
+      - TianKui
+      - TianYue
+      - YouBi
+      - ZuoFu
+  auspices: Positive
+  comments: |
+    * You have Fate connections to your place of birth.
+    * You will purchase, inherit and exchange property profitably. 
+    * Owning property plays an important role in the resolution of your Fate. 
+    * You will house and/or be housed by important people in your lifetime. 
+    * You are sensitive to fengshui and use it in the resolution of your Fate. 
+    * You will work as an architect, engineer and/or fengshui consultant. 
+    * Your Fate revolves around the ownership of property. 
+    * You have an ancestral guardian near the place of your birth. 
+    * Pilgrimage is an important part of your spiritual Path.
+
+
+- star: TianJi
+  palace: Property
+  inHouseWith:
+    - - JuMen
+      - TaiYin
+  auspices: Positive
+  comments: |
+    * You will have an uneven or confusing relationship with property ownership.
+    * All the issues of this Palace are muddled until after midlife (54). 
+    * You are a vagabond, drifter or haphazard immigrant.
+    * Your irresolute life sorts out late
+    * when an unsettled matriarchal ancestor is resolved by your settling down (purchasing property).
+    * You sell inherited property at a loss.
+
+- star: TianJi
+  palace: Property
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TuoLuo
+  auspices: Negative
+  comments: |
+    * You will be unsettled geographically until the issues of your Fate are settled.
+    * You are haunted by the notion that sedentary life is “dangerous” or unimportant. 
+    * Being a drifter helps resolve your Fate. 
+    * An ancestor that was killed in their home needs resolution. 
+    * You fight with family members over inherited property.
+
+- star: TaiYang
+  palace: Property
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    * You will inherit property.
+    * You cannot turn property into profit but you will not experience any serious losses of property. 
+    * Passionate attachment to property or place will be your downfall. 
+    * You will leave a legacy of property. 
+    * You will own property is partnership with others. 
+    * You will have strong identity with a place, culture, language or ethnicity.
+
+- star: TaiYang
+  palace: Property
+  inHouseWith:
+    - - TianLiang
+      - TaiYin
+      - TianCun
+  auspices: Positive
+  comments: |
+    * The inheriting, acquisition and sale of property plays a major role in the resolution of your Fate.
+    * You will buy and sell property very profitably. 
+    * You will be a local leader or hero (business, government, military, education and/or religion). 
+    * Much of your Fate is resolved by place (fengshui, travel, commitment to place). 
+    * Travel AND returning home resolve your Fate. 
+    * Pilgrimage is part of your Path. 
+    * You and your partner are “locals” – where you live is a significant aprt of your family success (Fate resolution).
+
+- star: TaiYang
+  palace: Property
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+  auspices: Positive
+  comments: |
+    * You have Fate connections to your place of birth.
+    * Owning property plays an important role in the resolution of your Fate. 
+    * You will given housing (faculty housing, parsonage, and monastery).
+
+- star: TaiYang
+  palace: Property
+  inHouseWith:
+    - - JuMen
+  auspices: Mixed
+  comments: |
+    * You will have a conflicted relationship with property ownership.
+    * All the issues of this Palace are conflicted until after midlife (54). 
+    * You are a vagabond, ronin, drifter or haphazard immigrant. 
+    * Your life’s struggles sort out late (5
+    * when an unsettled patriarchal ancestor is resolved by your settling down (purchasing property). 
+    * You sell inherited property at a loss, but this “releases” you from Fate entanglement. 
+    * You are an abbot or abbess. 
+    * You are a superintendent of an apartment building – property manager. You can “act” like you own property.
+
+- star: TaiYang
+  palace: Property
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TuoLuo
+  auspices: Mixed
+  comments: |
+    * You will be a renter.
+    * You move from place to place in order to resolve Fate. 
+    * You are sensitive to fengshui and therefore wander from place to place. Each place provides a negative resolution.
+
+- star: WuQu
+  palace: Property
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    * You have strong predestined affinity with the ownership of real estate and material goods. You will have the property status of a marquis.
+    * You are not greedy but you will spend your twilight years on a large estate surrounded by collections. 
+    * You may add to or profit from inherited land. 
+    * You are unlikely to have strong attachments to place. 
+    * You are not in need of fengshui harmony or safety.
+
+- star: WuQu
+  palace: Property
+  inHouseWith:
+    - - TianXiang
+      - TianFu
+      - TianCun
+      - WenChang
+      - WenQu
+      - HuoXing
+      - LingXing
+      - TianYue
+      - TianKui
+      - ZuoFu
+      - YouBi
+  auspices: Exalted
+  comments: |
+    * You will slowly acquire a considerable amount (or beautiful) property.
+    * Without specific intent you accumulate property (gifts, rewards, inheritance, Publisher’s Sweepstakes, spouse’s insurance, and/or long-term speculation). 
+    * You retire in great comfort and beautiful surroundings. 
+    * A lifetime of austerity (military) ends in the lap of luxury. 
+    * Longevity pays.
+
+- star: WuQu
+  palace: Property
+  inHouseWith:
+    - - TanLang
+  auspices: Positive
+  comments: |
+    * You will acquire property through defeating an enemy, confiscation, foreclosure and/or reward for unrelated work.
+    * You will retire in a place far from where you were born. 
+    * You convert your stately family home into a hotel, hospital, half-way house, flophouse or brothel.
+
+- star: WuQu
+  palace: Property
+  inHouseWith:
+    - - YangRen
+      - TianYue
+      - DiGong
+      - DiJie
+      - TuoLuo
+      - PoJun
+      - QiSha
+  auspices: Mixed
+  comments: |
+    * You will sell or gift inherited property (loss).
+    * Downton Abbey will be taken by the National Trust and you will be given you a flat on the back. 
+    * You sell your property to cover your retirement (hospital bills). Your twilight years are modest but sufficient. 
+    * You are humiliated by the loss of property (7 Killings) in midlife but gain longevity. 
+    * You live in assisted living situation (asylum, nursing home, etc.) in old age. The place is crowded with ghosts but you do fine. 
+    * You live on social security or disability checks.
+
+- star: TianTong
+  palace: Property
+  inHouseWith: []
+  auspices: Mixed
+  comments: |
+    * You have weak predestined affinity with the ownership of real estate and material goods.
+    * You lack interest in material possessions. 
+    * You will be a renter. 
+    * You will acquire some property late in life; even become a landlord. 
+    * You will die very far from where you were born.
+
+    ### Combinations:
+
+    * You are not concerned with local identity, material possessions or the ownership of property.
+    * Where you live will be determined by other important aspects of your Fate (work, Path and/or relationships).
+    * After 54 you may settle down, own property and/or develop a sense of home but only when all else is resolved. 
+    * You will return to your ancestral home or place of birth many times.
+
+- star: LianZhen
+  palace: Property
+  inHouseWith: []
+  auspices: Negative
+  comments: |
+    * You have no strong predestined affinity with the ownership of real estate and material goods, but you may be able to hold onto property that you inherit.
+    * You will receive property as a gift. 
+    * You will have an uneven relationship with the ownership of property. 
+    * You may inherit property or share ownership with others.
+
+- star: LianZhen
+  palace: Property
+  inHouseWith:
+    - - TianFu
+      - TianCun
+      - WenChang
+      - WenQu
+      - TianYue
+      - TianKui
+      - ZuoFu
+      - YouBi
+      - QiSha
+  auspices: Negative
+  comments: |
+    * You will live in property owned by your guardians, parents and/or partners all your life. You may have your name on a deed along with others but not alone.
+    * You are able to advise or influence others to acquire property. 
+    * You succeed at speculation or gambling and are therefore able to own property or land. 
+    * Rental income will be important. 
+    * You are always provided housing by others – it is part of your Fate.
+
+- star: LianZhen
+  palace: Property
+  inHouseWith:
+    - - TianXiang
+      - YangRen
+      - HuoXing
+      - LingXing
+      - TianYue
+      - DiJie
+      - DiGong
+      - TuoLuo
+      - TanLang
+      - PoJun
+      - QiSha
+  auspices: Negative
+  comments: |
+    * You will drift from place to place at the whim of others (follow).
+    * You are a renter.
+
+- star: TianFu
+  palace: Property
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    * You have a strong predestined affinity with the ownership of real estate and material goods, and you will be able to hold onto and add to the property that you inherit.
+    * You will do well buying and selling real estate. 
+    * Acquiring property will be a major milestone in your life. 
+    * You will leave a considerable material/property legacy. 
+    * You will own property jointly (partnership). 
+    * You will leave a legacy to a museum or public charity.
+
+    ### With any major star:
+
+    * You will benefit greatly from ownership and/or trading real goods.
+    * You will benefit greatly from where you were born (place, ethnicity, nationality, etc.).
+    * You are housed and comforted by others (or by special person, family member or spouse) due to previous causes. 
+    * You prosper from giving to charity (housing the poor).
+
+- star: TianFu
+  palace: Property
+  inHouseWith:
+    - - TianCun
+      - WenChang
+      - WenQu
+      - YouBi
+      - ZuoFu
+      - TianYue
+      - TianKui
+  auspices: Exalted
+  comments: |
+    * You will acquire and/or deal in property successfully.
+    * You will live in a beautiful location (geography or building). 
+    * You will own and/or deal in luxury items. 
+    * You are a landlord. Your income is derived from property ownership. 
+    * You take comfort and pride in where you are from (identify with a place or tribe associated with place). 
+    * You enjoy subculture. 
+    * Your education and/or religion give you great comfort and sense of identity. 
+    * All of the above apply and grow deeper and richer with age. 
+    * You leave a legacy.
+
+- star: TianFu
+  palace: Property
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Mixed
+  comments: |
+    * All of the above will be sidetracked, postponed and reversed by occasional misjudgments, disasters and old bad karma.
+    * You will be ashamed of or not appreciate your good fortune. This contributes to conduct that squanders or mishandles your resources. 
+    * You have a sense that you have “overcome” the odds of regional, ethnic or racial prejudice to become successful in ownership. 
+    * You occasionally succumb to collaboration with your oppressors – those who would keep you (and others like you) down. 
+    * Your success comes after or from great sacrifice. 
+    * You are motivated to succeed by a homeless ancestral ghost.
+
+    *However the Empress’s presence in this house always “succeeds”.*
+
+- star: TaiYin
+  palace: Property
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    * You have a predestined affinity with the ownership of real estate and material goods, and you will hold onto property that you inherit.
+    * If no afflicting stars appear here you will gradually acquire land. In old age you will own a great deal of property. 
+    * When you get old you will return to the place of your birth. 
+    * Acquiring property will begin late in life (48+). 
+    * You will own rural or remote property. 
+    * You will be a landlord or landlady.
+
+    ### With any supporting star:
+
+    * You will inherit property; you will enhance and secure your inheritance gradually.
+    * You share property ownership with another (or others). 
+    * You are the receiver of many gifts. 
+    * You are deeply affected by where you are (fengshui, design, color, etc.). 
+    * You will live in a spiritual community, parish or college campus.
+    * Your sense of place is associated with like-minded people. 
+    * You will live alone (widow, widower) in a formally shared property. 
+    * Throughout your life your interest in ownership of property or goods and your sense of place waxes and wanes.
+
+    ### With any afflicting star (the above still applies but ...) your vacillating interest in matters of material wealth are exacerbated by uneven circumstances, ghosts and bad judgment (partners, investments and emotions).
+
+    * You start out as an owner and end up a renter. 
+    * You die far from where you were born. 
+    * You emigrate successfully but often feel alone.
+
+- star: TanLang
+  palace: Property
+  inHouseWith: []
+  auspices: Haunted
+  comments: |
+    * You have a very uneven predestined affinity with the ownership of real estate and material goods. Gain and loss will alternate unevenly.
+    * You may lose property in a hostile lawsuit (divorce settlement) or by an act of God (flood, fire, etc.). 
+    * If there are no other afflicting stars, you may acquire some property of your own late (56+) in life. 
+    * You will reject your race, heritage or language. 
+    * You will never be at home anywhere. 
+    * You live in a trailer.
+
+- star: TanLang
+  palace: Property
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianCun
+      - ZuoFu
+      - YouBi
+  auspices: Mixed
+  comments: |
+    * You will struggle to own property and finally succeed in old age.
+    * You reject your birthplace, heritage and inheritance. In doing this you unknowingly resolve Fate. 
+    * You return to your hometown, culture, language, religion and/or nation in old age. 
+    * You are a happy vagabond. 
+    * You are a prodigal child.
+
+- star: TanLang
+  palace: Property
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - DiJie
+      - DiGong
+  auspices: Mixed
+  comments: |
+    * You successfully reinvent yourself in this lifetime (immigrant, refugee, ex-con).
+    * Rejection and abandonment of home, family and place sets you free. 
+    * You die (and are buried) far from where you were born. 
+    * You complete your gender reassignment.
+
+- star: JuMen
+  palace: Property
+  inHouseWith: []
+  auspices: Mixed
+  comments: |
+    * You have little or no fate for the ownership of real estate and material goods.
+    * You will sell inherited property for a small profit. 
+    * You will not feel “at home” anywhere. 
+    * Owning property will always be speculative and tentative. 
+    * If there are no afflicting stars, you will own property late (56+) in life.
+
+    Combinations:
+
+    ### With any supportive star:
+
+    * You are lucky at speculation. Other stars characterize the type of speculation and measure of success.
+
+    ### With any afflicting star means
+
+    * You will not own property and be a wanderer, renter for life.
+    * You are forced forward in Fate by astro- geomantic factors – of which you are unaware.
+    * You drift sporadically from place to place vaguely haunted by emotions (ghosts) you never confront.
+
+- star: TianXiang
+  palace: Property
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    * You have predestined affinity with the ownership of real estate and material goods. You will be a landlord.
+    * You will inherit property. 
+    * You may work in real estate or land development. 
+    * You will work in the department of the interior or the environment. You are an environmentalist. 
+    * If there are no afflicting stars, you will own a considerable amount of property in old age. 
+    * You will retire to the countryside and life a long time.
+
+    Combinations:
+
+    ### With any major or supportive star:
+
+    * You will own property and solidly identify with “place”.
+    * You will be a local leader, land owner, mayor – a model of culture. 
+    * You are a local, national or tribal historian. 
+    * You will close to home and be given a monument at your burial. 
+    * You will in an old family home. 
+    * You will live in a home provided by those you serve (faculty housing, parsonage, palace).
+
+    ### With any afflicting star:
+
+    * Your sense of place is tied to another person so strongly you are never at home. You do not own anything that is not shared.
+    * Your sense of home/place is sacrificed to your sense of duty/work/service.
+
+- star: TianLiang
+  palace: Property
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    * You have predestined affinity with place and, therefore, the ownership of real estate and material goods.
+    * You may not acquire property until mid-life. 
+    * You will buy and sell real estate. 
+    * If there are no afflicting stars, you will acquire property and be a landlord. 
+    * You derive great restorative energy from time spent at home. 
+    * You identify with geography and/or nationality-ethnicity.
+
+    Combinations:
+    ### With any supporting star
+
+    * You are able to acquire land, homes and/or sense of home easily.
+    * Ownership of land/property or a strong sense of home gives you great power to resolve Fate. 
+    * You are sensitive to fengshui, design of space and divination. 
+    * Your life is like an Aboriginal Australian “walk-about”. Your spiritual path is a pilgrimage of sorts. 
+    * In old age you will enjoy stability and sense of place. 
+    * You will in a place that seems “beyond your means”. 
+    * You emigrate. 
+    * You may build your own home.
+
+    ### With any afflicting star:
+
+    All the above is complicated by incidents and attitudes that undermine success – but not in any ultimate sense.  Wandering from place to place has an exorcistic flavor. You “walk-about” to resolve Fate.
+
+- star: QiSha
+  palace: Property
+  inHouseWith: []
+  auspices: Mixed
+  comments: |
+    * You have predestined affinity with the inheritance of real estate.
+    * You may acquire property in mid-life. 
+    * You may profitably speculate; buy, improve and sell real estate. 
+    * If there are other afflicting stars, you will have to sell inherited property just to survive. 
+    * You will be homeless. 
+    * You are a carpetbagger, hustler or thief. 
+    * Land or property speculation will make you rich at the price of other peoples’ losses.
+
+    Combinations:
+
+    ### When the 7 Killings rules the Property Palace:
+
+    * It is likely you will speculate successfully in real estate or property.
+    * You will buy and sell homes but not feel at home yourself until mid-life (54+). 
+    * You have an irrational fear for the notion of home. You disdain “home-bodies”, housewives and people with local identities. 
+    * You are a merchant seaman with many stories to tell. Land-lobbers are all liars, cheats and thieves. 
+    * Your inheritance buys you a ticket that takes you far from home. 
+    * You are a slumlord, used car salesman and/or hustler of some sort.
+
+    ### With any other afflicting star:
+
+    * You will die far from home.
+    * You die with the feeling of unfinished business (sudden death far from home).
+    * You are killed on the run.
+    * You die in a effort to return home.
+
+- star: PoJun
+  palace: Property
+  inHouseWith: []
+  auspices: Mixed
+  comments: |
+    * You will feel your home is haunted and you are unable to escape. Pojun here died at home full of disappointment (no children and/or legacy for them) or far from home (on battlefield).
+    * You will inherit real estate that is a burden or white elephant (hard to sell profitably). 
+    * If no other afflicting stars appear here you will acquire property and feel at home by mid-life. 
+    * If there are other afflicting stars, you will have to sell inherited property to survive. You may die homeless or from an accident or disaster at home. If you fail to resolve Pojun (establish home/safety/legacy) before you die, you will “be distracted or influenced by” the ghost in the transitory states.
+
+    Combinations:
+
+    ### With any positive star
+
+    * You will be a wanderer, vagabond and enjoy it in youth.
+    * You will identify with a noble “minority”. You are a working class hero. 
+    * You join the military to escape the place you are willing to die to defend. 
+    * You travel a great deal. 
+    * Unsettled circumstances (unemployment, weak economy, high prices) obstruct your ownership of property. 
+    * You feel at home in a foreign country – you are an ex-patriot. 
+    * You cannot hold on to property – you lack stability in the sense of home/responsibility. 
+    * As your later life you may join with others in the ownership of property (commune, cult or shared space).
+
+    ### With any other afflicting star
+
+    * You will wander as a way of life. You have an irrational fear of stability – the sedentary.
+    * You buy high and sell low.
+    * You are “on the run” your whole life without self-reflection. 
+    * Your immigration is a mistake. 
+    * You are an Orientalist propagating false and prejudice ideas about Asia.
+

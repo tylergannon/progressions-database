@@ -1,0 +1,873 @@
+---
+- star: ZiWei
+  palace: Superiors
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    * You will rise to a high position in society and/or work. You will work as an administrator, manager, teacher or political leader.
+    * You have strong predestined affinity with a teacher(s), mentor(s) and/or bosses in high positions that help you greatly.
+    * You will succeed (successor) through an apprenticeship, journeyman path to complete mastery in your work. You will be honored and respected by your superiors, peers and people-at-large.
+
+- star: ZiWei
+  palace: Superiors
+  inHouseWith:
+    - - TianFu
+      - TianXiang
+      - TianCun
+  auspices: Exalted
+  comments: |
+    * You will enjoy great success in career.
+    * You will be very helpful to your community.
+    * Your work will be very valuable in the resolution of your fate.
+    * You will be honored, well-paid and/or strongly supported by your client/customers, etc.
+
+- star: ZiWei
+  palace: Superiors
+  inHouseWith:
+    - - TanLang
+      - PoJun
+      - QiSha
+  auspices: Neutral
+  comments: |
+    * You will be use unconventional means to gain promotion (sex, bribery).
+    * Your service to others will focus or marginalized people. Despite your real situation (good), you will identify with the weak or poor.
+    * You will have unexpected success. Life will have magical incidents.
+    * The assassin will be hired by the target.
+
+- star: ZiWei
+  palace: Superiors
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianYue
+      - ZuoFu
+      - YouBi
+  auspices: Exalted
+  comments: |
+    * You will make smooth and easy progress in life/career.
+    * You will work with capable people; form a team.
+    * You will be a model/teacher for others.
+
+- star: ZiWei
+  palace: Superiors
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - DiJie
+      - DiGong
+      - TuoLuo
+  auspices: Mixed
+  comments: |
+    * You will not make even progress in life/career.
+    * You will not appreciate your accomplishments and haunted in longing.
+    * Your compulsive need for progress undermines your success.
+    * You do not want to be a member of any club that accepts you.
+    * You will often be blind to your achievements.
+
+- star: TianJi
+  palace: Superiors
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    * You can reach a high degree of honor in the academic world. You can also excel in art, religion and/or cultural work.
+    * Though you may succeed at work, your ability is not as important as your intuition. Insight and intuition bring you promotion.
+    * You have predestined affinity with a spiritual medium, spiritual teacher and mentor.
+    * You will live life is a spiritual path and taste the fruition of your spiritual practice.
+    * You will become a successor.
+
+    When the Oracle appears in the Superiors Palace with any strong star:
+
+    * You serve others and work in the arts, religion, academia or culture.
+    * You develop spiritually through the resolution of fate in your work.
+    * You work successfully in the mantic arts.
+    * You are part of a spiritual lineage. You meet a great teacher/mentor.
+
+- star: TianJi
+  palace: Superiors
+  inHouseWith:
+    - - TaiYin
+      - JuMen
+      - WenQu
+  auspices: Positive
+  comments: |
+    * You are spiritually linked to a foreign country. You successfully practice/observe a religion that is foreign to your family.
+    * You will succeed in life by standards that are exclusively spiritual.
+    * You will be successful by some foreign standard.
+    * You will be spiritually content and have a life-long spiritual practice.
+    * You will lead a like-minded group (abbot, abbess, guru or teacher).
+    * You will be guided, followed and/or protected by women.
+    * Your success in public will diminish (50) and your old age will be in retreat or solitude.
+
+- star: TianJi
+  palace: Superiors
+  inHouseWith:
+    - - WenChang
+      - TianCun
+      - TianYue
+      - ZuoFu
+      - YouBi
+  auspices: Positive
+  comments: |
+    * You will be very busy in this lifetime. Your work will seem endless.
+    * You will lack clarity as to what “result” means to you. You will never feel entirely accomplished.
+    * Your fate is tangled with a boss or teacher/mentor.
+
+- star: TianJi
+  palace: Superiors
+  inHouseWith:
+    - - TianLiang
+      - TianCun
+  auspices: Positive
+  comments: |
+    * You will be successful in your work. Your position will seem to be something “resumed”.
+    * You will quickly and steadily acquire wealth through work.
+    * The nature of your success will make you a bit dull or complacent.
+    * You quickly succeed someone and lack a sense of personal accomplishment.
+    * You are generous.
+
+- star: TianJi
+  palace: Superiors
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - DiJie
+      - DiGong
+      - TuoLuo
+  auspices: Positive
+  comments: |
+    * You will be hard- working but not very successful.
+    * Your conflicting emotions and excessive thinking obstruct your sense of accomplishment.
+    * You are argumentative and hard to teach.
+
+- star: TaiYang
+  palace: Superiors
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    * You have strong predestined affinity with a teacher, mentor or boss. He/she/they will bring you what you need to be successful in life.
+    * You are clear-headed, ambitious and will achieve your dreams.
+    * You will be a successor – follow in the footsteps of a leader and achieve leadership status.
+    * You will work past customary retirement (65).
+
+    When the Sun appears in the Superiors Palace with any other support star you will grow into a path/career that resolves your fate.
+
+
+- star: TaiYang
+  palace: Superiors
+  inHouseWith:
+    - - TianLiang
+      - JuMen
+  auspices: Exalted
+  comments: |
+    * You will resolve fate through work/career. You have a position of authority.
+    * Your position of leadership will be a long time coming or diminish as you age (45+).
+    * You abruptly quit a steady job. 4) You are the emperor turned gardener (Pu Yi).
+
+- star: TaiYang
+  palace: Superiors
+  inHouseWith:
+    - - TaiYin
+      - TianCun
+  auspices: Exalted
+  comments: |
+    * You will work in the arts and do well financially.
+    * You are a sports star, pop star or artist. Your work will look easy to others.
+    * Your older brother pays your bills. 4) You are a wealthy housewife (soccer Mom, housekeeper, chef).
+
+- star: TaiYang
+  palace: Superiors
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianYue
+      - ZuoFu
+      - YouBi
+  auspices: Exalted
+  comments: |
+    * You will work hard and through discipline resolve fate.
+    * You are a steady “provider” for your family.
+    * You are a salary man.
+    * You are a civil servant.
+
+- star: TaiYang
+  palace: Superiors
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Exalted
+  comments: |
+    * Your career struggles resolve fate. You are haunted by a restless ghost.
+    * When you finally resolve this you will have a comfortable job.
+    * This resolution is a “rough ride”.
+
+- star: WuQu
+  palace: Superiors
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    * You have a strong ability to lead, but are but not given the status of ruler (first place, top rank).
+    * You are suited to productive work in the military, corporate business and the investment or travel industry.
+    * Your ruler (teacher, boss or mentor) loves and respects you. You are a favored advisor to a powerful person.
+    * You are a generous and effective leader.
+    * As you grow old you are greatly respected.
+    * You will be greatly honored at your funeral.
+
+- star: WuQu
+  palace: Superiors
+  inHouseWith:
+    - - TianFu
+      - TianCun
+  auspices: Positive
+  comments: |
+    * You will be generally and easily successful in life – resolving fate with the capable help of others.
+    * You are born with the means to thoroughly resolve fate. The process will be easy and beneficial to many people as well.
+
+- star: WuQu
+  palace: Superiors
+  inHouseWith:
+    - - TianXiang
+      - QiSha
+  auspices: Positive
+  comments: |
+    * Your dedicated work will not immediately show fruition.
+    * You will have to work above or beyond your capability to succeed.
+    * You will avoid or abandon family or home to succeed at work.
+    * You will work as a judge, lawyer or military officer. You will have heavy responsibilities (life n death). You will suffer from the stress.
+
+- star: WuQu
+  palace: Superiors
+  inHouseWith:
+    - - TanLang
+      - PoJun
+  auspices: Mixed
+  comments: |
+    * You will be a leader but caught between a rock and a hard place. You may be forced to serve a corrupt person or cause.
+    * You may have to change sides (defect, emigrate) in your work.
+    * The outcome of all this resolves fate. The compromise stress depends on character.
+    * You have fate with an iconoclastic teacher/mentor. You are Shi De(your teacher is Han Shan).
+
+- star: WuQu
+  palace: Superiors
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+  auspices: Positive
+  comments: |
+    * You will resolve fate efficiently in your life/career. Your education will increase your success.
+    * You will work in finance or investments.
+    * You are an astute advisor and very well paid.
+    * You work successfully in a team of advisors.
+    * You will retire and sell your memoirs. When you retire you will teach at Yale Business School.
+
+- star: WuQu
+  palace: Superiors
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+  auspices: Negative
+  comments: |
+    * You never are able to acquire great accomplishments due to emotional conflicts.
+    * Though you accomplish a great deal you obsess with your compromised integrity.
+    * You are the CIA’s best assassin. Upon reflection your expertise has given you self-loathing.
+    * You play an important but uncelebrated part in history.
+    * You are Jack Ruby.
+
+- star: WuQu
+  palace: Superiors
+  inHouseWith:
+    - - TianYue
+      - TianKui
+  auspices: Neutral
+  comments: |
+    * You easily develop a successful (fate-resolving) career. You make step-by-step progress in life/career.
+
+- star: WuQu
+  palace: Superiors
+  inHouseWith:
+    - - DiJie
+      - DiGong
+  auspices: Neutral
+  comments: |
+    * You will meet many hazards and stumbling blocks in life. Each will be overcome by perseverance and discipline.
+
+- star: TianTong
+  palace: Superiors
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    * You have a strong predestined affinity with working in a helping professional (education, healthcare or service industry).
+    * You are likely to become a respected contributor to your profession.
+    * You are likely to inherit the position of your boss, teacher or mentor.
+    * If no afflicting stars appear here you are likely to make a steady climb to the top of your career.
+    * Perseverance takes you to the top.
+
+    When the Vassal appears in the Superiors Palace with any positive star you will be hard working successful and resolve much fate in your life/career. You are expert and capable.
+
+
+- star: TianTong
+  palace: Superiors
+  inHouseWith:
+    - - TaiYin
+      - JuMen
+  auspices: Mixed
+  comments: |
+    *Character matters a great deal here.*
+
+    * You have many ups and downs in life/career.
+    * Both success and failure are due to fate.
+    * After a rough start you methodically create a successful life/career.
+    * You retire early before you are able to really “cash in”. You are happy playing golf.
+
+- star: TianTong
+  palace: Superiors
+  inHouseWith:
+    - - TianCun
+      - TianLiang
+  auspices: Positive
+  comments: |
+    * You have predestined affinity for success and authority. You are successful.
+    * Your basic personal habits support your success.
+    * You are a soldier no matter what job you have.
+    * You have great loyalty and find a worthy focus.
+    * You succeed due to the chain of command (good fate).
+    * You resume your spiritual path with the guru of your last lifetime.
+
+- star: TianTong
+  palace: Superiors
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianYue
+      - YangRen
+      - TianKui
+  auspices: Positive
+  comments: |
+    * You will receive a useful education and put it to good use.
+    * You will develop a stable and successful life/career. You climb the ranks of the worthies.
+    * You are mentored well and become a solid mentor to others.
+
+- star: TianTong
+  palace: Superiors
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Negative
+  comments: |
+    * You will be caught off guard by people lacking integrity. You will be arrested as an accessory after the fact.
+    * Your focus is too intense and you are unseated by negative details.
+    * You will have “fought the good fight”. Honor will be a long- time coming. You are not defeated.
+
+- star: LianZhen
+  palace: Superiors
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    * You have a predestined affinity to work and lead in an unusual profession. You will wield power from an unusual position (madam).
+    * Your disposition will bring you power and status.
+    * You will be guided and protected by powerful, older people.
+    * If no afflicting stars appear here you will live a prosperous and safe life.
+    * You will briefly be the successor of a powerful person.
+
+- star: LianZhen
+  palace: Superiors
+  inHouseWith:
+    - - TianFu
+      - TianXiang
+  auspices: Exalted
+  comments: |
+    * You will have extraordinary mentor/teachers that bring you protection, education and success in life/career.
+    * You resolve fate with the help of a guru. You are the disciple of a great person.
+    * Your fate with a teacher/mentor is complete.
+
+- star: LianZhen
+  palace: Superiors
+  inHouseWith:
+    - - PoJun
+  auspices: Negative
+  comments: |
+    * You mismanage your good fortune and end up creating more fate entanglements.
+    * You are “led astray”. Your teacher/mentor lacks integrity. You are abused and protect your abuser.
+
+- star: LianZhen
+  palace: Superiors
+  inHouseWith:
+    - - TianCun
+  auspices: Neutral
+  comments: |
+    * Your fated safety and prosperity make you reclusive.
+    * You do nothing positive with your good fortune.
+
+    Character matters a lot here.
+
+- star: LianZhen
+  palace: Superiors
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianKui
+      - TianYue
+  auspices: Neutral
+  comments: |
+    * Your life/career develops smoothly. You are often promoted.
+    * You find a mentor at school.
+    * You are repeatedly helped by superiors (bosses, teachers).
+    * You follow a mentor into succession.
+
+- star: LianZhen
+  palace: Superiors
+  inHouseWith:
+    - - TanLang
+      - QiSha
+  auspices: Negative
+  comments: |
+    * You will succeed in an illegal business but it does not supply any true security.
+    * You follow a radical mentor/teacher into a shady underworld.
+    * You practice black arts and create heavy karma.
+    * You are taken in by a “false guru”.
+    * You choose a life/path that cannot be fulfilled.
+
+- star: LianZhen
+  palace: Superiors
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Negative
+  comments: |
+    * You are not suited to working on your own and make many mistakes.
+    * Your life/path create more fate than it resolves.
+    * Your emotions undermine your ability to see and/or resolve fate.
+
+- star: TianFu
+  palace: Superiors
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    * You have a predestined affinity to hold a secondary position. You will wield power from this apparently subordinate position.
+    * Your charm will bring you power not your education or skill.
+    * You will be guided, taught and protected by powerful, older mentors.
+    * If you are male – you may become a prince consort.
+    * Your children will be outstanding and bring you prominence. You are a Dowager.
+
+- star: TianFu
+  palace: Superiors
+  inHouseWith:
+    - - TianCun
+      - WenChang
+      - WenQu
+      - TianYue
+      - ZuoFu
+      - YouBi
+  auspices: Positive
+  comments: |
+    * You will find easy success in life and be respected and honored by others.
+    * You will be a trendsetter, rather than a manager. You will inspire others.
+    * You will work in a family business.
+    * You are a big fish in a small pond. You are over-qualified.
+    * You are the boss’s wife or favorite.
+    * You are promoted and given bonuses often.
+    * You are always in the right place at the right time.
+    * You will find an adept teacher or mentor.
+
+    *With the any afflicting star*:
+
+    * the above auspices is unchanged but postponed until 36+.
+    * You are able to overcome obstacles with little difficulty, but they do appear.
+    * You are quick to succeed and surrounded by jealousy.
+
+
+- star: TianFu
+  palace: Superiors
+  inHouseWith:
+    - - DiJie
+      - DiGong
+  auspices: Mixed
+  comments: |
+    * You have a good fate but a weak character. You will have a dull and uneventful life.
+    * You are complacent.
+    * You are successful but fear hardship.
+    * Your grandeur fades with age (56+).
+
+- star: TaiYin
+  palace: Superiors
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    * You have a predestined affinity to work as an artist, architect, healer or diviner. You could succeed in politics.
+    * You will be chosen for promotion because of your sensitivity not your forcefulness.
+    * Though you never feel “absolutely confident” you will live a prosperous and happy life.
+    * You will meet and benefit from a spiritual teacher or unusual mentor.
+    * You are at your best in the “second” position. You will serve as an assistant to a powerful person.
+    * You will be a renunciate (monk or nun or hermit).
+    * You will work in a lab, be an alchemist or a witch.
+
+- star: TaiYin
+  palace: Superiors
+  inHouseWith:
+    - - TianXiang
+      - TianLiang
+      - TaiYang
+      - WenChang
+      - WenQu
+      - TianCun
+      - TianYue
+      - ZuoFu
+      - YouBi
+      - TianCun
+  auspices: Positive
+  comments: |
+    * like the Empress (above) you will be successful and adept and effortlessly succeed in life.
+    * You will be a successful artist or performer. You have a striking appearance.
+    * You will “work it”.
+    * You will have a life-long interest in the religion, the arts and literature. You subscribe to arts. You reserve a box. 6) You are often in the right place at the right time (intuitive). You will find a teacher/mentor of great importance.
+
+- star: TaiYin
+  palace: Superiors
+  inHouseWith:
+    - - JuMen
+  auspices: Positive
+  comments: |
+    * You will work and/or leadership disconcerting and have an uneven progress in life.
+    * You will change careers more than once.
+    * You have a strange resume. Your interests are varied.
+
+- star: TaiYin
+  palace: Superiors
+  inHouseWith:
+    - - LingXing
+      - HuoXing
+      - YangRen
+      - DiJie
+      - DiGong
+      - TuoLuo
+  auspices: Negative
+  comments: |
+    * You will lose opportunities due to unstable emotions.
+    * You will reject a teacher/mentor for the wrong reasons.
+    * You throw away some privileges.
+
+- star: TanLang
+  palace: Superiors
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    * You have a strong predestined affinity with an older person that you charm and/or seduce. This will be to your great advantage. Your rise to power is unconventional.
+    * You are likely to work in an independent situation – do work no one else can (or wants to) do.
+    * If no other afflicting stars appear here you are likely to be a successor - inherit an unusual career position from an older person (retired).
+    * You will never reach the top of your field.
+    * Ordinary work will be unfulfilling; you are preoccupied with resentment. If you rise above the resentment you will be successful.
+    * You are un-teachable. Your obsessive independence is an obstruction to success.
+
+- star: TanLang
+  palace: Superiors
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianYue
+      - TianKui
+  auspices: Positive
+  comments: |
+    * You will put your ego to good use and succeed in the arts or academia.
+    * You are definitely “one-of-a-kind”.
+    * You will find a radical mentor/teacher and be a devout follower.
+    * You succeed in unexpected ways.
+    * You successfully avoid success (selling out).
+    * You completely and utterly sell-out.
+    * You are Houdini.
+
+- star: TanLang
+  palace: Superiors
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YouBi
+      - ZuoFu
+  auspices: Negative
+  comments: |
+    * You will enjoy “lording over” others.
+    * You are an overseer for a demanding slave owner.
+    * You lose your job due to jealousy and revenge.
+
+- star: TanLang
+  palace: Superiors
+  inHouseWith:
+    - - TianCun
+  auspices: Negative
+  comments: |
+    * You will acquire wealth from being famous or notorious.
+
+- star: TanLang
+  palace: Superiors
+  inHouseWith:
+    - - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Negative
+  comments: |
+    * You struggle to make your anti-social views succeed, but they do not.
+    * You constantly struggle with the “Man”.
+    * Your chance to lead the rebellion never comes.
+    * Your life is average and ordinary, despite your thoughts of glory.
+    * You are a veteran ex-patriot.
+
+- star: JuMen
+  palace: Superiors
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    * You have a strong fate to become a leader (manager, consultant or government official).
+    * Your teachers will appreciate your intelligence and openness. You become a successor.
+    * As you mature (40-55 years old) a suitable and lucrative career will emerge.
+    * Though you change career more then once you ultimately succeed. Honor and appreciation for your work comes late (55+).
+
+    When the Great Gate appears in the Superiors Palace *with any modest star*:
+
+    * you will find the mechanism of success in the image of the partner star.
+    * The partner star will offer insight into the means of making decisions that offer you success in career.
+    * You will have many teachers/mentors.
+
+- star: JuMen
+  palace: Superiors
+  inHouseWith:
+    - - TianCun
+  auspices: Mixed
+  comments: |
+    * You will be financially solvent most of the time.
+    * Your hit n miss tactics occasionally pay off.
+
+- star: JuMen
+  palace: Superiors
+  inHouseWith:
+    - - ZuoFu
+      - YouBi
+      - WenChang
+      - WenQu
+      - TianYue
+      - TianKui
+  auspices: Positive
+  comments: |
+    * You will be guided by many teachers.
+    * You will have abundant opportunities to succeed.
+    * You will be magnanimous. You have few boundaries.
+    * You will be clever and resourceful in your work.
+
+- star: JuMen
+  palace: Superiors
+  inHouseWith:
+    - - PoJun
+      - HuoXing
+      - LingXing
+      - YangRen
+      - DiJie
+      - DiGong
+      - TuoLuo
+  auspices: Negative
+  comments: |
+    * You will wander from job to job. You are jack-of-all-trades but expert in none.
+    * You have a lion’s head and snake’s tail. You easily lose enthusiasm.
+    * You are emotionally unstable. You undermine your success in life.
+
+- star: JuMen
+  palace: Superiors
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    * You have a strong predestined affinity to be a leader (manager, guru, consultant, physician, banker or government official).
+    * Your superiors will appreciate you and you will become a successor.
+    * You will receive rewards and honors for your work in community service, industry or commerce.
+    * If there are no afflicting stars, you will have a strong relationship with an outstanding leader, wisdom-holder or spiritual teacher. You may succeed him/her as heir of a tradition.
+    * Life begins in your 50’s.
+
+- star: JuMen
+  palace: Superiors
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianYue
+      - TianKui
+  auspices: Positive
+  comments: |
+    * You will be a public servant.
+    * You are a dedicated and resourceful leader and champion of the notions of justice and equality.
+    * You will lead and work in a very cooperative team.
+    * You will train/educate some powerful people. Your students will bring you success and prestige.
+    * You will teach at a prestigious university.
+    * You are an advisor to many successful people.
+
+- star: JuMen
+  palace: Superiors
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Negative
+  comments: |
+    * You will waste a good deal of effort on irresolvable problems. You will be held back by idealism, anger and excessive willingness to compromise.
+    * You think and struggle far too much.
+    * Your ideas, no matter how timely or brilliant, are overlooked, rejected and compromised.
+    * You are easily betrayed due to naïve notions of loyalty.
+    * You are held back and humiliated by a misplaced sense of duty. You are used by corrupt and self-serving leaders.
+
+- star: TianLiang
+  palace: Superiors
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    * You have a strong predestined affinity with an older person that guides you. This will be to your great advantage.
+    * If you choose a career in the military, government, academia, religion or the service industries you will receive continuous promotions.
+    * If no afflicting stars appear here you are likely to inherit a position from an older person (retired/abdicate). You will be a successor.
+    * You will be honored for your life’s work (monument).
+
+- star: TianLiang
+  palace: Superiors
+  inHouseWith:
+    - - WenChang
+      - TianTong
+      - ZiWei
+      - TianFu
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianCun
+      - TianKui
+      - TianYue
+  auspices: Exalted
+  comments: |
+    * Your Fate resolves well with the help of others.
+    * You serve others with great results (both ways).
+    * You will serve others as a teacher, spiritual guide, mantic artist, soldier or government official.
+    * You will uphold and succeed a great person, saint or genius.
+    * After a life of service to others you will be well cared for in old age.
+
+- star: TianLiang
+  palace: Superiors
+  inHouseWith:
+    - - TianCun
+  auspices: Exalted
+  comments: |
+    * You will receive a small inheritance or bonus and handle it very well.
+    * You will live modesty but well.
+
+- star: TianLiang
+  palace: Superiors
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Exalted
+  comments: |
+    * The above auspices will be made uneven by your emotions and rigidity.
+    * The ups and downs brought to you by helpers makes your life average and you will serve or be served in an ordinary way.
+    * You will be a postman, bus driver, traffic cop, prison guard or churchwarden.
+
+- star: QiSha
+  palace: Superiors
+  inHouseWith: []
+  auspices: Mixed
+  comments: |
+    * You have a strong predestined affinity for achievement in the military (martial arts). An ancestral demon enjoys your life being at risk.
+    * If you work in the prison system or social welfare system (criminal counseling) you may receive promotions.
+    * If no other afflicting stars appear here you are likely to excel at work that is distasteful to others.
+    * If there are other afflicting stars, you will be passed over and receive no respect, honors or promotions at work.
+    * You may be unjustly accused of law- breaking and punished.
+    * You will be a gang leader in prison. All the above is due to the promptings and obstructions of the unsettled dead.
+
+- star: QiSha
+  palace: Superiors
+  inHouseWith: []
+  auspices: Mixed
+  comments: |
+    * You have a strong predestined affinity for achievement in the military (martial arts). An ancestral demon enjoys your life being at risk.
+    * If you work in the prison system or social welfare system (criminal counseling) you may receive promotions.
+    * If no other afflicting stars appear here you are likely to excel at work that is distasteful to others.
+    * If there are other afflicting stars, you will be passed over and receive no respect, honors or promotions at work.
+    * You may be unjustly accused of law- breaking and punished.
+    * You will be a gang leader in prison. All the above is due to the promptings and obstructions of the unsettled dead.
+
+    *When the 7 Killings rules the Superiors Palace*:
+
+    it is unaffected by any/all other stars. The auspice of this placement is both good and bad.
+
+    You will no doubt struggle in your life with the notion of relationships – particularly issues of authority. Many of the people you work with will be possessed of 7 kiliings – have irrational fears and notions of you that undermine your work.
+
+    Conversely, you will have an opportunity to see through this dilemma and, with patience and wisdom, resolve this Fate (demon).
+
+    You are in a powerful position to overcome selfishness, belligerence and neurotic fears – look at character and elsewhere in the other 11 houses for support.
+
+    Where is the General and Oracle?
+
+- star: PoJun
+  palace: Superiors
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    * You have predestined affinity to resolve Pojun (who died in battle) by excelling in the military, contra-military (terrorist) activity or monastic life. Pojun is easily resolved in this house by living in an environment where authority and discipline are clear and strong.
+    * If you work/study in an “alternative setting” you will develop strong self- discipline and receive good training from competent teachers.
+    * You will meet and commit to a radically powerful shaman, guru, mentor or spiritual teacher of some sort. He/she will resolve the ghost on your behalf.
+    * If no other afflicting stars appear here you are likely to excel at work that is rejected, distasteful or repugnant to others.
+    * Your spirit will be honored for your life’s work (group monument) long after you die.
+    * If there are other afflicting stars, you may be passed over by all honors and promotions. In the unlikely event that you fail to resolve Pojun (establish safety/honor/rank) before you die you will “be distracted by” the ghost in the transitory states. New opportunity for resolution (your spiritual practice: karma) will appear in the bardo.
+
+- star: PoJun
+  palace: Superiors
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianYue
+      - TianKui
+  auspices: Neutral
+  comments: |
+    * You will work in alternative education, be an activist or possess unusual skill. You will attract like-minded people and achieve leadership.
+    * You will work for or follow a successful innovator (teacher/mentor).
+    * You will live in a commune or alternative community.
+    * You will be a soldier or police officer.
+
+- star: PoJun
+  palace: Superiors
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Negative
+  comments: |
+    * You are crippled by idealism and fantasies that never come to fruition.
+    * You will abandon and be abandoned by other fanatics and idealists.
+    * Your enormous sacrifices will amount to nothing. Your dreams are unfulfilled.
+    * Your early success abandons you in later life (50+).
+    * You will be shot in the line of duty.
+    * You will receive posthumous honors.

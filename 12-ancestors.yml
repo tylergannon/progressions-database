@@ -1,0 +1,801 @@
+---
+- star: ZiWei
+  palace: Ancestors
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    * You have a strong predestined affinity to your parents (father) and/or ancestors (patriarchal).
+    * Your fate is dictated by the unfinished business and/or blessings of your ancestors.
+    * You will receive true support from your ancestors (mother and father). They will provide protection for you when you are young, education as you grow and a model for your character when you mature.
+    * Your life will always be associated with your family/ancestors (emotional ties, ethnic or geographic identity and family business).
+    * A great Patriarch shapes your life.
+    * You will inherit power or wealth.
+    * You are a successor.
+
+- star: ZiWei
+  palace: Ancestors
+  inHouseWith:
+    - - TianFu
+      - TianXiang
+      - TianCun
+      - WenChang
+      - WenQu
+      - TianYue
+      - ZuoFu
+      - YouBi
+  auspices: Positive
+  comments: |
+    * You will enjoy great success in life.
+    * Both matriarchal and patriarchal ancestors support your success in life.
+    * Your work will have blessed (ancestor- enhanced) results.
+    * You will follow the best patterns laid down in your genetics.
+    * You resemble one or two of your ancestors.
+    * You genetics predispose you to longevity.
+
+- star: ZiWei
+  palace: Ancestors
+  inHouseWith:
+    - - TanLang
+  auspices: Positive
+  comments: |
+    * Your ancestors serve as something you wish to escape or overcome.
+    * Your only ancestral support comes from a spirit who rejected, escaped or abandoned his/her ancestors. (possibly an immigrant or loner)
+
+- star: ZiWei
+  palace: Ancestors
+  inHouseWith:
+    - - PoJun
+      - QiSha
+  auspices: Mixed
+  comments: |
+    * You will “break out on your own”.
+    * You lack support of at least one side of your family/ancestors.
+    * Cutting ties with your ancestors is part of your success in life.
+    * You will change your name, immigrate or in some way disguise yourself to escape ancestral associations.
+    * You are highly motivated by the act of abandoning your ancestors.
+    * You may practice celibacy.
+
+- star: ZiWei
+  palace: Ancestors
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - DiJie
+      - DiGong
+      - TuoLuo
+  auspices: Mixed
+  comments: |
+    * You have weak affinity with your patriarchal ancestors.
+    * You do not meet your father.
+    * Running away from home (father) is a good start for your success in life.
+    * Abandonment by your father (patriarchal ancestors) inspires you.
+    * You are disconnected from but curious about your patriarchal ancestors (their language, culture, religion or native place).
+    * You may have difficulty conceiving a child.
+
+- star: TianJi
+  palace: Ancestors
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    * Your ancestors are a main influence in your life. Their unresolved energies and blessings will create a rich tapestry in your life.
+    * You will receive “life changing” reversals in your fate (as your ancestors resolve).
+    * You have a strong psychic or intuitive link to one or both parents.
+    * You have enormous predestined affinity that descends from your (particularly matriarchal) ancestors.
+    * You have a “fairy god-mother”.
+
+- star: TianJi
+  palace: Ancestors
+  inHouseWith:
+    - - TaiYin
+      - TianLiang
+      - TianCun
+  auspices: Positive
+  comments: |
+    * You will enjoy a rich heritage and qi support of your ancestors.
+    * Your matriarchal ancestors benefit you greatly.
+    * Your parents educate and support you into your maturity.
+    * You will inherit great skill, ability and intuition from your matriarchal ancestral line.
+    * You will inherit wealth or the ability to acquire it.
+
+- star: TianJi
+  palace: Ancestors
+  inHouseWith:
+    - - JuMen
+  auspices: Negative
+  comments: |
+    * You will never fully benefit from your beneficent ancestors.
+    * You are psychic/sensitive but cannot manage it to benefit.
+    * You inherit sloth.
+    * You find the idea or Fate untenable and superstitious.
+    * You mismanage your constitutional strength and die younger than your parents (grandparents, etc.).
+    * You benefit from your ancestors only in dream or in the moment of death.
+    * You develop clairvoyance.
+
+- star: TianJi
+  palace: Ancestors
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+  auspices: Negative
+  comments: |
+    * You will benefit from intelligence/ability gifted from your ancestors.
+    * You are intuitive and intelligent.
+    * Your intuition (derived from a matriarchal ancestor) will aid you in serving others. This resolves a great deal of your Fate.
+    * Your ancestors benefit you and participate intimately with your Fate resolution.
+
+- star: TianJi
+  palace: Ancestors
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TianYue
+      - DiJie
+      - DiGong
+      - TuoLuo
+  auspices: Negative
+  comments: |
+    * You will lose a parent early in life.
+    * You will suffer from illnesses, genetic disorders and/or injuries but resolve them (heal).
+    * You will have medical symptoms hard to diagnose and treat when young. This is resolved by midlife.
+    * Though you experience a rift with one or both parents; you mature into someone just like them.
+    * You are ashamed of your ancestors (parents, heritage).
+
+- star: TaiYang
+  palace: Ancestors
+  inHouseWith: []
+  auspices: Negative
+  comments: |
+    * Your patriarchal ancestors will strongly influence your fate. Both their unresolved energy and blessings will shape your life.
+    * You have strong predestined affinity with your father.
+    * You will become your father.
+    * You have a soul mate among your patriarchal ancestors.
+    * You will be named after a patriarchal ancestor.
+    * Your subconscious drive for success is inherited.
+    * You are “princely”.
+
+- star: TaiYang
+  palace: Ancestors
+  inHouseWith:
+    - - TaiYin
+      - TianLiang
+      - TianCun
+  auspices: Positive
+  comments: |
+    * You will receive blessings from your patriarchal AND matriarchal ancestors.
+    * You have strong affinity with your place of birth.
+    * You have strong affinity with the native place of your ancestors.
+    * You will inherit land/property from your ancestors.
+    * Pilgrimage is a source of renewal.
+
+- star: TaiYang
+  palace: Ancestors
+  inHouseWith:
+    - - JuMen
+  auspices: Negative
+  comments: |
+    * You will have no particular affinity with your patriarchal ancestors.
+    * You are haunted by indecision due to an unsettled patriarch.
+    * You will know many families but be attached to none.
+    * You will “leave home” – renounce family life.
+
+- star: TaiYang
+  palace: Ancestors
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianYue
+      - ZuoFu
+      - YouBi
+  auspices: Positive
+  comments: |
+    * You will receive benefit from your patriarchal ancestors and be well educated.
+    * You have good luck. Minor, gentle spirits of your patriarchy bless you often with wish fulfillment.
+    * You learn self-discipline from your father.
+
+- star: TaiYang
+  palace: Ancestors
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Negative
+  comments: |
+    * Your father is distant or unknown to you.
+    * Several of your patriarchal ancestors are unsettled (battlefield and/or internment camp) and interfere with your life’s progress.
+    * This affliction is resolved at maturity (28).
+    * Your parents separate or divorce.
+    * Your father is strict.
+    * You reject your family heritage.
+
+- star: WuQu
+  palace: Ancestors
+  inHouseWith: []
+  auspices: Negative
+  comments: |
+    * You have a weak predestined affinity with your parents/ancestors. You will reject their guidance and fight their control.
+    * You must resolve a great deal of weak ghostly ancestral qi.
+    * You are a “punished child for the lawlessness of the parent”. You are bound to the ill-fated agenda of your dead ancestors.
+    * Ancestral obligations and punishments finally end in your old age.
+    * You will change your name to escape Fate.
+    * You will unknowingly settle a great deal of complex karma in this lifetime.
+
+- star: WuQu
+  palace: Ancestors
+  inHouseWith:
+    - - TianFu
+      - TianXiang
+      - TianCun
+  auspices: Mixed
+  comments: |
+    * You will be “hemmed in” by ancestral Fate.
+    * You will inherit talent and intelligence from your ancestors but this will bind you to many conditions.
+    * You will follow in the footsteps ...
+    * Your every action is laden with ancestral resolve.
+    * You have ancestors who lost a great deal of wealth, power and responsibility at the time of their death.
+    * You are very serious.
+    * You “grow-up” very fast.
+
+- star: WuQu
+  palace: Ancestors
+  inHouseWith:
+    - - QiSha
+      - TanLang
+      - PoJun
+  auspices: Mixed
+  comments: |
+    * You have a complex and largely negative relationship with your ancestors. 
+    * You will spend much time and energy NOT identifying with them. 
+    * You will often feel the need for exorcism. 
+    * You manage a burdensome inheritance of Fate. 
+    * You are highly disciplined and anti-social. 
+    * You fear the murkiness of your subconscious (ancestral malaise). 
+    * Though not close to your family/parents they often view you as a hero or star.
+
+- star: WuQu
+  palace: Ancestors
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianYue
+      - TianKui
+      - ZuoFu
+      - YouBi
+  auspices: Mixed
+  comments: |
+    * You will receive blessings from your ancestors that will include: a sense of values, education and self- discipline.
+    * You are able to rely and your family. 
+    * Genealogical research will be inspiring. The more you “discover” the more gifts you will receive (+/-)
+
+- star: WuQu
+  palace: Ancestors
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - DiJie
+      - DiGong
+      - TuoLuo
+  auspices: Negative
+  comments: |
+    * You are unable to benefit from your ancestors.
+    * You are haunted by the unsettled dead (suicide victim). You suffer from irrational fears, self-undermining and worry/anxiety. 
+    * You are haunted by ancestral “lost soldiers” – paranoia and struggle. 
+    * You are a strong self-critic. 
+    * Your parents argue and divorce when you are young. 
+    * You cannot get along with one of your parents.
+
+- star: TianTong
+  palace: Ancestors
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    * You have a strong predestined affinity with your parents/ancestors.
+    * Your parents (mother) adore you. They will be very proud of you. 
+    * If no afflicting stars appear here, you are likely to be close to your parents your whole life. Mutual support will characterize the relationship. 
+    * Ancestral qi will be a blessing for you for your entire life.
+
+    When the Vassal appears in the Ancestor Palace with any positive star you will be blessed by matriarchal ancestors.
+
+- star: TianTong
+  palace: Ancestors
+  inHouseWith:
+    - - TaiYin
+      - JuMen
+  auspices: Positive
+  comments: |
+    * You have many ups and downs in life/career.
+    * Both success and failure are due to fate. 
+    * After a rough start you methodically create a successful life/career.
+    * You retire early before you are able to really “cash in”. You are happy playing golf. Character matters a great deal here.
+
+- star: TianTong
+  palace: Ancestors
+  inHouseWith:
+    - - TaiYin
+      - TianLiang
+  auspices: Positive
+  comments: |
+    * You are “precious ancestor”. Your ancestors both support you and give you resolutions you can accomplish. This gives you a confident sense of your own value.
+    * You love your mother, respect your father and the home you grew up in. 
+    * You are filial. 
+    * As you mature you feel the continuity of your ancestral blessings.
+
+- star: TianTong
+  palace: Ancestors
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianCun
+      - ZuoFu
+      - YouBi
+      - TianYue
+      - YangRen
+      - TianKui
+  auspices: Positive
+  comments: |
+    * You will overcome obstacles through the aid of ancestral benefactors.
+    * You will honor your ancestors and greatly surpass their accomplishments. 
+    * Though you succeed; you do not forget where you started. 
+    * The blessings you receive from your ancestors are a mixed bag (+/-) but you know how to make use of them all. 
+    * The guidance you get from ancestors is often what NOT to do and/or the revelation of what you canNOT control. 
+    * You are filial (patriotic, ethnic-identified).
+
+- star: TianTong
+  palace: Ancestors
+  inHouseWith:
+    - - JuMen
+      - HuoXing
+      - LingXing
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Positive
+  comments: |
+    * You will be heavily criticized, rejected and/or abused by your parents.
+    * You will be neglected by your ancestors/parents. 
+    * You will struggle with inherited aspects of identity (gender, ethnic, religious, national) and self-esteem. 
+    * You will be hurt or rejected based on your heritage/race. 
+    * You belong to a hard-working minority. 
+    * Your ancestors hold you back. 
+    * Rejection of your ancestral heritage resolves Fate for you.
+
+- star: TianTong
+  palace: Ancestors
+  inHouseWith: []
+  auspices: Haunted
+  comments: |
+    * You lack predestined affinity with your parents/ancestors. You will not receive guidance or protection from them.
+    * Your patriarchal or matriarchal ancestors have an enormous amount of “unfinished” business. This demand will remain unresolved by you. 
+    * You will reject one or both of your parents or they will die young. 
+    * Your life will have the hue of struggle from birth to death.
+
+- star: TianTong
+  palace: Ancestors
+  inHouseWith:
+    - - TianFu
+      - TianXiang
+      - WenQu
+      - TianCun
+      - ZuoFu
+      - YouBi
+      - TianKui
+      - TianYue
+  auspices: Negative
+  comments: |
+    * You will never quite connect to your beneficial ancestors.
+    * Circumstance beyond your control will separate you from your ancestors/family. 
+    * You are sent to boarding school (military academy). 
+    * You are cared for but receive little intimacy or affection. 
+    * You “leave home” – renounce family ties. You join a religious order. 
+    * You will work as a sex-worker. 
+    * People you barely know are capable of directing, assisting and running your life. 
+    * Though it is never clear you have a great deal of Fate to resolve for your ancestors.
+
+- star: TianTong
+  palace: Ancestors
+  inHouseWith:
+    - - TanLang
+      - QiSha
+      - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Negative
+  comments: |
+    * You are separated from your parents at an early age.
+    * You are orphaned. 
+    * You runaway from home when young. 
+    * You argue constantly with your parents. 
+    * Breaking ties with your family is the best resolution of your ancestral Fate. 
+    * You do not mourn the passing of one of your parents. 
+    * You are sexually, emotionally, verbally or physically abused by a family member. 
+    * You are adopted. 
+    * You marry at a very early age to escape your parents.
+
+- star: TianFu
+  palace: Ancestors
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    * You have strong predestined affinity with your parents, grandparents and/or matrilineal ancestors.
+    * You will receive education and protection from them. 
+    * Your matrilineal ancestors (women in your heritage) rain blessings on you. 
+    * You will feel closer to your mother than your father. 
+    * Your clan, ethnic or geographical identity may be strong. 
+    * You have a strong female ancestral guardian spirit.
+
+- star: TianFu
+  palace: Ancestors
+  inHouseWith:
+    - - TianCun
+  auspices: Exalted
+  comments: |
+    * You will be blessed by your matriarchal ancestors. They set you free.
+    * You will receive a confident sense of self-value from your matriarchal ancestors. 
+    * You will inherit wealth.
+
+- star: TianFu
+  palace: Ancestors
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianYue
+      - TianKui
+  auspices: Exalted
+  comments: |
+    * You will receive many blessings and support of your matriarchal ancestors (mother).
+    * You inherit talent and intelligence from your ancestors. 
+    * Part of your ancestral legacy will be a sense of style, elegance and grace. You will be a social leader. 
+    * You will be a talented artist or aesthete. You will live in beautiful surroundings. 
+    * You will have attentive grandchildren.
+
+- star: TianFu
+  palace: Ancestors
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Mixed
+  comments: |
+    * You be parted from one of your parents (one side of ancestral lineage).
+    * You will be raised by a single Mom. 
+    * You will have a longing for missing or dead ancestors. Genealogical research will be exorcistic. 
+    * You are able to overcome the ancestral afflictions that appear in your youth (28). 
+    * You have an ancestral “spirit guide” – an angelic matriarchal ancestor is a constant companion. Her intuitive promptings help you resolve much of your Fate.
+
+- star: TaiYin
+  palace: Ancestors
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    * You have considerable predestined affinity with your parents/ancestors. You will receive guidance and protection from the dead.
+    * Particularly, your mother and/or matrilineal ancestors have a strong influence on you. You are their living dream. 
+    * If no afflicting stars appear here your (matrilineal or female) ancestors will shape your entire life. You will feel their blessing presence and control. 
+    * Much of your life will be the resolution of the Fate of matriarchal ancestors. You will therefore have a life of incongruent “chapters”.
+
+    When the Moon appears in the Ancestor Palace with any potent star indicates strong Fate ties with your matriarchal ancestors.
+
+- star: TaiYin
+  palace: Ancestors
+  inHouseWith:
+    - - TianCun
+  auspices: Exalted
+  comments: |
+    * You will be blessed by your matriarchal ancestors.
+
+- star: TaiYin
+  palace: Ancestors
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianYue
+      - ZuoFu
+      - YouBi
+  auspices: Exalted
+  comments: |
+    * You will find easy inspirations in your matriarchal lineage.
+    * Your life’s success and reputation is guarded and supported by matriarchal ancestors.
+    * Your life will be full of great releases of the unsettled dead. 
+    * You may drift from place to place, job to job to clear the inhibitions experienced by your matriarchal ancestors.
+    * Women will be particularly important helpers in your life.
+    * Matriarchal ancestors will follow you on your spiritual path.
+
+- star: TaiYin
+  palace: Ancestors
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - DiJie
+      - DiGong
+      - TuoLuo
+  auspices: Negative
+  comments: |
+    * You will lose or argue with your mother at an early age.
+    * Resentment and anxiety will resolve your ancestral Fate. Cutting emotional ties with your family is liberating. 
+    * Beneath the inhibitions brought by matriarchal ancestors in considerable creativity. When you resolve your ancestral Fate this creativity will bloom.
+
+- star: TanLang
+  palace: Ancestors
+  inHouseWith: []
+  auspices: Haunted
+  comments: |
+    * You have a strong but difficult predestined affinity with one or both of your parents/ancestors. You may separate from them early (runaway or death).
+    * Your parents ignore you AND then harshly discipline you. 
+    * If no other afflicting stars appear here, you are likely to resolve your ancestral fate by leaving home (renouncing family) very early (12-16 years old). 
+    * A ghost with irresolvable issues haunts you. This haunting shapes your life. 
+    * You are cut-off from your ancestors but cannot manage the freedom or solitude well. 
+    * You are haunted by an ancestral ghost (that was murdered by a close family member).
+
+    When the Wolf appears in the Ancestor Palace it is always a sign of discontinuity with the ancestors. This can represent the person as a loner or ruled over by a “loner” or lost ancestor.
+
+- star: TanLang
+  palace: Ancestors
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianCun
+      - ZuoFu
+      - YouBi
+  auspices: Haunted
+  comments: |
+    * You will struggle with the authority and influence of your parents/ancestors until you reach midlife (56).
+    * When young you are influenced by an ancestral ghost that prompts actions regarding your family/ancestors that you later regret. 
+    * The anti-social behaviors of your youth fade in midlife. 
+    * In later life you work to protect others (strangers).
+
+- star: TanLang
+  palace: Ancestors
+  inHouseWith:
+    - - TianYue
+      - TianCun
+  auspices: Mixed
+  comments: |
+    * You will struggle but ultimately overcome differences and difficulties with your ancestors/parents.
+    * You come from a long line of self-sufficient and strong ancestors. 
+    * Your ancestor(s) admire and support your individual identity. 
+    * You inherit a strong sense of survival from your ancestors.
+
+- star: TanLang
+  palace: Ancestors
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Mixed
+  comments: |
+    * You will have a tumultuous relationship with the heritage and identity of your ancestors.
+    * Asserting your ego when young will cause many scars. 
+    * Independence from the legacy of your troubled ancestors is hard won. 
+    * You are a recluse. 
+    * Your resentment and conflict with your family is influenced by an ancestor-ghost.
+
+- star: TanLang
+  palace: Ancestors
+  inHouseWith: []
+  auspices: Haunted
+  comments: |
+    * You have an uneven and confusing predestined affinity with one or both of your parents.
+    * Your parents’ (father’s) love is insufficient (or inappropriate) for you. 
+    * You will resent your father or parents. 
+    * Your unresolved dead ancestors haunt you causing you to blame your family for many of your problems. 
+    * If you have children, they will remind you of your (grand) parents. 
+    * You will be adopted.
+
+    The legacy of your ancestors is unclear and you are unable to make very good use of it. Your ancestors offer you a confusion of influences. With any important star – that star is the key to resolution.
+
+- star: TanLang
+  palace: Ancestors
+  inHouseWith:
+    - - TianCun
+  auspices: Haunted
+  comments: |
+    * You will be distant and aloof towards your parents/ancestors.
+    * They will offer security only.
+
+- star: TanLang
+  palace: Ancestors
+  inHouseWith:
+    - - ZuoFu
+      - YouBi
+      - WenChang
+      - WenQu
+      - TianYue
+      - TianKui
+  auspices: Mixed
+  comments: |
+    * You will be able to benefit from your ancestors through relationships with your siblings.
+    * You do not identify with your ancestors but occasionally benefit – modest good luck.
+
+- star: TanLang
+  palace: Ancestors
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - DiJie
+      - DiGong
+      - TuoLuo
+  auspices: Negative
+  comments: |
+    * You will be overwhelmed by the disorder in your relationships to family/ancestors.
+    * Imbalanced relationship will haunt your entire life. 
+    * You will occasionally be overcome with conflicting emotions for apparently “no reason”. You are surrounded by the unsettle dead. 
+    * You will live near a cemetery or choose to be an undertaker. 
+    * You may obsess with “spiritual” matters (exorcism) or psychotherapy – but be without resolve.
+
+- star: TanLang
+  palace: Ancestors
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    * You have strong predestined affinity with one (father) or both of your parents/ancestral lines.
+    * Your parents (father) are strict, but give you much material support. They give you a sound education. 
+    * Your ancestral energy is very supportive. You will receive many benefits (inspiration and confidence) from your ancestors. 
+    * You will resolve many unsettled ancestors with your self-sacrifices and perseverance. 
+    * You are a dutiful child and want to be responsible for your parents. 
+    * Your ethnic, racial or tribal identity is strong but not arrogant.
+
+- star: TanLang
+  palace: Ancestors
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianYue
+      - TianKui
+  auspices: Exalted
+  comments: |
+    * You will be a guided by a great ancestor (appearing as intelligence, righteousness and/or good fortune).
+    * You will enter a profession (medicine, education and/or religion) that helps many people around you. 
+    * Your caring actions and eloquence will resolve the Fate and many people around you. 
+    * You are guided through life by a dead ancestor who lived as great leader and healer. 
+    * Your self-discipline is awesome. 
+    * You become part of a spiritual lineage. Though these ancestors are not blood-related your conduct makes the connection whole.
+
+- star: TanLang
+  palace: Ancestors
+  inHouseWith:
+    - - LingXing
+      - HuoXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Negative
+  comments: |
+    * You will “rise above” circumstances. Though feeling “held back” at times you make great progress in life.
+    * You make good a childhood adoption. 
+    * You are devoted to your parents despite their misconduct. You are filial.
+
+- star: TianLiang
+  palace: Ancestors
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    * You have a strong predestined affinity with one or both of your parents.
+    * There is a strong ancestral energy in your life. 
+    * You receive a considerable inheritance. 
+    * Your parents are long-lived. 
+    * If no afflicting stars appear here, you are likely to resolve your ancestral fate by returning home (immigrating and/or traveling back to the land of your ancestors) at mid-life. 
+    * You will have a strong identity with your family, ethnic group or geographical area. You are clannish.
+
+- star: TianLiang
+  palace: Ancestors
+  inHouseWith:
+    - - WenQu
+      - WenChang
+      - ZuoFu
+      - YouBi
+      - TianCun
+      - TianKui
+      - TianYue
+  auspices: Positive
+  comments: |
+    * Your Fate resolves well in connection to a family elder.
+    * You have strong Fate with the place, house or culture of your childhood. 
+    * The home (fengshui, country, language and/or culture) of your ancestors is a wellspring of good qi. 
+    * Religious pilgrimage awakens your spiritual life. 
+    * Any and all Fate given by your ancestors is given with the gifts necessary for resolution.
+
+- star: TianLiang
+  palace: Ancestors
+  inHouseWith:
+    - - TianCun
+  auspices: Positive
+  comments: |
+    * You will receive an inheritance or gift from your ancestors.
+    * You will live close to where you were born. 
+    * You will take over a family business or land.
+
+- star: TianLiang
+  palace: Ancestors
+  inHouseWith:
+    - - LingXing
+      - HuoXing
+  auspices: Negative
+  comments: |
+    * Forgetfulness of your ancestors creates mishaps and pain in your life.
+    * You are heavily influenced by fengshui – especially in childhood. Learning about fengshui resolves much of your Fate.
+
+- star: TianLiang
+  palace: Ancestors
+  inHouseWith: []
+  auspices: Haunted
+  comments: |
+    * You are a rebellious child. You hurt your parents.
+    * Your ancestral qi is a demonic curse. You inherit irresolvable issues from you ancestors. 
+    * Your life is an expression of the anxiety and pain of the unresolved dead. 
+    * You are a victim of child abuse. 
+    * You want to repeat the abuse you received. 
+    * If there are other afflicting stars, you will be haunted by irreconcilable anxiety – mental illness. 
+    * You may die on a battlefield. 
+    * You ancestors have assigned you a difficult exorcism as part of your Fate.
+
+    When the 7 Killings rules the Ancestor Palace it is unaffected by any/all other stars. The auspice of this placement is related to the untimely death of an ancestor who has developed into a demonic force.
+
+    * You have a genetic predisposition to die young.
+    * You will participate in dangerous and even life-threatening misadventures as if possessed.
+    * You will take your life/survival lightly.
+    * You are prone to accident and injury.
+    * You are likely to die suddenly and be consumed by fear/horror in the moment of death.
+
+- star: PoJun
+  palace: Ancestors
+  inHouseWith: []
+  auspices: Haunted
+  comments: |
+    * You are possessed of a ghost (who feels severely [many generations] isolated [orphaned]) and who rejects its heritage, ethnicity, family, ancestors, or (one or both) parents. You will rebel against your parents and have a rift with one (or both) parent.
+    * Your ancestral qi is afflicted – though you inherit unresolved issues from you ancestors, you practice denial/self-centeredness. 
+    * If there are other afflicting stars, you will be haunted by nervousness, paranoia and even madness. You may die on a battlefield fighting the enemies of your ancestors. 
+    * You may be infertile or impotent. If you fail to resolve Pojun (honor your ancestors, enlist tian ji, care for your family) before you die you will “be absorbed by” the ghost in the transitory states (birth as a demon).
+
+- star: PoJun
+  palace: Ancestors
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - YouBi
+      - ZuoFu
+      - TianYue
+      - TianKui
+  auspices: Haunted
+  comments: |
+    * You will intentionally disadvantage your self and undermine easy success in life.
+    * You work hard outside convention. You reject your family/ancestor inheritance/values. 
+    * You establish an unconventional family.
+
+- star: PoJun
+  palace: Ancestors
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Haunted
+  comments: |
+    * You are likely to wound or injure one of your parents.
+    * You hate your ancestry. You reject the values of the culture you were born in. 
+    * You hurt your family/parents. 
+    * You immigrate; loose your mother tongue, convert to a new religion, etc.

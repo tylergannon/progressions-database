@@ -1,0 +1,862 @@
+---
+- star: ZiWei
+  palace: Children
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    When the *Emperor* appears in the *Children Palace* or Fourth House without affliction there will be
+    a smooth continuity in your family line. You will have bright and supportive children (son) who will 
+    follow and serve you until your death. Having children is a strong attribute of your Fate. 
+    Alternately your sexuality or sexual identity is strong and important.
+
+    In houses associated with relationships it is important to remember that the info is about the Parent here – 
+    about how you relate to your kids and parenting. Auspice is really shaped by character.
+    
+    * When the Emperor appears in the Offspring Palace you are “born to be a parent” You have strong predestined affinity with a child (son[s]).
+    * You will have precocious and powerful children. They will be able to support you in old age.
+    * You cannot be a “controlling parent”; you needn’t be a “protecting parent”. Your child (son) will be full of confidence and initiative.
+    * A child (or your children) will be significant partners in your life.
+    * Your children inspire you t create a legacy (spiritual/material).
+
+- star: ZiWei
+  palace: Children
+  inHouseWith:
+    - - TianFu
+  auspices: Positive
+  comments: >
+    When the Emperor appears in the Offspring Palace with Empress (Tian Fu) or Tutor (Tian Xiang) your children will surpass you in social status, education, occupation and finance. One of your children will marry into a famous/wealthy family. One of your children will become a celebrity, hero or politician (enter government). Your child(ren) will be self-starters – have strong personal Fate; and therefore not need much “parenting”. Your child(ren) will parent you in your old age.
+    You will make very much of your sexual or gender identity.
+
+- star: ZiWei
+  palace: Children
+  inHouseWith:
+    - - QiSha
+      - TanLang
+      - PoJun
+  auspices: Positive
+  comments: >
+    When the Emperor appears in the Offspring Palace with 7 Killings (Qi Sha), Wolf (Tan Lang) or Rebel (Po Jun) your childrens’ or your own sexual identity will be unconventional. You will have few children. You will experience a miscarriage, infant death or abortion but recover well. You will recover from infertility or impotence to become the parent of a healthy child. You will adopt (rescue) a child who has the capacity to resolve much or all your Fate. You will live in a country that legalizes same-sex marriage. Your children may live very “different” lives or live far from you but this does not mean weak Fate resolution. One unmarried child will stay by your side for life. Being a parent will be a struggle but turn out well.
+
+- star: ZiWei
+  palace: Children
+  inHouseWith:
+    - - TianCun
+  auspices: Positive
+  comments: >
+    When the Emperor appears in the Offspring Palace with Storehouse (Tian Cun) your children will financially support you in old age. Being a parent will increase your income and property.
+
+- star: ZiWei
+  palace: Children
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianKui
+      - TianYue
+  auspices: Positive
+  comments: >
+    Your children will be obedient, clever and good at their work. They will support you in old age. One or all your children will be very successful at school. One or all your children will have a “spiritual” disposition. Having two lesbian moms works well for you and your children.
+
+
+- star: ZiWei
+  palace: Children
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Positive
+  comments: >
+    You will make repeated sacrifices for your children but they will not appreciate it and/or are unable to make use of it. Your children will be hard to control and there will be much discord. One or all your children will abandon you (or one die young). Juvenile Hall and Rehab will co-parent your children. Having two lesbian moms does NOT work well for you or your children. (The outcome of these “afflictions” can only be found in the child’s chart and character.)
+
+
+- star: TianJi
+  palace: Children
+  inHouseWith: []
+  auspices: Positive
+  comments: >
+    There will be a strong resolution of Fate that begins when you become a parent.
+
+    * Your children will be sensitive and your predestined affinity is strong (life-long). You will be a cautious and protective parent so that your children can be very successful in the world.
+    * Becoming a parent will open up your hidden psychic ability. 3) One or more of your children are “returning ancestors”.
+    * Sex may seem like a mystical experience to you.
+    * You may be sexually obsessed.
+
+- star: TianJi
+  palace: Children
+  inHouseWith:
+    - - TaiYin
+      - TianLiang
+  auspices: Exalted
+  comments: >
+    * Your Fate will be resolved by the birth of a daughter. 
+    * Becoming a parent (especially of a sensitive child) will end your search for a sense of “home”. 
+    * You have deep predestined affinity with your children; their appearance and support resolve major aspects of your Fate. 
+    * Your children will be very capable and attractive. 
+    * our children are close and support you; this closeness grows deeper over time. 
+    * You are a skillful at seduction.
+
+- star: TianJi
+  palace: Children
+  inHouseWith:
+    - - TianCun
+      - JuMen
+  auspices: Neutral
+  comments: >
+    * Your children will create a strong and broad set of social contacts that help you resolve Fate. 
+    * Your children help you reconnect with a stream of ancestral qi, prosperity and good karma. 
+    * The birth of your children opens your spiritual Path in life. 
+    * You are polyamorous.
+
+- star: TianJi
+  palace: Children
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianYue
+      - ZuoFu
+      - YouBi
+  auspices: Neutral
+  comments: >
+    * Your children will be a great source of pride – even when they are very young. 
+    * They will do very well at school and business. 
+    * They will share your spiritual aspirations. They will stand by you in your old age.
+
+- star: TianJi
+  palace: Children
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Haunted
+  comments: >
+    * Obstacles may obstruct pregnancies (infertility, miscarriages, abortions included). 
+    * You will lose one child in his/her infancy. 
+    * You (or your partner) may die in childbirth. 
+    * You will live apart from one or all your children.
+    * You will be unable to control the conduct or speech of your children. 
+    * Your children bring more Fate entanglements. 
+    * Despite the afflictions you will resolve Fate with one child (Goat Blade). 
+    * This affliction will vary based on character (particularly painful for Goats, Pigs and Rabbits).
+
+- star: TaiYang
+  palace: Children
+  inHouseWith: []
+  auspices: Exalted
+  comments: >
+    A son will offer a strong and smooth resolution of your Fate particularly related to your patriarchal ancestor(s).
+
+    * When the Sun appears in the Offspring Palace or House of Children you have predestined affinity with a child (son) who is strong and supportive. He will take care of you (especially mother) in your old age. 
+    * Your child/children will be independent but not disrespectful. 
+    * You have a strong sexual appetite. 
+    * You will become sexual early.
+
+- star: TaiYang
+  palace: Children
+  inHouseWith:
+    - - TaiYin
+      - JuMen
+  auspices: Positive
+  comments: >
+    * You have little or weak predestined affinity (possible reproductive disharmonies) with being a parent. 
+    * You will live apart from your children. 
+    * You will raise someone else’s children or adopt. 
+    * You are polyamorous. 
+    * You are bi-sexual, asexual or will seek gender reassignment. 
+    * You will be a successful sex worker. 
+    * You will have an early sexual awakening. 
+    * You may have a sexual addiction/compulsion disorder.
+
+- star: TaiYang
+  palace: Children
+  inHouseWith:
+    - - TianFu
+      - TianLiang
+  auspices: Mixed
+  comments: >
+    * You have excellent predestined affinity with your children; they will be supportive and capable children. 
+    * The birth of children greatly enhances your prosperity; they will bring you new resources of all kinds. 
+    * Your children marry into wealthy and prestigious families. 
+    * Your children bring you great comfort and sense of “home”.
+
+- star: TaiYang
+  palace: Children
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Negative
+  comments: >
+    * Differing visions and incomplete affinities with your children will be a great source of anxiety or pain. 
+    * Raising your children will be a harsh resolution of Fate. 
+    * Your children offer retribution. 
+    * Your children abandon you. 
+    * You will spend your old age in a house-trailer watching cable TV with an unemployed alcoholic son (Goat Blade).
+
+- star: WuQu
+  palace: Children
+  inHouseWith: []
+  auspices: Negative
+  comments: >
+    Indicates a weak predestined affinity with being a parent. It may also simply mean having children late in life (after 28).
+
+    * When the General appears in the Offspring Palace or House of Children you are predestined to have no children. 
+    * You have no affinity with your children. They will argue with you and reject your guidance. 
+    * A child may die or be taken from you. 
+    * You are asexual. 
+    * The warrior/prostitute relationship suits you. 
+    * You may have subordinates or disciples but no children. 
+    * You will have children late in your life (40 yrs +). 
+    * You may adopt children successfully.
+
+
+- star: WuQu
+  palace: Children
+  inHouseWith:
+    - - QiSha
+      - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Negative
+  comments: >
+    * You will have many difficulties with your children – differing views (big age discrepancy). 
+    * You will experience infertility or impotence. 
+    * Your children will not be harmonious. 
+    * You will argue and abandon each other. 
+    * You may need to abandon a child (for your own safety). 
+    * You will lose an adult child to illness, accident or warfare. 
+    * This heart-breaking relationship may haunt you, but it will nevertheless negatively resolve Fate.
+
+- star: WuQu
+  palace: Children
+  inHouseWith:
+    - - TianFu
+      - TianXiang
+      - WenChang
+      - WenQu
+      - TianKui
+      - TianYue
+      - TianCun
+      - ZuoFu
+      - YouBi
+  auspices: Positive
+  comments: >
+    * Though you will have few children, they will prosper. 
+    * Your children will be independent, well educated and do modestly well in worldly matters. 
+    * They are likely to receive a legacy from you (personal). 
+    * Your children will “sweep your grave” – respect and honor you.
+
+- star: TianTong
+  palace: Children
+  inHouseWith: []
+  auspices: Exalted
+  comments: >
+    Being a parent offers a strong base for the resolution of your Fate. Parent/child relationships are opportunities to resolve Fate.
+    
+    * You are predestined to have prominent and talented daughters.  They will be attractive and a source of great pride for you.
+    * Your children will be well behaved as children and support you in your old age. 
+    * Your children will be respectful, self-disciplined and easy to care for.
+
+- star: TianTong
+  palace: Children
+  inHouseWith:
+    - - TaiYin
+  auspices: Negative
+  comments: >
+    * You will have daughters. They will be very attractive – this brings you much worry and consternation.
+
+- star: TianTong
+  palace: Children
+  inHouseWith:
+    - - TianLiang
+  auspices: Positive
+  comments: >
+    * Your daughters are very close to you and have much predestined affinity with you. 
+    * They will make sacrifices for you and protect you in old age. 
+    * You will share much of your life (resources) with your daughters. One may never leave home.
+
+- star: TianTong
+  palace: Children
+  inHouseWith:
+    - - JuMen
+  auspices: Negative
+  comments: >
+    * You will be unable to manage your children. The auspice here is linked to character. 
+    * Your children may parent you in your old age.
+
+- star: TianTong
+  palace: Children
+  inHouseWith:
+    - - TianCun
+  auspices: Positive
+  comments: >
+    * Your children will marry into wealthy or prestigious families.
+
+- star: TianTong
+  palace: Children
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianYue
+  auspices: Exalted
+  comments: >
+    Very strong predestined affinity with your children. They will make you proud, be clever and resourceful and support you in old age.
+
+- star: TianTong
+  palace: Children
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Negative
+  comments: >
+    * You will have very few children. 
+    * You will find it difficult to relate to your children. 
+    * You will live apart from your children. 
+    * One or more will die before you. 
+    
+- star: TianTong
+  palace: Children
+  inHouseWith:
+    - - YangRen
+  auspices: Haunted
+  comments: >
+    You will lose a child to miscarriage or abortion (Goat Blade).
+    
+- star: LianZhen
+  palace: Children
+  inHouseWith: []
+  auspices: Haunted
+  comments: >
+    Indicates little or no predestined affinity with children. There is no certainty in your relationships w your children.
+
+    * You are predestined to lose one or more of your children. A child (son) may die or be taken from you by others. 
+    * You will have no children. 
+    * You will be sexually assaulted when young. 
+    * Your sexual attractiveness will get you into difficulties. 
+    * You will miscarry at least once. 
+    * You have difficulty conceiving a child.
+
+- star: LianZhen
+  palace: Children
+  inHouseWith:
+    - - TianFu
+      - TianXiang
+      - WenChang
+      - WenQu
+      - TianKui
+      - TianCun
+      - ZuoFu
+      - YouBi
+
+  auspices: Positive
+  comments: >
+    You will be able to have children if you partner with or are chosen by someone with strong Fate as a parent. 
+    You will raise someone else’s children very successfully (partner’s children from another marriage, adoption, etc.). You will run a successful daycare center, school or orphanage. You will be a eunuch or childless concubine.
+
+- star: LianZhen
+  palace: Children
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - PoJun
+      - TianYue
+  auspices: Negative
+  comments: >
+    * Your Fate with children is very uncertain. 
+    * You will adopt or lose a child in a lawsuit (divorce). 
+    * You or your child will become a monk or nun (celibate).
+
+- star: LianZhen
+  palace: Children
+  inHouseWith:
+    - - YangRen
+  auspices: Negative
+  comments: >
+    * You will give birth at an early age and put the baby up for adoption. 
+    * You will have an abortion or miscarriage. 
+    * You will sacrifice many things to keep your child(ren). 
+    * You are an heroic parent. Your child is a “prodigal son”. 
+    * Though you are separated from your child(ren); you are eventually reunited.
+
+- star: LianZhen
+  palace: Children
+  inHouseWith:
+    - - TanLang
+  auspices: Negative
+  comments: >
+    * You are separated from you child(ren). 
+    * You will raise a child in unusual circumstances (commune, religious sect or same-sex marriage, etc.) 
+    * You will depend heavily on a strange but resourceful child. 
+    * You are an heroic parent. 
+    * You will have a baby using artificial insemination. 
+    * You will be a surrogate mother. 
+    * Your sexuality will be shaped by a political choice or the result of childhood abuse.
+
+- star: LianZhen
+  palace: Children
+  inHouseWith:
+    - - QiSha
+  auspices: Haunted
+  comments: >
+    * You will die in childbirth, lose a child in infancy and/or be hurt or killed by one of your children. 
+    * You (man or woman) will be haunted by a miscarried or aborted child-spirit. 
+    * You will suffer from and untreatable venereal disease and its many complications. 
+    * You will have a handicapped child (requiring enormous care). 
+    * You will marry your sexual abuser (pimp). 
+    * You will enjoy serious sexual degradation (sado-masochism). 
+    * You will be repeatedly raped. 
+    * You will die at the hands of a dominatrix. 
+    * Your sexuality torments you; you go mad and eventually commit suicide. 
+    * Sterility or impotence haunts your entire adult life. 
+    * 7 Killings ruling here may indicate accumulating more and difficult Fate in this lifetime.
+
+- star: LianZhen
+  palace: Children
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Negative
+  comments: >
+    * The afflictions mentioned above will be missed “by an inch”. 
+    * You will narrowly escape the situations above and escape the weight of more and heavier Fate. 
+    * You will feign madness, illness or incompetence in order to escape these afflictions.
+
+- star: TianFu
+  palace: Children
+  inHouseWith: []
+  auspices: Exalted
+  comments: >
+    your child(ren) will be an important asset in the resolution of your Fate. Your sexuality and/or attractiveness will be key to your Fate resolution.
+
+    * You have a strong predestined affinity with your children. You will have several or many children. 
+    * You have particularly deep affinity with your daughter(s). 
+    * At least one outstanding child will acquire wealth and support you in your old age.
+    * Your children resolve your Fate. 
+    * You are attractive and your sexuality will become a bargaining chip in life.
+
+- star: TianFu
+  palace: Children
+  inHouseWith:
+    - - TianCun
+      - ZuoFu
+      - YouBi
+  auspices: Exalted
+  comments: >
+    * You will have a child (daughter) that will marry into a wealthy and/or prestigious family – this will resolve much of your Fate. 
+    * You will parent a child (daughter) that will change your social and financial resources. 
+    * Your looks and manners seduce others. 
+    * You have a stylish appearance and use it to seduce others and get your way.
+
+- star: TianFu
+  palace: Children
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianKui
+      - TianYue
+  auspices: Positive
+  comments: >
+    * Your children will be clever, resourceful and successful. They will support, comfort and protect you in old age. 
+    * You will use seduction as a means of resolving Fate and social advancement.
+
+- star: TianFu
+  palace: Children
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+  auspices: Negative
+  comments: >
+    * Your children will be troublesome, argumentative and competitive. One will live with a scar, series of injuries, minor birth defect or handicap. 
+    * You will have an extra-marital affair. 
+    * You are elegant but kinky.
+
+- star: TianFu
+  palace: Children
+  inHouseWith:
+    - - DiJie
+      - DiGong
+  auspices: Negative
+  comments: >
+    You will lose a child from miscarriage, abortion or divorce. This resolves Fate quickly (easily recover).
+
+- star: TaiYin
+  palace: Children
+  inHouseWith: []
+  auspices: Exalted
+  comments: >
+    You have important connections with your children that will help you resolve Fate. Daughters manage much of your Fate resolution.
+
+    * You are predestined to have supportive children. 
+    * A child (daughter) will marry well and/or be very financially successful. He/she will care for and support you in old age. 
+    * You will have a delicate, sensitive and precious child. 
+    * You may adopt a child. 
+    * You will be sexually active early.
+    * You may experience sexual trauma in childhood.
+
+- star: TaiYin
+  palace: Children
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianKui
+      - TianCun
+  auspices: Exalted
+  comments: >
+    * The birth of a child (daughter or moon boy) will create an effortless resolution of your Fate. 
+    * A child (daughter) will bring you great resources, comfort and support for your entire life. 
+    * This child will do well in school, business and share your spiritual aspirations. 
+    * Your physical/sexual attractiveness facilitates your Fate resolution. 
+    * You are a fashion model, an Este Lauder icon or lend your face to your daughter’s cookies (Paul Newman).
+
+- star: TaiYin
+  palace: Children
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Negative
+  comments: >
+    * Indicates that your children will embarrass and/or humiliate you. 
+    * You are a long-suffering parent (yet this resolves Fate). 
+    * Your children break your heart. 
+    * Your attempts at seduction backfire – you will wear the “Scarlet Letter”. 
+    * You are easily seduced, promiscuous and/or a lad. 
+    * You are the person everyone wants but you nevertheless go home alone.
+
+- star: TanLang
+  palace: Children
+  inHouseWith: []
+  auspices: Haunted
+  comments: >
+    You have children who are unconventional or anti- social. Children will bring you discomfort. You sexuality is linked to rebellious or anti-social conduct. Your sexual appetite is large.
+
+    * You are predestined to have difficulty controlling, keeping and/or supporting your children. 
+    * You will have a troublesome child who socially (sexually) misconducts him/herself. 
+    * Your children will leave home (marry) early. 
+    * You will lose a child to miscarriage or abortion.
+
+- star: TanLang
+  palace: Children
+  inHouseWith: 
+    - - WenChang
+      - WenQu
+      - TianKui
+  auspices: Neutral
+  comments: >
+    * There is no strong binding Fate between you and your children. Despite the weakness in the connection you will help each other resolve some Fate. 
+    * Your child will grow up in a private military or religious school – they will seem like strangers. 
+    * You will choose a partner who has children from another union.
+
+- star: TanLang
+  palace: Children
+  inHouseWith: 
+    - - TianCun
+  auspices: Negative
+  comments: >
+    * You will find it difficult to keep or support your children.
+
+- star: TanLang
+  palace: Children
+  inHouseWith: 
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Negative
+  comments: >
+    * You will lose your children to circumstances (incomplete pregnancy, divorce, foster care, jail, runaway, abduction and/or death). 
+    * You will try to raise children from several partners (w/out much support) and it will be full of ups and downs. 
+    * The surviving children will be strong and quirky – even make you proud (in a weird sorta way). 
+    * These problems and grudges subside when the children mature.
+
+- star: JuMen
+  palace: Children
+  inHouseWith: []
+  auspices: Negative
+  comments: >
+    You have children who are unconventional or anti-social. Children will bring you discomfort. Your sexuality is linked to rebellious or anti-social conduct. Your sexual appetite is large.
+
+    * You are predestined to have difficult children. They do not accept your authority. 
+    * You will have a troublesome child who will leave home (marry) early. 
+    * If there are no other afflicting stars, you will have a child with very different sensibilities and character from you. Though the child is not troublesome, you will not be close. 
+    * You will be haunted by an unborn child (incomplete pregnancy).
+
+- star: JuMen
+  palace: Children
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianKui
+  auspices: Negative
+  comments: >
+    * There is no strong Fate connection between you and your children. 
+    * The relationships will be characterized by freedom. 
+    * Your children leave home early. 
+    * You are sexually (even gender) ambivalent. 
+    * You will work with children not your own (teacher, social worker, nurse, doctor, etc.)
+
+- star: JuMen
+  palace: Children
+  inHouseWith:
+    - - TianCun
+  auspices: Negative
+  comments: >
+    * You will feel distant from your children, yet this produces no ill effect. 
+    * You are sexually complacent.
+
+- star: JuMen
+  palace: Children
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Negative
+  comments: >
+    * You will have only hardship and stress in your relationships to your children. 
+    * One child requires constant medical care. 
+    * They will all reject you and join other families. 
+    * You will have or cause several incomplete pregnancies. 
+    * You are sexually abused due to ambivalence and complacency.
+
+- star: TianXiang
+  palace: Children
+  inHouseWith: []
+  auspices: Positive
+  comments: >
+    You have important connections with your children and will educate and mentor them well. They will carry on and improve the family honor and reputation. You become a parent late in life (30+ years old). You are a “late bloomer” when it comes to sex.
+
+    * You are predestined to have a small family. Your children will be successful. 
+    * You will have a precocious child (or two) who will be a source of great social pride. 
+    * If there are no afflicting stars, you will have children that keep their obligations and share your values. 
+    * You will not feel particularly close to them. They will out class you. 
+    * Your children will successfully ‘carry on the line (ancestors)’.
+
+- star: TianXiang
+  palace: Children
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianKui
+      - TianCun
+  auspices: Positive
+  comments: >
+    * Your children will be obedient, caring and make you proud. 
+    * They will resolve your Fate and go on to develop their own particular affinities. 
+    * They will be “professionals”, social and/or religious leaders and financially better off than you.
+
+- star: TianXiang
+  palace: Children
+  inHouseWith:
+    - - TianCun
+  auspices: Positive
+  comments: >
+    You will be close to one or all your children. He/she (or they) will comfort and support you in old age.
+
+- star: TianXiang
+  palace: Children
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Positive
+  comments: >
+    * Your children  will rebel at an early age and be less than perfect. Their independence and miscommunications will be difficult for you. 
+    * You will parent children for several partners. Some may abandon you but others (Goat Blade) will take care of you later in life. 
+    * Much of this difficulty will be the result of having children late in life. This subsides when the children mature. 
+    * You may finally get randy in old age.
+
+- star: TianLiang
+  palace: Children
+  inHouseWith: []
+  auspices: Positive
+  comments: >
+    You have solid Fate connections with a daughter (or shy son).  The home you share will be part of the relationship.  You are sexually conventional and find monogamy easy.
+
+    * You are predestined to have a loving and capable daughter (or shy son). 
+    * You will have some trouble with sons. They will reject your authority. 
+    * Your children will be successful in business and dutifully support you in old age. 
+    * You will leave a legacy (heritage and property) to your children. 
+    * If there are no afflicting stars, even if you have only a daughter your family line does not end.
+
+- star: TianLiang
+  palace: Children
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianKui
+      - ZuoFu
+      - YouBi
+  auspices: Positive
+  comments: >
+    You will have a very happy family life. Your children (especially daughters) will be obedient, resourceful and kind.
+
+- star: TianLiang
+  palace: Children
+  inHouseWith:
+    - - TianCun
+  auspices: Positive
+  comments: >
+    * Your children will be very resourceful, successful in finance and business. 
+    * They will be supportive and devout. 
+    * You will have a legacy for them.
+
+- star: TianLiang
+  palace: Children
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Negative
+  comments: >
+    * Indicates some discord between you and some children (boys). 
+    * Needless competition and differences of opinion create disharmony. This subsides when the children mature. 
+    * One child is a renegade, dies or emigrates.
+
+- star: QiSha
+  palace: Children
+  inHouseWith: []
+  auspices: Haunted
+  comments: >
+    You are haunted by the circumstances of parenting. You have an irrational fear of being a parent.
+
+    * When the Seven Killings appears in the Offspring Palace or House of Children you are predestined to have one or two disagreeable children. You will not enjoy being a parent. 
+    * You will have much trouble with a son who refuses to accept your authority. 
+    * You will lose children to miscarriage, abortion or incomplete pregnancies. 
+    * If there are other afflicting stars, you will have irresolvable differences with your children. They will abandon you or you them. 
+    * You will be injured or murdered by one of your children. 
+    * You will struggle with infertility. All the above are due to the promptings and obstructions of the unsettled dead.
+
+- star: QiSha
+  palace: Children
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianKui
+      - TianCun
+  auspices: Negative
+  comments: >
+    * The experience of being a parent will feel awkward and uncomfortable. 
+    * You may raise other people’s children (partner’s children, adopted, foster care, etc.) and feel inept. 
+    * Your children (especially boys) will turn on you, challenge you and abandon you. 
+    * You or your partner will have a difficult incomplete pregnancy – there will be medical complications (or infertility/impotence). 
+    
+    These problems will clear by midlife (38).
+
+- star: QiSha
+  palace: Children
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Haunted
+  comments: >
+    * You are at risk as a parent. 
+    * Being a parent will be extremely challenging and may provoke medical and psychological problems. 
+    * You or a child may die in childbirth. 
+    * Your child is born with chronic medical condition and requires constant medical care – this exhausts your qi and resources. 
+    * If you live together (w sons) you will exchange violence and/or threats. 
+    * Your son will run away early. 
+    * You will need to give your child(ren) up for adoption. 
+    
+    This affliction will last a lifetime.
+
+- star: PoJun
+  palace: Children
+  inHouseWith: []
+  auspices: Haunted
+  comments: >
+    Your experience as a parent will be rife with difficulties. Irreconcilable differences will separate you from your children (sons).
+
+    * When Rebel appears in the Offspring Palace you will have a disagreeable child (possessed of Pojun ghost, one who died as an orphan, unprotected and resentful). You will be an absent or part- time parent. 
+    * You will have much irreconcilable trouble with a son who refuses to accept your authority. 
+    * You will be a stepparent. 
+    * If there are other afflicting stars, your children will not know you (divorce, abortion, and/or miscarriage). Your rebellious (possessed) child may experience premature death and/or madness (shen disturbance). If you fail to resolve Pojun before you die you (or both) will “join” the ghost as a ghost(s) in the transitory states
+
+- star: PoJun
+  palace: Children
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianKui
+  auspices: Mixed
+  comments: >
+    * Though you have differences with your children they will live apart from you and prosper. 
+    * They will do well in private school (military or religious). 
+    * They will grow and develop independently. 
+    * This separation will resolve the harsh Fate.
+
+- star: PoJun
+  palace: Children
+  inHouseWith:
+    - - TianCun
+  auspices: Mixed
+  comments: >
+    You will lose your children to circumstances that work well for them. They will prosper despite your absence. They return to support you in old age.
+
+
+- star: PoJun
+  palace: Children
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Mixed
+  comments: >
+    * Your children fight and argue with you. They will leave home and develop very adversarial lifestyles. 
+    * You will have a handicapped child. 
+    * You will be hurt and confused by them. 
+    
+    Despite this affliction they “return” to you and much Fate resolution occurs.

@@ -1,0 +1,894 @@
+---
+- star: ZiWei
+  palace: Health
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    * You have a strong constitution is part of your fate.
+    * You are not fated to experience any serious medical problems.
+    * You will have skill in the study and practice of medicine.
+    * Your strength will make you wasteful of your health. You are too strong for your own good. Your old age will be troubled by illness (heart) and/or injury.
+    * You will suffer from nervous disorders originating in the kidneys and affecting your heart.
+    * Your physical stamina is great.
+    * Your constitution comes largely from the Patriarchal ancestors.
+
+- star: ZiWei
+  palace: Health
+  inHouseWith:
+    - - TianFu
+      - TianXiang
+      - TianLiang
+      - TianCun
+  auspices: Exalted
+  comments: |
+    * You will possess a strong constitution and seldom be ill.
+    * You have a strong shen (qi integrity).
+    * You inherit strong constitution from your patriarchal ancestors and/or your place of birth.
+    * You enjoy and maintain good health.
+
+- star: ZiWei
+  palace: Health
+  inHouseWith:
+    - - TanLang
+      - PoJun
+      - QiSha
+  auspices: Negative
+  comments: |
+    * You will contract nervous disorders that undermine your health.
+    * You have a highly personal or unconventional way of maintaining your health.
+    * You impulsively squander your strength and/or take risks.
+
+- star: ZiWei
+  palace: Health
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianYue
+      - ZuoFu
+      - YouBi
+  auspices: Positive
+  comments: |
+    * You are only occasionally ill (from overdoing).
+    * You respond well to treatment and make quick recoveries.
+    * Stress compromises your immunity.
+
+- star: ZiWei
+  palace: Health
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - DiGong
+      - DiJie
+      - TuoLuo
+  auspices: Negative
+  comments: |
+    * You will mismanage your strength.
+    * Emotionality creates tendon/bone injuries.
+    * You will have a successful surgery (have a scar).
+    * You will have a minor injury that does not completely heal.
+    * You are not bulletproof.
+
+- star: TianJi
+  palace: Health
+  inHouseWith: []
+  auspices: Negative
+  comments: |
+    * You are predisposed to nervous disorders. Worry and anxiety will weaken your body and internal immunity (kidney deficiency) and make you a hypochondriac.
+    * After a sickly childhood your caution in matters of health will give you long life. Illness is a spiritually awakening experience.
+    * Your intuition and empathy makes you successful in matters of health. You can be a successful healthcare professional.
+    * Over-analysis and worry wear away your health as you reach mid-life (40’s).
+    * You are susceptible to illnesses caused by spirit possession and easily cured by exorcism.
+    * You are susceptible to minor fluid yin/yang disorders (skin rashes and constipation/diarrhea).
+    * You respond well to alternative and/or shamanic healing.
+
+    Prognosis: Poor
+
+- star: TianJi
+  palace: Health
+  inHouseWith:
+    - - TianLiang
+  auspices: Negative
+  comments: |
+    * You will have Kidney disharmonies.
+    * You will have a hernia.
+    * You will have irregular bowels.
+    * You will have spinal injury.
+    * You will be possessed of an earth “bound” ghost.
+    * You can be cured by feng shui adjustments.
+    * Your illnesses can be cured by comfort, security and/or seclusion.
+
+- star: TianJi
+  palace: Health
+  inHouseWith:
+    - - TaiYin
+  auspices: Negative
+  comments: |
+    * You have a weak surface (wei qi, skin).
+    * Your illnesses will always appear on your skin. You bruise easily.
+    * Wearing an amulet or tattoo may be healing.
+    * You have weak immunity – especially aggravated by nervousness and emotionality.
+    * You will be a weak child (stronger after 27).
+    * Illness and recovery may be part of your spiritual path.
+    * You often suffer from fluids (yin) imbalance (tides).
+
+- star: TianJi
+  palace: Health
+  inHouseWith:
+    - - JuMen
+  auspices: Negative
+  comments: |
+    * You will have some difficulty assimilating nutrients.
+    * You will have weak immunity.
+    * You sometimes recover “miraculously”.
+    * You are a immune “swinging door”.
+    * Exorcism is effective medicine for you.
+
+- star: TianJi
+  palace: Health
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianCun
+      - TianYue
+      - ZuoFu
+      - YouBi
+  auspices: Mixed
+  comments: |
+    * You will have a weak constitution but instinctive cautions will bring longevity.
+    * You are more likely to be injured than ill.
+    * You respond well to an authoritative physician, personal discipline and conventional/standard treatments.
+    * Illness may be part of your spiritual path.
+
+- star: TianJi
+  palace: Health
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - DiJie
+      - DiGong
+      - TuoLuo
+  auspices: Mixed
+  comments: |
+    * You will suffer from stress-related illnesses.
+    * You are scarred.
+    * You suffer from hypertension, neurosis and/or trauma.
+    * You are clinically paranoid.
+    * You have a minor handicap (mobility problem) related to the spine.
+    * You suffer from lower digestive disorders (constipation and diarrhea).
+
+- star: TaiYang
+  palace: Health
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    * You will have a strong constitution. You will seldom be ill.
+    * You are too strong. Though illness is rare, overextending yourself physically will injure you.
+    * Injury may shorten your life.
+    * You will have poor eyesight or injure your eyes.
+    * Overindulgence will catch up to you by midlife.
+    * You may die due to injury (accident).
+    * You will be very disciplined in self-health care.
+
+    When the Sun appears in the Health Palace with any major star you will be very strong. (Check for auspicious placement)
+
+    Prognosis: Very Good
+
+- star: TaiYang
+  palace: Health
+  inHouseWith:
+    - - TaiYin
+      - JuMen
+  auspices: Mixed
+  comments: |
+    * You will occasionally get sick/injured but recover quickly and thoroughly.
+    * You are susceptible to mood swings that compromise your health.
+    * You alternate being self-disciplined and dissolute.
+    * You will have reproductive system problems but recover. (less so after 36).
+    * You have weak eyesight.
+
+- star: TaiYang
+  palace: Health
+  inHouseWith:
+    - - TianLiang
+      - TianCun
+  auspices: Mixed
+  comments: |
+    * Your strength will cause you injury.
+    * Minor handicap will give you longevity.
+
+
+- star: TaiYang
+  palace: Health
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianYue
+      - ZuoFu
+      - YouBi
+  auspices: Neutral
+  comments: |
+    * Your strength will lead to an interest in medical research or healthcare.
+    * You are a high-school gym coach.
+    * You benefit from and/or teach yoga or qigong practice.
+    * You have good response to well-educated physicians.
+    * You are a compliant patient – recover quickly as expected.
+
+- star: TaiYang
+  palace: Health
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Neutral
+  comments: |
+    * You are very susceptible to neurosis (obsessive compulsive disorder, panic attacks, depression).
+    * You easily collapse when sick or injured.
+    * You will suffer from psychosomatic illnesses (minor ghost possession).
+    * You can easily survive and recover from all the above imbalances.
+    * You suffer from chronic minor infections of blood.
+
+- star: WuQu
+  palace: Health
+  inHouseWith: []
+  auspices: Mixed
+  comments: |
+    * You are likely to be injured or wounded many times. You will carry scars on your face and/or body all your life.
+    * Worry will weaken your lungs.
+    * Early injuries or chronic illness will make you cautious and help you live a long time.
+    * You grow stronger with age.
+    * You will be well prepared for death.
+
+    Prognosis: Modest
+
+- star: WuQu
+  palace: Health
+  inHouseWith: []
+  auspices: Mixed
+  comments: |
+    * You are likely to be injured or wounded many times. You will carry scars on your face and/or body all your life.
+    * Worry will weaken your lungs.
+    * Early injuries or chronic illness will make you cautious and help you live a long time.
+    * You grow stronger with age.
+    * You will be well prepared for death.
+
+    Prognosis: Modest
+
+    When the General appears in the Health Palace with any major (including 7 Killings [Qi Sha]) star you will enjoy longevity.
+
+- star: WuQu
+  palace: Health
+  inHouseWith:
+    - - TianXiang
+      - TianLiang
+  auspices: Neutral
+  comments: |
+    * You will live a long time, despite your medical history.
+    * Your constitution and self-discipline will always play a part in your recovery.
+
+- star: WuQu
+  palace: Health
+  inHouseWith:
+    - - WenChang
+      - WenQu
+  auspices: Neutral
+  comments: |
+    * You respond well to both intelligent/well-trained and spiritually adept healers/physicians.
+    * Your complex medical conditions inspire the study and practice of medicine.
+    * You respond to psychotherapy.
+
+- star: WuQu
+  palace: Health
+  inHouseWith:
+    - - PoJun
+      - TanLang
+      - QiSha
+  auspices: Neutral
+  comments: |
+    * You will have a complex medical history (allergies, sensitivities, injuries).
+    * Your experiences of recovery will shape a very personal or unconventional approach to health and medicine.
+    * You will walk with a limp or carry a prominent scar on your head, hand or arms.
+    * Ineffective caring for others undermines your health.
+    * Stress compromises your immune response.
+
+- star: WuQu
+  palace: Health
+  inHouseWith:
+    - - TianYue
+      - TianKui
+      - ZuoFu
+      - YouBi
+  auspices: Neutral
+  comments: |
+    * You will receive appropriate medical care.
+
+- star: WuQu
+  palace: Health
+  inHouseWith:
+    - - TianYue
+      - TianKui
+      - ZuoFu
+      - YouBi
+  auspices: Neutral
+  comments: |
+    * You will receive appropriate medical care.
+
+- star: WuQu
+  palace: Health
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Mixed
+  comments: |
+    * Your childhood illnesses are never completely cured.
+    * You will suffer from sinus problems.
+    * You will have a surgical scar.
+    * You will have many injuries.
+    * Your various medical challenges will make you moody and emotionally unstable.
+    * You are a long-lived grumpy person.
+    * You are an old koot.
+
+- star: TianTong
+  palace: Health
+  inHouseWith: []
+  auspices: Mixed
+  comments: |
+    * You will have a modestly strong constitution and rarely be sick.
+    * You have a predisposition for injury to the head, deafness and heart problems.
+    * You have poor circulation and this will cause a profusion of minor illnesses, as you get older.
+    * Though you suffer from innumerable minor medical problems you will be long-lived.
+    * Disciplined personal habits will make or break your health.
+    * You dislike medical treatments and would rather “tough it out”.
+
+    Prognosis: Good
+
+- star: TianTong
+  palace: Health
+  inHouseWith:
+    - - TaiYin
+      - JuMen
+  auspices: Mixed
+  comments: |
+    * You have a flickering shen.
+    * You have a weak heart but a solid body.
+    * Your body and thinking are often at odds.
+    * In an effort to “control” your health, you wear yourself out (illness and injury).
+    * Your health waxes and wanes, but your strategy does not change.
+    * Sleep is a good cure.
+
+- star: TianTong
+  palace: Health
+  inHouseWith:
+    - - TianCun
+      - TianLiang
+  auspices: Mixed
+  comments: |
+    * You will inherit blood/qi circulation problems.
+    * Your health will improve from exercise and personal routines.
+    * Genetic (ancestral) predispositions will be irreversible.
+    * You will suddenly age.
+    * You will prematurely age. (but remain an old fox)
+
+- star: TianTong
+  palace: Health
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianYue
+      - YangRen
+      - TianKui
+  auspices: Mixed
+  comments: |
+    * You will overcome genetic inheritance with sound personal discipline.
+    * You respond well to any/all medical treatments.
+    * You will recover from a surgery.
+
+- star: TianTong
+  palace: Health
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Mixed
+  comments: |
+    * You will be haunted by sub-clinical infections and psychosomatic complaints.
+    * You are healthy but nevertheless struggle with your health (perfection, performance) and aging process.
+
+- star: LianZhen
+  palace: Health
+  inHouseWith: []
+  auspices: Haunted
+  comments: |
+    * You have a fragile constitution that will inspire strong healthy life-style choices.
+    * You will have strong self-discipline.
+    * You may suffer from weak kidneys, urinary disorders and/or venereal disease.
+    * Your longevity is based on circumstance – you will know or associate with healers. If you manage your life well and have good friends (doctors) you will live a long time (70+).
+    * Few family members will attend your funeral.
+    * You will suffer from nervous disorders.
+
+    Prognosis: Moderate
+
+- star: LianZhen
+  palace: Health
+  inHouseWith:
+    - - TianFu
+      - TianXiang
+      - TianCun
+  auspices: Positive
+  comments: |
+    * You will be healthy and strong.
+    * Your recovery response is quick and thorough.
+    * Your strong constitution comes from your matriarchal ancestors.
+    * When your appearance wanes so will your immune response. You will have a delicate but long life.
+    * Caring for others gives you longevity.
+
+- star: LianZhen
+  palace: Health
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - ZuoFu
+      - YouBi
+      - TianKui
+      - TianYue
+  auspices: Positive
+  comments: |
+    * Your health relies on your knowledge, self-care and the relationships you have with healers and/or physicians.
+    * Physical frailty will inspire a spiritual path.
+
+- star: LianZhen
+  palace: Health
+  inHouseWith:
+    - - TanLang
+      - QiSha
+      - PoJun
+      - LingXing
+      - HuoXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Mixed
+  comments: |
+    * Your health will be undermined by conflicting emotions, allergies and psychosomatic sensitivities.
+    * You respond to unusual or unconventional treatments.
+    * You have kidney disharmonies.
+    * You are a non-compliant patient.
+    * You suffer from ill-chosen treatments.
+    * You often think of yourself as a “survivor”. Several experiences of “recovery” tax your strength and leave you weak.
+    * Weakness provides longevity.
+    * You will contract venereal disease.
+    * You suffer from low self-esteem and it undermines recovery.
+
+- star: TianFu
+  palace: Health
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    Your Fate with health is related to matriarchal ancestors. Your constitution is somewhat sensitive but also very responsive to treatment.
+
+    * When the Empress appears in the Health Palace you have a basically sturdy constitution.
+    * You are rarely ill and can easily recover when ill.
+    * Your immune system dysfunctions when you think or worry too much. Indulging in conflicting emotions weakens you.
+    * Suppressed emotions compromise your health.
+    * Excessive empathy compromises your health.
+    * You will suffer from glandular, liver or gallbladder disorders (headaches, sleeplessness).
+    * Many sincere mourners will attend your funeral.
+
+- star: TianFu
+  palace: Health
+  inHouseWith:
+    - - ZuoFu
+      - YouBi
+  auspices: Exalted
+  comments: |
+    * You will have particularly good relationships with doctors, etc.
+    * Whenever you are ill you respond well to treatment and the advice of doctors.
+    * Your friends and family assist you when ill and support your compliance to treatments.
+
+- star: TianFu
+  palace: Health
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - DiGong
+      - TianYue
+  auspices: Exalted
+  comments: |
+    * Your illnesses or injuries will lead to an interest in practicing healthcare.
+    * Your ability to recover reveals the completion of negative Fate.
+    * Illness offers a kind of “awakening”.
+    * You have strong empathy.
+
+- star: TianFu
+  palace: Health
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+  auspices: Mixed
+  comments: |
+    * Your immune system is linked to your emotions.
+    * Conflicting emotions cause Liver/Gallbladder problems. 3
+    * Depression undermines your ability to quickly recover.
+    * A scar and/or trauma inspire a life-long discipline of self-health.
+    * You recover completely from addictive behavior.
+
+- star: TianFu
+  palace: Health
+  inHouseWith:
+    - - DiJie
+      - DiGong
+  auspices: Neutral
+  comments: |
+    * You recover quickly from an illness and/or injury caused by family ghosts (genetic inheritance).
+    * You will NOT die from causes similar to your parents (ancestors).
+
+- star: TaiYin
+  palace: Health
+  inHouseWith: []
+  auspices: Negative
+  comments: |
+    * You have a fragile constitution but can only avoid illness through self-discipline.
+    * You may suffer from reproductive disorders and/or venereal disease.
+    * Your longevity is based on an admirable ability to recover from rather than avoid illness.
+    * Conflicting emotions are the basis of all your illnesses. You are a hypochondriac.
+    * When the Moon is afflicted, you are susceptible to possession by ghosts.
+    * Your self-health disciplines are applied unevenly causing hysteria/stress. You are an undisciplined patient.
+    * Weakness or injury give you longevity.
+
+- star: TaiYin
+  palace: Health
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianKui
+      - TianCun
+  auspices: Positive
+  comments: |
+    * You will be delicate and sensitive but the result will be wisdom not chronic or terminal illness.
+    * When you learn to curb your emotions you attain longevity.
+    * Behind your sensitivity is a strong constitution.
+    * Your sensitivity is resultant – the result of cultivation and/or your ancestors.
+
+- star: TaiYin
+  palace: Health
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Neutral
+  comments: |
+    * You wear your hun on your sleeve.
+    * You will suffer from many minor illnesses and/or injuries due to being overly sensitive to the environment (allergies, neurosis).
+    * Your illnesses are always linked to mild hysteria (inability to cope with conflicting emotions.
+    * You will suffer from over-treatment and/or inappropriate treatments because you are sensitive. Standard treatments are too strong.
+    * Acute illness or trauma in childhood remains a haunting reminder of your sensitivity.
+    * At least one recovery will have a sense of “release” in it.
+    * You will suffer from irregular menses or venereal disease.
+
+- star: TanLang
+  palace: Health
+  inHouseWith: []
+  auspices: Mixed
+  comments: |
+    You will have a strange or unconventional medical history. Your health is complicated by an inability to respond to standard treatments or physicians.
+
+    * When the Wolf appears in the Health Palace you will have a weak constitution (weak Kidney qi) and be over-sexed.
+    * You will suffer from sexually transmitted diseases.
+    * You are often nervous and anxious, and, therefore, susceptible (compromised immunity) to many minor illnesses.
+    * If there are no other afflicting stars, you will be a hypochondriac.
+    * You are difficult to diagnose.
+    * “Alternative” healing methods work best for you.
+    * You are a shaman/healer. Recovery from an illness or your feeling of alienation becomes a spiritual path.
+    * You will take 12 steps.
+    * You will live your entire life with a scar, limp or minor chronic illness.
+
+- star: TanLang
+  palace: Health
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianCun
+      - TianKui
+  auspices: Neutral
+  comments: |
+    * Illness and injury put you on a personal Path.
+    * You will be a quack or alternative health care amateur.
+    * Your medical problems are complicated by excessive and often paranoid thinking.
+    * You are a hypochondriac.
+    * You respond well to unconventional treatments.
+    * Despite a complicated medical history you have a long life.
+    * Heroic intervention or cathartic recovery are a kind of spiritual “awakening”.
+
+- star: TanLang
+  palace: Health
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+      - TianCun
+      - TianKui
+  auspices: Neutral
+  comments: |
+    * You will suffer from allergies.
+    * You will have allergic reactions to some standard medical treatments.
+    * You may die from medical treatment, hypochondria or your own hand.
+    * Your sense of “struggling” causes premature aging and/or premature death.
+    * You will be injured or harmed by inappropriate medical treatment. This makes you very strong and offers longevity.
+    * You may be murdered (die from treatment) as an end to ancestral affliction (feuds, disease patterns).
+
+- star: JuMen
+  palace: Health
+  inHouseWith: []
+  auspices: Mixed
+  comments: |
+    Your constitution is characterized by unevenness and inconsistency.
+
+    (--/+)
+
+    * When the Great Gate appears in the Health Palace you have a weak heart, compromised immunity and chronic blood deficiency. You are often sick.
+    * As a child you will suffer wind disorders (changing symptoms) and liver qi stagnation (repressed feelings). You become hypochondriac.
+    * You overindulge in food and drink. By midlife you develop a chronic digestive disorder (spleen/stomach).
+    * If there are no other afflicting stars, you have fate to meet with helpful doctors (especially psychic healers and/or exorcists). You are not a good patient.
+    * Appearing with afflicting stars it adds nervousness, indecision and depression to other illnesses.
+    * You are injury- prone.
+    * You may commit suicide.
+
+- star: JuMen
+  palace: Health
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianCun
+      - TianKui
+  auspices: Neutral
+  comments: |
+    * Your health is often or chronically poor but does not result in premature death.
+    * Knowledge of health and medicine keep you well.
+    * Your health responds well to precepts or hygiene as a spiritual practice.
+    * Illness comes when you “fall off the wagon” of self-discipline.
+    * Your pattern of immune deficiency is mitigated by your paternal ancestors.
+    * You may experience odd illnesses (difficult to determine cause) and “miraculous” recoveries (no apparent cause).
+
+- star: JuMen
+  palace: Health
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Negative
+  comments: |
+    * You will have chronic skin problems when young.
+    * You will suffer from weak digestion and assimilation.
+    * Anger and frustration compromise your immunity.
+    * You suffer injury from careless misadventure.
+    * You will be harmed by misdiagnosis and mistreatment.
+    * You will suffer from complex heat disorders (infections).
+    * If not managed your emotions may cause premature death.
+    * You often do not comply with medical treatment. This causes your illnesses to become complicated and untreatable.
+
+- star: TianXiang
+  palace: Health
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    You have a strong constitution.
+
+    * When the Tutor appears in the Health Palace you will have a strong constitution and rarely fall ill.
+    * You have disciplined and healthy personal habits.
+    * You prefer self-health discipline to the use of medicines and doctors.
+    * You may be overweight or underweight.
+    * You may recover from an illness or injury due to a specialist or an expert physician.
+    * If there are no afflicting stars, you have a predestined affinity with longevity.
+    * Many people will attend your funeral.
+
+- star: TianXiang
+  palace: Health
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianKui
+      - TianCun
+  auspices: Exalted
+  comments: |
+    * Your patriarchal ancestors offer you a very solid constitution.
+    * You are possibly bulletproof and/or large.
+    * Your Fate with Health is resultant – you have little or no issue with the negativity of illness.
+    * You may heal others by empathy and/or model behavior.
+    * You may develop a profound understanding of health in relationship to spiritual and socio-political matters.
+    * You champion National Health or universal Healthcare.
+
+- star: TianXiang
+  palace: Health
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Negative
+  comments: |
+    * You may overlook illnesses at initial stages (onset) and not receive treatment in a timely way.
+    * You will recover from a difficult surgery.
+    * Conflicting emotions accumulate into Heart and/or Liver problems in old age. Your empathy is very strong.
+    * You die suddenly in old age – you are venerated.
+
+- star: TianLiang
+  palace: Health
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    Your constitution is strong but reliant on external conditions.
+
+    * When the Roofbeam appears in the Health Palace you have a weak constitution (heart) and a genetic predisposition for illness, but successfully work at correcting it.
+    * You are more likely to experience injury (spine [chronic back pain]) than illness.
+    * You enjoy routine exercise and healthy food.
+    * Your immunity is weak but your ability to recover is strong.
+    * If there are no afflicting stars, you will have a long life.
+
+- star: TianLiang
+  palace: Health
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianCun
+      - ZuoFu
+      - YouBi
+  auspices: Positive
+  comments: |
+    * You will recognize how to maintain your health at an early age.
+    * You respond well to “care”, sentiment and fengshui environments.
+    * Health is part of the spiritual path for you. You will practice diet, yoga, qigong – very successfully.
+    * You are a compliant patient with fate connections to good physicians.
+
+- star: TianLiang
+  palace: Health
+  inHouseWith:
+    - - TianCun
+  auspices: Positive
+  comments: |
+    * Your health is improved and bolstered by spiritual pilgrimage.
+    * Staying at or returning to your ancestral home makes you strong.
+    * You respond well to home remedies and “food cures”.
+    * You recover well at home.
+
+- star: TianLiang
+  palace: Health
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Negative
+  comments: |
+    * Sudden and temporary losses of strength (Kidney or Heart failure).
+    * You may die on a battlefield.
+    * You will die far from where you are born.
+    * You will be scarred or have a minor handicap (joint pain, back problems).
+    * You do not recover well from surgery.
+    * Suppressed emotions undermine your strength.
+    * Inappropriate fengshui inhibits recovery and rehabilitation.
+
+- star: QiSha
+  palace: Health
+  inHouseWith: []
+  auspices: Haunted
+  comments: |
+    * You are hard to diagnose and treat.
+    * You have a weak constitution, nervous disorders, serious injuries and chronic illness.
+    * You have many vices.
+    * You suffer from chronic pain.
+    * You have a constitutional weakness in your digestive system.
+    * Your health will decline quickly in your 40’s.
+    * You have bad luck with doctors. Treatments (particularly surgeries) exacerbate your illnesses.
+    * If there are other afflicting stars, you are likely to develop one or more degenerative diseases (colon cancer), go mad and/or experience a series of crippling personal injuries.
+    * You will need to take many prescription pharmaceuticals.
+    * You will be addicted to medications and “cures”.
+
+    All the above is due to the promptings and obstructions of the unsettled dead.
+
+    When the 7 Killings appears in the Health Palace alone or with any subordinate star:
+
+    * You will be weak and easily susceptible to illness.
+    * Your health in childhood is precarious and develops into disease patterns by midlife.
+    * Your illnesses have ancestral demonic cause.
+    * Your ability to self- discipline and recover is compromised.
+    * Acute illnesses will have the attributes of possession.
+    * Recovery from any acute illness will have a sense of release or exorcism.
+    * Treatment might be the cause of your death.
+    * Dying on a battlefield reiterates the pattern of Fate.
+    * You will be prone to addictions and risk taking.
+    * You are likely to suffer neurosis, irrational fears, anxiety attacks and depression.
+
+- star: QiSha
+  palace: Health
+  inHouseWith:
+    - - ZuoFu
+      - YouBi
+  auspices: Mixed
+  comments: |
+    * You may find an easy opportunity for exorcistic recovery.
+    * You eventually comply, respond to treatment and recover.
+
+- star: QiSha
+  palace: Health
+  inHouseWith:
+    - - DiJie
+      - DiGong
+  auspices: Negative
+  comments: |
+    * You will struggle unsuccessfully with illness.
+    * You will be obsessed with your health but unable to achieve or recover it.
+    * Medical bills will bankrupt you.
+
+- star: PoJun
+  palace: Health
+  inHouseWith: []
+  auspices: Haunted
+  comments: |
+    Your Fate related to health is uneven and recoveries come only through “alternative treatment”.
+
+    * When Rebel appears in the Health Palace you have a weak constitution and will be haunted by hypochondria, low-grade infections and chronic illness.
+    * You will be possessed by Pojun (who died in pain or from qi exhaustion) and be obsessed with doctors and/or addicted to medications (legal or illegal).
+    * You will be unable to recover from even minor illnesses.
+    * You will have allergies and skin problems when young.
+    * You will have back pain, a limp, a handicap and/or carry a prominent scar.
+    * You have a constitutional weakness in your lower digestive system (diarrhea/constipation).
+    * Your health will decline as you mature unless you resolve Pojun by strengthen yourself with healthy habits (often begun after “recovery” or scarring).
+    * You are an undisciplined patient and will die of complications derived from treatment.
+    * If there are other afflicting stars that exacerbate the problem you are likely to have a short life and “join” the ghost to become a haunting ghost in the transitory states.
+
+    When the Rebel appears in the Health Palace with any subordinate star:
+
+    * You will be a weak child.
+    * You will find a very personal path to recover your health by midlife.
+    * External causes quickly enter your body. Sudden reversals of health occur.
+    * You suffer from skin problems, congestive disorders (Liver and Lungs).
+    * You overeat and then purge. This type of pattern characterizes your medical history.
+
+- star: PoJun
+  palace: Health
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Haunted
+  comments: |
+    * Your attempts at cures often fail due to lack of self-discipline.
+    * Anger and worry undermine your health.
+    * Your symptoms are often psychosomatic.
+    * You are likely to be injured.
+

@@ -1,0 +1,793 @@
+---
+- star: ZiWei
+  palace: Wealth
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    * When the Emperor appears in the Wealth Palace you are predestined to work with gems, gold or money and acquire a considerable fortune.
+    * You will work in finance, investment banking or as a commissioned consultant.
+    * You are born into a wealthy family.
+    * You will work without concern for money when young and be paid well and acquire considerable wealth later in life.
+    * “You can live like a king on a beggar’s budget”. You have elegant sensibilities (when afflicted).
+    * Midas touch.
+    * Finances “appear” as you need them.
+
+- star: ZiWei
+  palace: Wealth
+  inHouseWith:
+    - - TianFu
+      - TianXiang
+      - TianCun
+  auspices: Exalted
+  comments: |
+    * You will do well in business/finance due to your status or social contacts.
+    * You are born in a wealthy family.
+    * You are financial resourceful.
+    * You will judiciously handle inherited wealth.
+
+- star: ZiWei
+  palace: Wealth
+  inHouseWith:
+    - - TanLang
+      - PoJun
+      - QiSha
+  auspices: Mixed
+  comments: |
+    * You will lack good skills in managing finances.
+    * You will squander your resources.
+    * You will be dissatisfied with your income.
+    * You will be a “sell out”.
+    * You will resent the wealthy and/or discard or mismanage your inheritance.
+    * Compulsive spending invites poverty.
+
+- star: ZiWei
+  palace: Wealth
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianYue
+      - ZuoFu
+      - YouBi
+  auspices: Exalted
+  comments: |
+    * You will acquire fame, social standing and wealth.
+    * Your efforts in life “pay off’.
+    * Your resourcefulness, frugality and cleverness bring you wealth.
+    * You will own a successful company.
+    * You will work in the finance or luxury goods industry.
+    * Your work will include “hobnobbing”with the rich.
+
+- star: ZiWei
+  palace: Wealth
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - DiJie
+      - DiGong
+      - TuoLuo
+  auspices: Negative
+  comments: |
+    * You will mismanage your finances and lose a great deal of money.
+    * You resent the rich.
+    * You have capital but no class.
+    * You squander resources trying to “fit in” with the wealthy.
+    * You invest very badly and lose a fortune.
+    * You leave little or no legacy.
+
+- star: TianJi
+  palace: Wealth
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    Without affliction (check animal of house), you have an uneven predestined affinity with wealth.
+
+    * When the Oracle appears in the Wealth Palace it means you have predestined affinity with working (being paid) as an astrologer, spirit-medium, healer, counselor or spiritual guide.
+    * Though you may succeed at any kind of work,your ability is not important; it is your intuition that brings you an advantage (promotion).
+    * Your financial resources will be indirect. You will earn money through association (with wealth people).
+    * You can use intuition in choosing investments.
+    * You may win money through speculation and/or gambling.
+
+- star: TianJi
+  palace: Wealth
+  inHouseWith:
+    - - TianLiang
+      - TianCun
+  auspices: Positive
+  comments: |
+    * You will prosper from intuitive land or real estate speculation (ownership).
+    * You will be Paid to use your intuition, psychic ability or be a religious guide.
+    * Your legacy will be property.
+
+- star: TianJi
+  palace: Wealth
+  inHouseWith:
+    - - JuMen
+      - TaiYang
+  auspices: Positive
+  comments: |
+    * You will make money from sports, theatre or hobbies.
+    * You will accumulate wealth easily throughout your life, but not be focused on it.
+    * You will change the way you make money whimsically — losing security.
+    * You may win the lottery.
+
+- star: TianJi
+  palace: Wealth
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianYue
+      - ZuoFu
+      - YouBi
+  auspices: Positive
+  comments: |
+    * You will accumulate wealth from hard work, skillfulness and the faithful support of others.
+    * Your business is successful.
+    * You gain wealth from an acquired “following” — clients, fans, students, parishioners or fashion victims.
+
+- star: TianJi
+  palace: Wealth
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - DiJie
+      - DiGong
+      - TuoLuo
+  auspices: Negative
+  comments: |
+    * You will work hard but never acquire wealth.
+    * The notion of wealth is unappealing to you.
+    * You are a renunciate.
+    * You like to barter.
+
+- star: TaiYang
+  palace: Wealth
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    * You will earn a steady income.
+
+    Tai Yang Alone in Wealth Palace:
+
+    * When the Sun appears in the Wealth Palace you will do well in financial matters. You will be paid very well for your work.
+    * You will be successful in the gem trade.
+    * You will make solid and profitable investments.
+    * You are generous to those close to you.
+    * You will be ostentatious.
+
+- star: TaiYang
+  palace: Wealth
+  inHouseWith:
+    - - TaiYin
+      - JuMen
+  auspices: Negative
+  comments: |
+    * You will lack focus in money matters.
+    * You will mismanage finances.
+    * Opportunities for wealth will pass you by.
+    * You often rely on others to bail you out.
+    * When it comes to money, you have a lion’s head and a snake’s tail.
+
+- star: TaiYang
+  palace: Wealth
+  inHouseWith:
+    - - TianLiang
+      - TianCun
+  auspices: Neutral
+  comments: |
+    * You will have some steady income from property or investments.
+    * You enjoy living within yours means.
+    * You are financial conservative. You know how to economize and save.
+
+- star: TaiYang
+  palace: Wealth
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianYue
+      - ZuoFu
+      - YouBi
+  auspices: Positive
+  comments: |
+    * You manage finances well.
+    * You have (are) an excellent accountant or financial advisor.
+    * You are modest and thrifty.
+    * You will leave a legacy.
+
+- star: TaiYang
+  palace: Wealth
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Negative
+  comments: |
+    * You are easily parted from your money.
+    * You are hustled and duped.
+    * You are tricked and robbed.
+    * You work hard for low pay.
+
+- star: WuQu
+  palace: Wealth
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    Indicates a solid but indirect acquisition of wealth.It also indicates, “late blooming” prosperity.
+
+    Alone in the Wealth Palace:
+
+    * When the General appears in the Wealth Palace you will be sponsored by a patron. Your wealth will be given to you.
+    * You profit from investing and speculating.
+    * Your finances steadily increase throughout your life.
+    * Money does not mean much to you.
+    * Late in life you will settle down and build a fine home, tomb or monument.
+
+- star: WuQu
+  palace: Wealth
+  inHouseWith:
+    - - TianFu
+      - TianCun
+  auspices: Positive
+  comments: |
+    * You will acquire wealth as a reward or gift.
+    * You will inherit wealth.
+    * You will work on commission.
+    * You will have “insider tips” — succeed in speculation.
+    * You will manage a trust fund very well.
+    * You are the 1%.
+    * You gain wealth without effort.
+    * You are wealthy in old age.
+    * You will be patronized (patronizing).
+
+- star: WuQu
+  palace: Wealth
+  inHouseWith:
+    - - TianXiang
+  auspices: Positive
+  comments: |
+    * You will work in the public service, government or politics and be well paid.
+    * You will work and succeed in the Academy.
+    * You will have a steady and well-deserved high income.
+    * Your income will steadily increase.
+    * You are above and beyond financial worries.
+    * You are very generous in old age.
+
+- star: WuQu
+  palace: Wealth
+  inHouseWith:
+    - - WenChang
+      - WenQu
+  auspices: Positive
+  comments: |
+    * Your intelligence will bring you prosperity.
+    * You are astute in financial matters.
+    * You may work successfully in finance (investment manager), banking, real estate or luxury goods.
+    * You will live in a religious community with sufficient collective wealth. You will understand the true nature of prosperity.
+    * You are generous.
+
+- star: WuQu
+  palace: Wealth
+  inHouseWith:
+    - - PoJun
+  auspices: Positive
+  comments: |
+    * You will gamble and lose money.
+    * You will speculate and experience loss.
+    * You will abandon the system of money.You will live off the grid.
+    * Resentment will create a haunting feeling of insufficiency. You will join the “Occupy Wall Street” protests.
+
+- star: WuQu
+  palace: Wealth
+  inHouseWith:
+    - - TianYue
+      - TianKui
+      - ZuoFu
+      - YouBi
+  auspices: Positive
+  comments: |
+    * You will be supported by others.
+    * You will have a reliable broker or bookie.
+    * You will work in a prospering company or industry and be well paid.
+    * You will live in a successful commune.
+
+- star: WuQu
+  palace: Wealth
+  inHouseWith:
+    - - QiSha
+      - TanLang
+  branch:
+    - Rat
+    - Ox
+    - Dragon
+    - Horse
+    - Goat
+    - Dog
+  auspices: Mixed
+  comments: |
+    *ALONE* with these stars:
+
+    * You are predestined to gain wealth from speculation.
+    * You will gain wealth from a patented product (royalties).
+    * You will gain wealth from illegal or black market activity.
+
+- star: WuQu
+  palace: Wealth
+  inHouseWith:
+    - - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Mixed
+  comments: |
+    * Your wealth will be uneven — come and go.
+    * You may win one day and lose the next — while speculating.
+    * Your interest in prosperity waxes and wanes. You go from rich to poor without caring.
+    * Miscalculation brings poverty.
+    * No matter your situation financially you will complain of insufficiency.
+    * You will be hustled.
+    * You will have enormous medical costs/bills that drain you of wealth.
+
+
+
+- star: TianTong
+  palace: Wealth
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    Indicates a predestined affinity with prosperity from effort. You will be fairly paid for your work.
+    Your work will improve over time and so will your income. You are frugal.
+
+    Alone in the Wealth Palace:
+
+    * You are likely to work in the service industries, the military or academia.
+    * Though you will not be paid a high salary you will eventually establish a substantial fortune.
+    * You will receive a modest inheritance in your later years.
+    * Your frugality and habit of saving pays off.
+    * You are austere — have a military aesthetic.
+
+- star: TianTong
+  palace: Wealth
+  inHouseWith:
+    - - TaiYin
+      - TianCun
+      - TianLiang
+      - ZuoFu
+      - YouBi
+      - TianYue
+      - TianKui
+  auspices: Positive
+  comments: |
+    * You will have the opportunity to make a great deal of money.
+    * You will receive continuous improvement in our prosperity throughout your life.
+    * You will be aided and financially supported by others.
+    * You will invest in property. You will make money through collecting rent.
+
+- star: TianTong
+  palace: Wealth
+  inHouseWith:
+    - - WenChang
+      - WenQu
+  auspices: Positive
+  comments: |
+    * You will do very well in business.
+    * You will be well paid in government or military service.
+    * You will be supported by a university, parish or monastery.
+    * You will retire comfortably.
+
+- star: TianTong
+  palace: Wealth
+  inHouseWith:
+    - - JuMen
+      - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Negative
+  comments: |
+    * You will often mismanage your finances.
+    * Bad investments diminish your finances.
+    * You worry a great deal about money.
+    * You will pay a lot for medical treatments.
+    * You leave no legacy (possible debts).
+    * You overspend in an effort to resolve the dead (haunted). You like glamorous, flashy or antique objects and compulsively buy them (haunted).
+
+    _Self-discipline of character can mitigate the above._
+
+- star: TianFu
+  palace: Wealth
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    Your Fate with money is yin – you do not have direct control of your finances. You will live in luxury but may also meet with financial ruin.
+
+    * When the Empress appears in the Wealth Palace you will inherit wealth and are capable of expanding it greatly through speculation (investment).
+    * Your wealth will fluctuate, but the bottom line is high (never poor). Money will never be a “concern” for you. You are taken care of by others.
+    * If no afflicting stars appear here you are Oprah or HRH Elizabeth II.
+
+- star: TianFu
+  palace: Wealth
+  inHouseWith:
+    - - ZuoFu
+      - YouBi
+  auspices: Exalted
+  comments: |
+    * You will have considerable wealth and good fortune preserving and expanding it.
+    * You receive very good financial advice from others.
+    * You are financially supported by others – no obligation.
+    * You will sell luxury goods and/or have very wealthy associates.
+    * You will live off a trust fund.
+    * You receive a large legal settlement.
+
+- star: TianFu
+  palace: Wealth
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianCun
+      - TianYue
+  auspices: Exalted
+  comments: |
+    * Your financial resources are very good.
+    * You are very well paid for your work.
+    * You serve the rich and become one.
+    * You are provided w everything you need.
+    * You leave a considerable legacy.
+    * You manage money well.
+    * You marry a wealth person.
+
+- star: TianFu
+  palace: Wealth
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+  auspices: Negative
+  comments: |
+    * You mismanage wealth and lose it all.
+    * You recover from losses but squander them again.
+    * You compulsively consume.
+    * You buy high and sell low.
+
+- star: TianFu
+  palace: Wealth
+  inHouseWith:
+    - - DiJie
+      - DiGong
+  auspices: Negative
+  comments: |
+    * You will lose everything you acquire.
+    * You move from great wealth to struggling with poverty.
+    * You are robbed.
+    * You are compulsive gambler.
+    * Extravagance is your downfall. In old age you must live modestly.
+
+- star: TaiYin
+  palace: Wealth
+  inHouseWith: []
+  auspices: Negative
+  comments: |
+    You have an uneven Fate with finances. Your interest/concerns about money wax and wane.
+
+    * When the Moon appears in the Wealth Palace or House of Finances you will have a varied financial life. You may inherit wealth, be paid well or be sponsored by a patron, but any or all of these conditions will end and change into another.
+    * Your finances steadily increase throughout your life.
+    * If no afflicting stars appear here, you do well from investing in business, industry or the stock market.
+    * You are unlikely to derive wealth from working at a well-paid, salaried job.
+    * You may make money in a “side job” or illegal activities.
+
+- star: TaiYin
+  palace: Wealth
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianKui
+      - TianCun
+  auspices: Positive
+  comments: |
+    * You will work as a consultant or one of the professions (lawyer, doctor, etc).
+    * You will be able to manage your finances.
+    * You will have an expense account.
+    * A hobby or interest eventually becomes an income source.
+
+- star: TaiYin
+  palace: Wealth
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+  auspices: Negative
+  comments: |
+    * You will struggle with finances and work at an unpleasant job.
+    * You will worry a great deal about finances.
+    * You join a monastery or commune.
+    * You give to Caesar what is Caesar’s.
+    * You resent the rich.
+    * You are a sex worker.
+    * You are paid for your appearance – you are Gloria Swanson in Sunset Blvd
+  
+- star: TanLang
+  palace: Wealth
+  inHouseWith: []
+  auspices: Mixed
+  comments: |
+    * You have an unconventional relationship to money. 
+    * You do well financially at a peculiar or illegal profession.
+
+    * When the Wolf appears in the Wealth Palace you are likely to be underpaid. Your expenses often exceed your income. 
+    * Though you will be frugal you will never become rich. 
+    * If there are no afflicting stars, you may improve your finances through sound management in your later years (56+). 
+    * You will do well financially if you devise an unusual or illegal livelihood. 
+    * If you transform your alienation into a product or skill you will become very wealthy.
+    
+- star: TanLang
+  palace: Wealth
+  inHouseWith: 
+    - - WenChang
+      - WenQu
+      - TianCun
+      - TianKui
+  auspices: Neutral
+  comments: |
+    * Though you start out broke, there is a steady increase and growing stability in your finances. 
+    * By midlife you have a steady income or nest egg. 
+    * You find a peculiar way to make money. 
+    * You are Repo Man. 
+    * You die with no mortgage on your trailer in rural Guiana. 
+    * You have an expensive collection of guns, sex toys, wigs or bubble gum wrappers. Your legacy is very odd.
+  
+- star: TanLang
+  palace: Wealth
+  inHouseWith: 
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Mixed
+  comments: |
+    * You will struggle with finances for most of your life. 
+    * After midlife finances improve or you adapt to low-income comfort. 
+    * You make a lot of money but “do time” for it and the lawyers (or cohorts) get it all. 
+    * You hustle a small fortune but lose it to gambling, addictions or medical costs.
+
+- star: JuMen
+  palace: Wealth
+  inHouseWith: []
+  auspices: Mixed
+  comments: |
+    Your income source(s) and Fate will be varied. You are speculative.
+
+    * When the Great Gate appears in the Wealth Palace you are likely to become financially successful through inheritance, ‘windfall’ or profit from a sideline.
+    * Your income from career will not be significant.
+    * You can make a decent income as a consultant or counselor.
+    * Though you will have many opportunities to gain wealth, you will not cultivate them.
+    * If there are no other afflicting stars, you will become rich in old age – despite yourself. It is a matter of fate (luck), not work.
+    * You are a “stay-home” mother/housewife.
+
+- star: JuMen
+  palace: Wealth
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianCun
+      - TianKui
+  auspices: Mixed
+  comments: |
+    * You have no clear Fate with finances but you will nevertheless do well.
+    * A series of unrelated investments payoff.
+    * You wait tables, rent rooms in your flat and make earrings for your booth at the Flea Market.
+    * After midlife you will be a jewelry designer.
+    * You will buy the diner with your saved tips.
+    * Frugality works for you.
+    * Your pension is good. You die before Social Security does.
+
+- star: JuMen
+  palace: Wealth
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Mixed
+  comments: |
+    * You will struggle with finances.
+    * You are the fool that is easily parted from your wealth.
+    * You buy champagne on a beer budget.
+
+- star: TianXiang
+  palace: Wealth
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    You have important Fate connections with wealthy people. You will serve wealthy people and be well paid. You are clever with money but never motivated by it.
+
+    * When the Tutor appears in the Wealth Palace you will become financially successful through social contacts (network).
+    * You will steadily climb up the corporate (professional or government) ladder.
+    * Though you will have considerable wealth yourself, you will socialize with (or serve) the super wealthy.
+    * If there are no afflicting stars, you will become very rich in old age. It is a matter of fate (luck), not work (salary).
+    * Wealth or profit will never be your prime motivation in life.
+
+- star: TianXiang
+  palace: Wealth
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianKui
+      - TianCun
+  auspices: Positive
+  comments: |
+    * Your fortune, though linked to others, will be considerable.
+    * You will work for a living but at a very pleasant, service job – management level.
+    * You acquire wealth and wisely invest.
+    * Your wealth has much to do with “wise frugality”.
+    * You receive a large bonus or gift for your service to others.
+    * You will work in a political or academic job.
+
+- star: TianXiang
+  palace: Wealth
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Neutral
+  comments: |
+    * Your disinterest in money will manifest as a modest retirement.
+    * Generosity will limit your financial savings but great enhance your Fate.
+    * You leave little or no financial legacy.
+    * Your disdain for luxury and extravagance is a bit heavy-handed and you are left with very limited means in old age.
+    * You will work as a social worker – champion the poor.
+
+- star: TianLiang
+  palace: Wealth
+  inHouseWith: []
+  auspices: Neutral
+  comments: |
+    When the Roofbeam appears in the Wealth Palace your prosperity will be related to real goods or real estate. You will be very well paid for work in medicine, research, religion or management.
+
+    * When the Roofbeam appears in the Wealth Palace you are likely to acquire wealth through inheritance, real estate (landlord or agent) or product sales (manufacturing).
+    * You acquire wealth because you are qualified to teach or practice medicine.
+    * You will be in a position to be supported by a parish.
+    * Your financial success will be in the later half of your life (50+).
+    * If there are no afflicting stars, you will acquire wealth from investment (or a sideline) rather than work.
+
+- star: TianLiang
+  palace: Wealth
+  inHouseWith:
+    - - WenChang
+      - WenQu
+      - TianCun
+      - ZuoFu
+      - YouBi
+  auspices: Neutral
+  comments: |
+    * You will have financial success but the money will be held in property.
+    * You are a successful landlord.
+    * You will have several income sources.
+    * Group investments go very well.
+    * You have competent financial advisors.
+    * You retrie to a very nice home – real estate will be your legacy.
+    * You are a collector of fine objects, art or antiques.
+
+- star: TianLiang
+  palace: Wealth
+  inHouseWith:
+    - - TianCun
+  auspices: Positive
+  comments: |
+    * Your prosperity will grow throughout your life. Your profession will be a minor contributor to your finances.
+    * Rent will pay your rent.
+    * You invest in land and sell it profitably.
+
+- star: TianLiang
+  palace: Wealth
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Positive
+  comments: |
+    * Indicates a uneven portfolio of investments.
+    * You will be involved in complex bank arrangements.
+    * You will be “spread thin” but prosperous.
+    * You are highly motivated by failure – by this, you become very successful.
+    * You receive a large insurance settlement. (injury, fire losses)
+
+- star: QiSha
+  palace: Wealth
+  inHouseWith: []
+  auspices: Mixed
+  comments: |
+    You will be very prosperous due to gambling or wild speculation. You will buy a winning lottery ticket. “Windfall” characterizes your Fate with Finances. When 7 Killings appears here it is not an afflicting star.
+
+    * When the Seven Killings appears in the Wealth Palace you are likely to profit from high- risk speculation or gambling.
+    * You are lucky and will survive financial ruin (impulsive spending) by luck (gifts).
+    * You will receive wealth through inheritance.
+    * You will make money illegally (blackmail, extortion).
+    * If there are other afflicting stars, you will struggle to escape poverty all your life.
+
+- star: QiSha
+  palace: Wealth
+  inHouseWith: []
+  auspices: Mixed
+  comments: |
+    You will be very prosperous due to gambling or wild speculation. You will buy a winning lottery ticket. “Windfall” characterizes your Fate with Finances. When 7 Killings appears here it is not an afflicting star.
+
+    * When the Seven Killings appears in the Wealth Palace you are likely to profit from high- risk speculation or gambling.
+    * You are lucky and will survive financial ruin (impulsive spending) by luck (gifts).
+    * You will receive wealth through inheritance.
+    * You will make money illegally (blackmail, extortion).
+    * If there are other afflicting stars, you will struggle to escape poverty all your life.
+
+    When the 7 Killings appears in the Wealth Palace with the any (auspicious?) star you will gain or earn money by unexpected means.
+
+- star: QiSha
+  palace: Wealth
+  inHouseWith:
+    - - DiJie
+      - DiGong
+  auspices: Mixed
+  comments: |
+    * You will struggle unsuccessfully with money.
+    * You will be obsessed with money but unable to acquire or secure it.
+    * Poverty will humiliate you.
+    * Medical bills, legal fees or alimony will drain your finances.
+
+- star: PoJun
+  palace: Wealth
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    Your Fate here is uneven and success comes only through speculation or “alternative sources”.
+
+    * When Rebel appears in the Wealth Palace you are likely to be financially ambitious (possessed by the pojun ghost who died poor [robbed/murdered]) and profit from high-risk speculation, investing in the stock market, gambling or illegal means.
+    * Your finances will fluctuate radically throughout your life.
+    * If there are other afflicting stars, you will go bankrupt, suffer humiliating losses and/or leave no legacy.
+    * If there are no other afflicting stars, you will eventually achieve financial security.
+    * Establishing financial security (leaving a legacy) is the resolution of the pojun ghost in this house.
+
+    *With any auspicious star*:
+
+    * You will find wealth through a variety of means.
+    * You will work in a strange or unconventional field and do quite well.
+    * You will work 7 days a week at 3 different jobs.
+    * You will profit from invention or speculative investments.
+    * You live in a National Park and hunt deer – you are an eccentric hermit.
+
+- star: PoJun
+  palace: Wealth
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - TuoLuo
+      - DiJie
+      - DiGong
+      - TianYue
+  auspices: Mixed
+  comments: |
+    * Your attempts at wealth succeed AND fail.
+    * You lack the stamina to be financially successful, despite an obsession with success.
+    * Your pursuit of wealth brings physical and mental exhaustion.
+    * You seriously resent the rich. It is your downfall.

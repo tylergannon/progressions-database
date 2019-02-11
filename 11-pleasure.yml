@@ -1,0 +1,403 @@
+---
+- star: ZiWei
+  palace: Pleasure
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    * You are predestined to engage in a “life of pleasure”. You will not be concerned about wealth or prestige. You will work helping others, not yourself.
+    * You will receive considerable qi from hobnobbing, fine arts, performance arts and light entertainments. Fun is nourishment for you. 
+    * You will take considerable pleasure in food, sex, music and the company of others. 
+    * You will have a buoyant personality and many friends. 
+    * You will work as an artist or be in the entertainment industry. 
+    * You will be a sex worker. 
+    * Your Fate is resolved by following a sense of enjoyment. 
+    * Following enjoyment is a reliable Path.
+
+- star: ZiWei
+  palace: Pleasure
+  inHouseWith:
+    - - TianFu
+      - TianXiang
+      - TianCun
+      - WenChang
+      - WenQu
+      - TianKui
+      - TianYue
+      - ZuoFu
+      - YouBi
+  auspices: Positive
+  comments: |
+    * You will enjoy helping others.
+    * You will amass resources (financial or otherwise) which you will enjoy distributing to others. 
+    * Your Fate with others is expressed largely by the giving and sharing of resources. 
+    * Your greatest joy is creating happiness for others. 
+    * Generosity will create your comfort and fulfill your needs. 
+    * You will be the hub of good fortune for others. 
+    * You will be a great and dedicated social, religious, academic or political leader. 
+    * You will hobnob with the rich and famous. 
+    * You are Tom Sawyer painting the fence.
+
+- star: ZiWei
+  palace: Pleasure
+  inHouseWith:
+    - - TanLang
+      - PoJun
+      - QiSha
+  auspices: Positive
+  comments: |
+    * You will manifest as a protector of others.
+    * You will be heroic in your efforts at “saving” and protecting others. 
+    * You will successfully work to help others with very serious afflictions. 
+    * You have tremendous empathy. 
+    * Your sense of enjoyment will have a strong association with overcoming obstacles or unseating despots. 
+    * Think Castro’s Cuba.
+
+- star: ZiWei
+  palace: Pleasure
+  inHouseWith:
+    - - HuoXing
+      - LingXing
+      - YangRen
+      - DiGong
+      - DiJie
+      - TuoLuo
+  auspices: Mixed
+  comments: |
+    * You be haunted by your own weaknesses. You will overcome them all.
+    * You will find enjoyment through a recovery program or serving a jail sentence. 
+    * You will be haunted by unsettled dead ancestors. You will resolve inherited weaknesses and low self-esteem. 
+    * You will survive and recover from a genetic disability.
+
+- star: TianJi
+  palace: Pleasure
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    * Indicates an avid interest in spiritual matters.
+    * You will be nourished by performing arts, research and study. Your hobby/interests may turn into your occupation in later life (after 27). 
+    * You will get great joy from your close friends, lovers and/or family. 
+    * You will be part of a spiritual community. 
+    * Your greatest sense of joy will come from the “other” or spiritual worlds. 
+    * You will enjoy lineage and genealogy.
+
+- star: TianJi
+  palace: Pleasure
+  inHouseWith:
+    - - TianCun
+      - WenChang
+      - WenQu
+      - TianKui
+      - TianYue
+      - ZuoFu
+      - YouBi
+  auspices: Positive
+  comments: |
+    * You will enjoy comfort, aesthetics and a sense of order.
+    * You are a traditionalist with a twist. 
+    * You enjoy intuitive and mystical ideas and activities. 
+    * You are driven by artistic inspiration. 
+    * You enjoy academia. 
+    * Your happiness is linked to engagement in a spiritual Path. 
+    * You enjoy religion and religious studies. 
+    * You have vivid dreams. 
+    * You enjoy people.
+
+- star: TianJi
+  palace: Pleasure
+  inHouseWith:
+    - - JuMen
+  auspices: Negative
+  comments: |
+    * You will never fully enjoy anything.
+    * You are confused and concerned by the notion of enjoyment. 
+    * You will enjoy being a follower. 
+    * You are a renunciate. 
+    * You like being easy-going and unengaged.
+
+- star: TianJi
+  palace: Pleasure
+  inHouseWith:
+    - - QiSha
+      - HuoXing
+      - LingXing
+      - YangRen
+      - TianYue
+      - DiJie
+      - DiGong
+      - TuoLuo
+  auspices: Negative
+  comments: |
+    * You will be at risk in the pursuit of pleasure.
+    * You will enjoy risk and self- deprivation. 
+    * You are monastic. 
+    * You often distrust pleasure and avoid pleasure-seeking.
+
+- star: TaiYang
+  palace: Pleasure
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    * You will enjoy hobnobbing. You enjoy a subtle sense of competition even with close friends.
+    * You will enjoy “sport sex”. 
+    * You enjoy what is posh, expensive, luxurious and glamorous, but you are immune to the nuances of art and music. 
+    * You are “all work and no play”. 
+    * You grow to enjoy solitude as you reach midlife. 
+
+    The Sun basically follows whatever star guides it. It is a “pleasure follower”.
+
+    When the Sun appears in the Pleasure Palace with the any star:
+
+    * You will enjoy action – sports, travel and socializing.
+    * You enjoy what others like: popular and trendy pleasures.
+    * You will find pleasure in competition and enjoy the company of “winners”. 
+    * You find most pleasures to be frivolous.
+
+- star: WuQu
+  palace: Pleasure
+  inHouseWith: []
+  auspices: Negative
+  comments: |
+    * You are unlikely to enjoy yourself through entertainment. You are an “all work no play” person.
+    * You are serious person and critical of artifice. 
+    * Your only pleasure will be working hard for the benefit of others. 
+    * You will enjoy your life most in old age. 
+    * You will enjoy the company of your elders.
+
+    When the General appears in the Pleasure Palace with the any star finds pleasure to be frivolous.
+
+    * You are all work no play.
+    * You begin to enjoy yourself, under the influence of others, after you retire. 
+    * Think golf.
+
+- star: TianTong
+  palace: Pleasure
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    * You delight in the company of friends and admirers.
+    * You are attractive to others. 
+    * You enjoy the feeling of unity that comes from harmonious social, political or cultural events. 
+    * You enjoy watching and/or participating in team sports. 
+    * You enjoy discipline.
+
+    When the Vassal appears in the Pleasure Palace with any star you are a flirt.
+
+    * You are all work no play.
+    * You are a traditionalist. You buy season tickets to the Opera to be seen. 
+    * You are obsessed with your work.
+
+- star: LianZhen
+  palace: Pleasure
+  inHouseWith: []
+  auspices: Negative
+  comments: |
+    * You are predestined to enjoy sports and/or strenuous exercise.
+    * You like sex, but may experience addiction to sex or promiscuity. 
+    * You like testing the limits of your body. You ride the edge of sadomasochism with great pleasure. 
+    * You like clothes and dressing up. 
+    * You are vain.
+
+    When the Concubine appears in the Pleasure Palace with the any star you are dedicated to the notion of enjoyment.
+
+    * When young you enjoy the protection of elders. When old you will seek the company of young people.
+    * When it comes to enjoyment, you are a follower.
+
+- star: TianFu
+  palace: Pleasure
+  inHouseWith: []
+  auspices: Negative
+  comments: |
+    * You are predestined to be nourished by nature, the countryside and rustic settings.
+    * You enjoy delicate food and drink. 
+    * You are a flirt. You may have many lovers. 
+    * You like “letting your hair down”. 
+    * You are a gourmet. 
+    * You are suited to work (volunteer) in education, entertainment or the arts. 
+    * You enjoy charity work, sponsoring and encouraging others. 
+    * You enjoy parenting. Enjoying your children is nourishing.
+
+    Combinations:
+    When the Empress appears in the Pleasure Palace with any powerful or supportive star pleasure is provided by others.
+
+    * You will enjoy great wealth (be content and not ambitious) and gentility.
+    * You will possess a broad sense of appreciation (easily enjoy yourself). 
+    * You will enjoy the company of others, rural life (landscape), relaxation and travel. 
+    * If you are a woman, you will enjoy your gender and all its gifts. If you are a man, you will have deep respect and appreciation of women (mother, wife, daughter, etc.).
+
+- star: TianFu
+  palace: Pleasure
+  inHouseWith:
+    - - TianKui
+      - TianYue
+  auspices: Negative
+  comments: |
+    * You will be haunted by minor chronic medical complaints.
+    * This will cause you to develop empathy for those who suffer. 
+    * You will live with an injury or trauma that shapes your sense of enjoyment.
+
+- star: TianFu
+  palace: Pleasure
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    * You are predestined to enjoy travel, flirting, country living and spiritual matters.
+    * You (male) are a ”Ladies Man”. You (female) like the attention of men. 
+    * You are a cross-dresser. 
+    * You are a psychic, clairvoyant and/or often seek their advice. 
+    * You enjoy the blues, morbid operas and/or sad melodramas. 
+    * You enjoy nursing the sick or aged. You are charitable. 
+    * You are all the above and it confuses you. 
+    * In your old age you will enjoy being alone.
+
+    When the Moon appears in the Pleasure Palace with any powerful or supportive star you will take great pleasure in your intuition, aesthetic and spiritual sense of things.
+
+    * You will enjoy school, art, music and ritual. 
+    * You will enjoy romantic love and spiritual devotion. 
+    * You will be an enthusiastic audience and/or modest artist. 
+    * You enjoy history, fiction and theatre (drama). 
+    * You are inspired by landscape (fengshui) and the wilderness.
+
+    When the Moon appears in the Pleasure Palace with any afflicting star (the above still applies but ...)
+
+    you will be shy and/or wary in matters of enjoyment.
+- star: TanLang
+  palace: Pleasure
+  inHouseWith: []
+  auspices: Mixed
+  comments: |
+    * You will get little enjoyment from popular entertainments (art, media, music and culture).
+    * You are Ebenezer Scrooge. 
+    * Your personal life will be tormented by your uncontrolled (unconventional) sexuality. 
+    * If there are no other afflicting stars, your difficulties in life will open you up to a personal spiritual path of renunciation (solitude) late (56+) in life. 
+    * Solitude and alienation may open up as a spiritual path. 
+    * You are an austere nun. 
+    * You are into bondage, etc. 
+    * You are all work n no play AND you fail at work.
+
+    ### Combinations:
+
+    When the Wolf appears in the Pleasure Palace with any star gives you a strong sense of personal pleasure that is odd or uncommon.
+
+    * You will reject popular forms of enjoyment.
+    * Independence is your greatest pleasure. 
+    * You will like things that are brand new and soon lose interest. 
+    * Others find you hard and too intense but it is in that way that you find your sense of pleasure. 
+    * Ordinary pleasures often bewilder you.
+
+- star: JuMen
+  palace: Pleasure
+  inHouseWith: []
+  auspices: Mixed
+  comments: |
+    * You will not get deep satisfaction or enjoyment from life because of your mind is so easily distracted.
+    * You can enjoy the two-minute love song – pop-culture. 
+    * You enjoy eating and drinking but this may lead to medical problems. 
+    * You like being in the limelight or the center of attention. You don’t like giving that attention to others or things. 
+    * You are promiscuous. 
+    * You may find pleasure/enjoyment in the social/spiritual guidance of powerful people.
+
+    When the Great Gate appears in the Pleasure Palace with any powerful or supportive star it is the accompanying star that shapes your sense of pleasure.
+
+    When the Great Gate appears in the Pleasure Palace with any afflicting star means you will truly be unable to develop a personal sense of taste or preference.
+
+    * Enjoyment does not develop value in your life; this leads to risky miscalculations (promiscuity, injury, loss and/or illness).
+
+- star: TianXiang
+  palace: Pleasure
+  inHouseWith: []
+  auspices: Positive
+  comments: |
+    * You enjoy community service. You enjoy helping and teaching others.
+    * You are studious and well read (current affairs, philosophy). 
+    * Though you are not artistic, you enjoy community cultural and artistic events. 
+    * You are conventional (classical) in your tastes. 
+    * You will very much enjoy donating to worthy causes. 
+    * You are deeply moved by the rhetoric of justice and idealism.
+
+    ### Combinations:
+
+    When the Tutor appears in the Pleasure Palace with any powerful or supportive star your sense of enjoyment will always involve generosity and a sense of inclusion.
+
+    * You enjoy education (of character), writing, service to others and expressions of idealism.
+    * Justice, fairness, equality and goodwill towards others are central to your sense of enjoyment.
+
+    When the Tutor appears in the Pleasure Palace with any afflicting star your sense of enjoyment will be haunted by failures, criticism and excessive devotion to ideals.
+
+    * Though courageous and generous you will feel occasionally blocked or distracted by circumstances.
+    * Your enjoyment of life comes after mid-life. You are a strict parent but fun-loving grandparent.
+
+- star: TianLiang
+  palace: Pleasure
+  inHouseWith: []
+  auspices: Exalted
+  comments: |
+    * You will get enjoyment from travel and vacationing in the countryside.
+    * You will enjoy your work (work at home). 
+    * You will dabble in the arts (decoration). 
+    * You will enjoy being at home, physical exercise and non-competitive sports. 
+    * If there are no afflicting stars, your work and hobbies may pleasantly overlap. 
+    * You will be a collector.
+
+    ### Combinations:
+
+    When the Roofbeam appears in the Pleasure Palace with any positive star you are able to appreciate landscape, architecture (fengshui), art and music at a very deep level.
+
+    * You have a broad and unprejudiced sense of culture and art (universal enjoyment).
+    * Though modest in expression you have a joyful life. 
+    * You enjoy good design. You can take unlimited pleasure in the good fit of your shoes.
+    * You understand how pleasure networks to all beings/things. You can give people “new sight” – a fresh look.
+
+    When the Roofbeam appears in the Pleasure Palace with any afflicting star you are unable to express your joy easily but though this holds you back it does not inhibit your inner joy.
+
+    * You can always see the brighter side. You appreciate the birdsong outside your prison cell.
+    * You develop influence/joy slowly. As you grow older the inmates begin to see as you see.
+
+- star: QiSha
+  palace: Pleasure
+  inHouseWith: []
+  auspices: Negative
+  comments: |
+    * You will have an “all work and no play” life.
+    * Your sense of enjoyment gets you into trouble (addiction, injury, and crime). 
+    * You are sadomasochistic. 
+    * Impulsive behavior undermines your intention to include others. You are unintentionally rude and anti-social. 
+    * You enjoy S&M. 
+    * If there are other afflicting stars, you may end up in prison. 
+    * You are Michael Jackson. All the above is due to the promptings and obstructions of the unsettled dead.
+
+    ### Combinations:
+
+    When the 7 Killings rules the Pleasure Palace it is likely you will be drawn to high-risk (danger, promiscuity, drugs, S&M) behaviors in seeking pleasure.
+
+    * You will overdose on recreational drugs. You will commit suicide. You will suffer a genetically inherited handicap. You will be serious injured/handicapped.
+    * You will enjoy restraint, fear-based morality and/or seclusion. These attributes are mechanisms of survival. 
+    * You are often “out-of-control” and/or drawn to others that are. 
+    * You enjoy harming others. You are the executioner. 
+    * If you achieve a long life you will feel like a true “survivor”.
+
+    When the 7 Killings appears in the Pleasure Palace with any other afflicting star you will die amidst a tangle of conflicting emotions and be devoured by ghosts and demons in the moment of death.
+
+- star: PoJun
+  palace: Pleasure
+  inHouseWith: []
+  auspices: Negative
+  comments: |
+    * You will be possessed of Pojun that has an “all work and no play” outlook.
+    * You enjoy an almost masochistic sense of seriousness and struggle (Pojun died accidentally while enjoying him/her self). 
+    * You enjoy martial arts training, strength training and self-discipline. 
+    * You take pleasure in serious anti-social behavior (political demos, militia, civil disobedience, gang violence). 
+    * If there are other afflicting stars, you will end up feeling sad, desolate and isolated. If you fail to resolve Pojun (establish lightheartedness, courage to enjoy) before you die you will “join” the ghost as an orphan ghost in the transitory states.
+
+    ### Combinations:
+
+    With any positive star you will enjoy struggle, alternative behaviors and being marginalized.
+
+    * Your irresponsible behaviors contain a life lesson. You will live with a reversible neurosis.
+    * Your distrust (fears) causes you to abandon people and situations before they can develop into pleasure. You enjoy life through a series of should-have’s and could-have-been’s. 
+    * Your inhibitions and miscalculations about enjoyment can be transformed by midlife.
+
+    With any other afflicting star you will stumble through a lifetime of miscalculations as to what is pleasurable.
+
+    * You may die from a search for an external source of pleasure.
+    * You die swallowed up by conflicting emotions and become a ghost.
+
